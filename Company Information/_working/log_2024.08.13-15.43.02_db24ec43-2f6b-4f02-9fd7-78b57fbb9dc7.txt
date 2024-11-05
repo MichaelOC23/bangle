@@ -1,0 +1,146 @@
+YELLOW: [ N:15:43:02, C:0:00:00, I:0:00:00 ] 
+PDF Files to Process: ['/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.3 Project Spring NPS Score Data.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.6 Related Entities.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.2 Project Spring – Transaction Structure Chart.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/1.1.1 Project Spring - CIM vF.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.4 Project Spring M&A Targets (March 2024).pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.5 Key Employees.pdf']
+
+YELLOW: [ N:15:43:02, C:0:00:00, I:0:00:00 ] 
+Image Files to Process: []
+
+YELLOW: [ N:15:43:02, C:0:00:00, I:0:00:00 ] 
+Office Document Files to Process: []
+
+CYAN: [ N:15:43:02, C:0:00:00, I:0:00:00 ] 
+Beginning processing of 6 files.
+
+NC: [ N:15:43:02, C:0:00:00, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.5 Key Employees.pdf
+
+NC: [ N:15:43:02, C:0:00:00, I:0:00:00 ] 
+Begin extracting text from '2.1.5 Key Employees.pdf'.
+
+NC: [ N:15:43:02, C:0:00:00, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.5 Key Employees.pdf'
+
+NC: [ N:15:43:02, C:0:00:00, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.5 Key Employees.pdf'
+
+NC: [ N:15:43:03, C:0:00:01, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.5 Key Employees.pdf'
+
+NC: [ N:15:43:04, C:0:00:01, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.6 Related Entities.pdf
+
+NC: [ N:15:43:04, C:0:00:01, I:0:00:00 ] 
+Begin extracting text from '2.1.6 Related Entities.pdf'.
+
+NC: [ N:15:43:04, C:0:00:01, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.6 Related Entities.pdf'
+
+NC: [ N:15:43:04, C:0:00:02, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.6 Related Entities.pdf'
+
+NC: [ N:15:43:05, C:0:00:03, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.6 Related Entities.pdf'
+
+NC: [ N:15:43:05, C:0:00:03, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/1.1.1 Project Spring - CIM vF.pdf
+
+NC: [ N:15:43:05, C:0:00:03, I:0:00:00 ] 
+Begin extracting text from '1.1.1 Project Spring - CIM vF.pdf'.
+
+NC: [ N:15:43:05, C:0:00:03, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/1.1.1 Project Spring - CIM vF.pdf'
+
+NC: [ N:15:43:29, C:0:00:27, I:0:00:24 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/1.1.1 Project Spring - CIM vF.pdf'
+
+NC: [ N:15:43:41, C:0:00:39, I:0:00:11 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/1.1.1 Project Spring - CIM vF.pdf'
+
+NC: [ N:15:43:41, C:0:00:39, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.4 Project Spring M&A Targets (March 2024).pdf
+
+NC: [ N:15:43:41, C:0:00:39, I:0:00:00 ] 
+Begin extracting text from '2.1.4 Project Spring M&A Targets (March 2024).pdf'.
+
+NC: [ N:15:43:41, C:0:00:39, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.4 Project Spring M&A Targets (March 2024).pdf'
+
+NC: [ N:15:43:43, C:0:00:41, I:0:00:01 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.4 Project Spring M&A Targets (March 2024).pdf'
+
+NC: [ N:15:43:46, C:0:00:44, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.4 Project Spring M&A Targets (March 2024).pdf'
+
+NC: [ N:15:43:46, C:0:00:44, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.2 Project Spring – Transaction Structure Chart.pdf
+
+NC: [ N:15:43:46, C:0:00:44, I:0:00:00 ] 
+Begin extracting text from '2.1.2 Project Spring – Transaction Structure Chart.pdf'.
+
+NC: [ N:15:43:46, C:0:00:44, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.2 Project Spring – Transaction Structure Chart.pdf'
+
+NC: [ N:15:43:47, C:0:00:44, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.2 Project Spring – Transaction Structure Chart.pdf'
+
+NC: [ N:15:43:48, C:0:00:45, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.2 Project Spring – Transaction Structure Chart.pdf'
+
+NC: [ N:15:43:48, C:0:00:46, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.3 Project Spring NPS Score Data.pdf
+
+NC: [ N:15:43:48, C:0:00:46, I:0:00:00 ] 
+Begin extracting text from '2.1.3 Project Spring NPS Score Data.pdf'.
+
+NC: [ N:15:43:48, C:0:00:46, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.3 Project Spring NPS Score Data.pdf'
+
+NC: [ N:15:43:48, C:0:00:46, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.3 Project Spring NPS Score Data.pdf'
+
+NC: [ N:15:43:49, C:0:00:47, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.3 Project Spring NPS Score Data.pdf'
+
+GREEN: [ N:15:43:54, C:0:00:51, I:0:00:04 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.3 Project Spring NPS Score Data.pdf'.
+
+GREEN: [ N:15:43:54, C:0:00:51, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data_clean.md'.
+
+GREEN: [ N:15:43:54, C:0:00:52, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.6 Related Entities.pdf'.
+
+GREEN: [ N:15:43:54, C:0:00:52, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/2.1.6 Related Entities_clean.md'.
+
+GREEN: [ N:15:43:54, C:0:00:52, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.2 Project Spring – Transaction Structure Chart.pdf'.
+
+GREEN: [ N:15:43:54, C:0:00:52, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/2.1.2 Project Spring – Transaction Structure Chart_clean.md'.
+
+GREEN: [ N:15:43:55, C:0:00:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.5 Key Employees.pdf'.
+
+GREEN: [ N:15:43:55, C:0:00:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/2.1.5 Key Employees_clean.md'.
+
+GREEN: [ N:15:43:55, C:0:00:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/2.1.4 Project Spring M&A Targets (March 2024).pdf'.
+
+GREEN: [ N:15:43:55, C:0:00:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024)_clean.md'.
+
+GREEN: [ N:15:43:55, C:0:00:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/_attachments/1.1.1 Project Spring - CIM vF.pdf'.
+
+GREEN: [ N:15:43:55, C:0:00:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF_clean.md'.
+
+GREEN: [ N:15:43:55, C:0:00:53, I:0:00:00 ] 
+All documents processed.

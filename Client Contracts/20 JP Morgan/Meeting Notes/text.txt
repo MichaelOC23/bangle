@@ -1,0 +1,573 @@
+Yeah, that was absolutely right.
+And then can I just ask is I know so I can't remember is it both?
+case and JP Morgan that the experience is in or is it just JP Morgan?
+It's just so this one's just taking more in shapes. So this one is the self-directed the experience that we have is the self-directed
+These are the people that ran that were in charge of what we did for you invest and self-directed trading so
+the Robo and the portfolio builder. This is Polyangia and that's also where parents go.
+I showed Hannah the
+J.B. Morgan private bank research screens and she said that those were fin-centric. Is that correct?
+the research which ones? The private for the private part of the bank.
+Yeah, so Kate, maybe if you want to go outside, I think they're helping out.
+Kate, if you want to go on a little bit more about the exact thing, but it is the racial group
+purchase site on Jeep and we're in chase so I don't I believe it is the private well-management group
+But we don't deal with the advisors side at all. Correct. And this is part of what they call their discovery.
+experience and so we posted a number of
+pages like their their mark
+page. There are quote pages.
+We have an analyst research page where we actually pull from their CIV API on the website.
+the JP Morgan side. We powered a little
+third for them.
+I did one window here too and we put it in the slide.
+post their ADR.com
+site which is a separate group so Paulie
+Just because it might.
+Yeah, so here's where we sit with Paul. He reports into Kristen, who is now her
+At least my group has never interacted
+with women.
+You have two colleagues.
+Mary and Lake? No.
+Mary Ann Leake was one of
+woman that Jamie had pitted against each other at one time. It was Marion Lake, like Jennifer Kip Sack.
+and Jennifer Neeson remember if you remember that.
+I'm Mary Erdos. So Mary Ann
+won the battle for this consumer and community bacon. She was co-CEO of Jennifer Pipsacko.
+And Jennifer is running a different side of the business, right? No, no, no.
+So, yeah, Jeff is the investment bank and then Mary...
+And it seems this, the what seems best in here,
+Was this lady who I thought she sounded really, really chaz-like this script. And then as soon as you asked her any questions, she didn't know anything. Her summary of the business and what Jamie had told her to do, which was to expand by... I think she's a former CEO.
+on your assets and the management she went through. Yeah, and then as soon as I asked her any questions, it was like she didn't know any of the answers.
+Yeah, that's really weak. I think it's because she used to be the CMO. Oh, she was the CMO. Yeah, of course that's it, isn't it?
+I wrote the script down perfect.
+Rise.
+Right, so it's unlikely but it could still pop up in the private domain.
+No, well, that's what she's doing this is
+They might be using our IPS for this are those market summary chairs the same ones that are on cheese
+If it is, I just want to clarify that would it be under Polynandria still?
+But they'd be framing in the components that we built for
+Yeah, can you get to the markets over your page here?
+This was a full bounce out to something.
+the markets over you paid
+was basically
+What is this?
+And I'm going to go to the one below.
+Yeah.
+This looks... But you're still in the private bank here. Yeah, no, no, but that's where that was the question.
+Yeah, I wanted to compare it to the chase experience. It's possible they've... I don't think this is us.
+But.
+Interesting, okay.
+Um...
+Who is it then? Because this is... This is like everything we do.
+If it's not us.
+I think they're building it in half.
+with your, with Fintendric APIs? They have APIs, right?
+If you have access to you guys.
+Drew lands like one of those.
+We need to pull this up side by side with the chase experience.
+Oh, what? You ever got access to the chasing spoons? No, no. We're done. Oh.
+It's because of Michael's posh.
+Okay. Alright, let's keep going.
+Boom.
+I will just say I don't think that there are any as a being elsewhere.
+because we are fairly clear with them if they're playing on these and then also that they let us know.
+Thank you.
+something that since we've been since Kate and I have been on the account we haven't tried to voice it so I will
+We'll double check with Lakshmi our technique to make sure that there's like issues aware of it anywhere.
+I mean, do we have...
+we find out that
+actually using the APIs or data in different areas without being like
+I think we're not tracking for a while.
+We lost several meters trying to get off and gather our coldest back exactly where things have been being used across our clients. But how would you know?
+So Apigee Enterprise API Gateway, which all of our APIs have mostly been moved to, now tracks analytics at the granular level. So we do have awareness. It doesn't happen with components, but it has happened in the past with APIs. Something we've tightened up on dramatically. Yeah, but I still want to have how do you know.
+because we're looking at the usage in Apigee. It comes with that out of the box capability. That's the API gateway.
+if it's still like JPMorgan and Chase are in the same data center, it's just different.
+just look like more of the same? More of a sign. Yeah, that's what I'm saying.
+I'm good.
+And then we have the expectation of what the volume usage will be. And if things start spiking and doubling in size every single day, that would be the indicator. One of the ways that we actually have in kind of tracking is if they start asking questions about it and they're like, this is where it's being used.
+and how we've been learning about some of the
+use cases to get to that kind of question of how do we know it's, you know, the context saying, oh yeah, this is being used here, we didn't know we couldn't use it there. And so, you know, just point blank ask them at times as well.
+We're the reason the API's only searching for the numbers. They're a lot of crazy. Well, as a programer.
+I think what she's saying is if
+b-ball if this was reversed i can see this is the same noticing it because the private bank is ten thousand users in the and the and chases
+200 million. So you would see the difference. But with adding the private bank to the chase?
+You're not going to notice.
+Yeah.
+You're not going to say it from a volume point of view. Yeah. Yeah, so any of the older ones, I will say that the newer contracts, we do try to save this API bill for X if anywhere else you want to use, like it has to be, like, you know, we have to do this in the commercials. Like we do moving forward, that has been something the last few years, but I think for a long time it was.
+And that was something that a lot of these were built just for a good kind of
+So search and service team, you know how they're building things that now it's okay. It can't be built that way
+Yeah, and I think there's two reasons to really try to figure
+this out. Well, one, if they're obviously out of contract, we would want to know that.
+But if there's another market data vendor in there for the private bank, we would really work with them.
+to know that and then all
+on the, like they have had for the longest time a
+initiative to basically take the investments that they made in the case.
+digital experience and deliver them to the private bank which
+customers which were on the painless experience for the longest time.
+I just saw it at the tail end and I think you saw it for some time.
+They did finally get the Chase experience to work for it, but their whole thing is it's actually like a logo. Their mission is almost a logo color swap from a digital perspective between the private bank and Chase.
+So I was calling it out because if that's the initiative and there's another vendor in there,
+We really want that one.
+Thanks for watching!
+No, I agree. Okay, all right, we've done
+Why yeah, cuz one thing I'm noting is
+happiness.
+So
+Yeah, I think in general they are day to day contacts and everyone is
+happy with us.
+constant
+they're happy with the team and have everything that's going forward, but I wouldn't say that they're like.
+Jumping to the bridge.
+worth.
+But I do think in general they're happy with this.
+I think we, and something that we just kind of
+with a lot of the conversations over the last eight months with our contacts.
+We're kind of discovering that our contacts
+And the helpers, you getting things through are kind of blocking us from the real decision makers.
+He's kind of, he is technically an executive director, but he does block a lot of the work from us from getting to the real people that we actually want to have the conversations around and work with.
+in general, but he likes us, but he I think wants to keep a lot at his level instead of expanding it upwards. I think the upwards is where we want to kind of get more
+the happiness to work up with them is kind of a kind of scribe it. And is he the highest one? No Paul is the highest. Oh and Paul is the highest. No Paul is. So Ilya actually and that's what I was going to show you on that. He sits down here. Yeah. Like he's an executive director down here. Yeah.
+So it goes him to Christine, to Andrea, to Paul. And you know, Billy and I have a lot of the
+time and we're pushing new things he's like yeah he's like I can't really tell you a bunch of things
+And so it's very like, it's very like, halting of this is how it's going to be and I can't go to Andrew and ask for that money. I can't do this and it's...
+He kind of walks as he keeps us at that level really and Ilya is really focused on
+on the goals and initiatives that have been handed to him and that he knows about. He's much less interested in new ideas, blue sky type of things. And that's usually what we hear from Paul.
+Right. Show me more. And so as Sarah mentioned, Ilya, based on how he manages the work on
+his leg and then the goals that he has can sometimes block us from
+going above and beyond.
+Let's do this. So get a call in to Jennifer and to Salston for five minutes of her time and call in what you and I need to do is put this map up and say who are the individuals
+These are the people that are classically dealing with who are the influencers, who likes us, how do we accelerate this to be a bigger relationship? But Jennifer will definitely tell us who they're all those people are. And whenever we meet with Paul, he loves the ideas, he says, why don't you put these in front of me sooner? And then he caveats by saying, my team has limited time.
+That his own team has limited bandwidth meaning yeah
+I know.
+Paul is also the one.
+I just remember that was always like complaining that I paid too much.
+Yeah, that's never come up in this yeah, it's for my
+that was like we need to reconsider the value of you in that.
+The thing that Paul cared about is that we are critical in the trade order flow.
+And so if there's even a blip, if one
+You know, it's one API failure. I actually did. Did you say that one of the things that I noticed on my program called Talk was when they fucked up the video thing?
+When they didn't start the split. When they didn't, yeah, they come from a stop split, correct? Yeah, we talked about this, I think, on site in Boulder. So that was a Morningstar issue. Yeah, I know, but the thing is, in that case, if it was you,
+If you really had that, then I...
+I use it in the private hangover.
+I think that those, at least for the quotes, that those are APIs.
+I'm calling I think we need to do
+get a license to use whether they like is that we noticed you
+Well, except that...
+Kate, do me a favor, take it away, let's understand where the APIs are used. I do think they have a mechanism to do so from the tech side.
+Um...
+But I was just going to say, John, most of the industry uses the same feeds, but it very likely was us.
+Mmm
+Bye.
+Also just for clarity, we can build a
+there's another branch of where Mary said
+that's Mary in the Pirate Bank.
+has like the high net worth price
+And they sit on different sides of the house because that varies in like wealth and asset management, non-consumer, communication,
+Yeah, yeah, yeah, yeah, I'd encourage you from business.
+I mean, I had the branches in there, that's the thing.
+Yeah, that's right. I didn't want it.
+It's everything about Chase Private Client, which is...
+I think 500,000.
+and balance.
+Okay.
+Is there anything that you think that Paul and Andrea will want to talk about?
+like bring up or anything in the meeting that we should discuss.
+Any recent issues, Kate?
+Sorry, most of them. Any reason?
+issues?
+We've seen things looking relatively good.
+So nothing that's standing out to me at this point.
+Last three months.
+I mean we had issues with the crowd strength stuff.
+We're addressing immediate, medium term loans.
+So they do have details on that plan.
+That's really it.
+up as a larger issue that we had some follow-on calls.
+Wasn't the options? Were we having issues with the options space and then the option is looking right now and trying to see if we can get it all from the vendor?
+Um, I think that was a
+What we are looking at is
+They are using
+morning's turn data while their options
+experience that we host is using facts of data and so we're trying to look at if we
+We could just use one...
+for both to consolidate data.
+on how exactly that would work.
+And any renewal
+Is there anything more concerned?
+Yeah, um, so
+that we should definitely have in Collin.
+love to kind of get your thoughts on it there. Right now, the renewals
+So the subscription SAS rule is set for December 31st that they, which is historically called hosting for them. They're fairly sensitive to increases around that just due to previous contracts, we're ending up like it won't increase until end of next year.
+But the subscription services part of that rule is not set in right now is does turn in December 31st. So we need to kind of, I had not sent him any numbers. We kind of propose how we would.
+And so we're trying to kind of reframe that for them of, no, we can build anything here, but if it could have increases that we would be able to do.
+and you need to accommodate. And so with that, and I think that's where some of the conversations with Paul.
+And
+services team will handle and so they don't think that they need to really be involved. They think Ilya has an animal but will
+We need to kind of bring their attention through all of these kind of new approaches. No, they have it on the road map, but that still will come with increases or additional.
+And so those are kind of a lot of conversations that need to start happening in the next few months because 1231 is fast-searching for them. Yeah. Well, one in.
+calling in that.
+It's happening.
+Okay.
+Anything you think we missed today that's important for tomorrow?
+No, I don't think so.
+No, no, I think I'm good. So...
+This is the way we're sort of really talking about
+So let's start.
+I mean, unless we want to... Unless there's a pipeline.
+here and they're interested in doing more round options.
+There's a couple proposals in front of them.
+Yeah, so we have, we have kind of two bigger ticket items that they've been asking about that they have separate proposals for that both include one time services and subscription to ask for them.
+One is the options tools and one is the mobile experience for them and they have all in their hands
+I think it's just a matter of how to get those over the finish line and out of their brand that will be handled by their retainer subscription services team, which it really can't be. I think the auctions one, we gave them a pretty good present like proposal earlier this summer and a few.
+And I think I did send that to you.
+I think that is one of the reasons.
+you know again it's gaining their excitement because usually when Paul says yes it happens it's getting it to Paul to say yes is where we struggle. Right, right. I have a lot of people on
+this project.
+10.
+Yeah, it's a 10 person retainer and we're currently
+month. So that's the team.
+Okay
+Lovely. This was super helpful. Thanks, Sarah. Thank you.
+Did you and did you see Sarah started to do three way three there for you
+Bye.
+Good job.
+The guy has COVID, so it's been changed to a virtual now for 30 minutes at 3.30. So we've got about 40 minutes.
+But I'm gonna get to do a guide and then continue on.
+Paul also sent an email either, was that to you Colin? He sent a nice email to you. Yeah, it was a response to that.
+But that across like for yeah, I think it was emphasizing how important Yeah, we should just that language
+John's brain.
+and
+Small issues are a big deal to them, so I'm verifying with Clint that he has the same view. Yeah, thank you.
+And they were pretty upset about our recovery on CrowdStrike. How about that?
+Like more so than any other car.
+Oh my gosh. Michael, you have to see this? Clint just sent me this that he...
+He found that they were troubleshooting a problem this morning.
+the
+It's stir-perceiving.
+That's pretty funny.
+It's scary, but what's John's point legacy tech? Yeah, there's a there's there's me
+in the West Side of the country.
+which is really, really scary.
+Thank you.
+I believe
+You and I are going to see a fellow at Wells Fargo tomorrow alone.
+Oh.
+I heard earlier in the week somebody said, oh we're...
+We have Deborah Jones at this time, so we're sending Renee a call in. We should verify that.
+Okay.
+Let me see who it is.
+Good.
+You're not even on it.
+Do you have that meeting at 9am?
+I didn't mean to do this.
+Alexander, you did?
+have your regular contact.
+Somebody new.
+Do you want me to resend you the wells? I put my favorite material on the wells, I think.
+Right, because we prepped for the...
+Yes.
+you
+Okay.
+Head of...
+Well, is it the case that Colin and I are going to see you well as tomorrow?
+Just the two of us at 9am? No, now we can go. The issue before was that it was at the same time as the David Chewback meeting, but I think now he's not on conflict.
+So, just jump going to the relevant.
+Yeah, I think I think you need to prep him because I don't
+Yeah.
+conversation. Got it. Yeah, I don't think I was in the ball prep either, Gianna.
+And then we also I think you can finish it off for Friday.
+We shall know that...
+So we're going to just put a pep on for Wells and Schwab.
+hahaha
+We can... yeah.
+I'm making my job harder you guys.
+You can put one on at, um, directly after this Bebo call.
+Who do we need to prep for gloves?
+Ryan.
+Thank you.
+If that's the case, should I go get my suitcase now?
+Yeah, I'm concerned.
+You're welcome.
+Um...
+Let's include Scott on that.
+Yes, that's the worst.
+Can you stand still?
+The Allison
+today
+Yeah, listen to his song. He said he's the...
+as insight into that.
+Yeah, no, I think it's just because Alex was the one that.
+like this technically may want
+I'll be right back.
+Okay, why don't we
+Okay, I've added Scott.
+I need to add less far though.
+Who needs to be on the prep rules as far as I know?
+Ryan McKay and Gary Zandstra.
+You got a warrant around here.
+Zandstra?
+Let's put something in the API which actually asks to identify yourself.
+I'm not getting other.
+If you're easy, I'm just trying to pick up it. Yeah. Yeah, I got his email here.
+Sorry.
+songs so quickly.
+We need to do it.
+Um...
+And I'm sorry, what other prep did we need to add?
+She said that you could work a swab.
+Well, we did. We technically prepped for Schwab.
+ahead of the Katie Ryan meeting that got canceled. We just need to refresh on it. It's been a couple of weeks. Yeah, I don't think that counts. I would put a prep on for tomorrow. Okay, so we're going to do that then at
+Let's do that tomorrow.
+And who needs to be on the line?
+for you.
+my head.
+Same time.
+Any time.
+I'm just going to untie them up very lucky.
+Yeah
+That's true. I know.
+It's totally a gym.
+with my sister's house when her kids were really little.
+This doesn't happen much now, but I used to call it when her kids would all start getting tired and not that scary naked hour because everyone would just all of a sudden be running around naked and screaming and crying. I'm like, I need time for me to leave a scary naked hour.
+Because you know kids just get like insane like yeah, like they sort of it's like until I pass out
+I'm like, oh god, I gotta get out of here.
+That's Sarah and Sally and Alex Carroll with the strong.
+Thanks, Sarah.
+Carol
+Close your eyes.
+from the kid.
+Oh.
+That was a yes.
+I'll have a tune there.
+I'm wondering how we do need a space to work in.
+for it to be doing it.
+Ugh.
+Do it, do it. Just like the rich common dude, a day and a half like rent.
+And you went on for that even then.
+I'm gonna tell she can.
+Day for a room.
+Well you know, you could just say, I'm staying overnight.
+I think we need to keep a room even for care.
+for the whole night.
+You wouldn't have time anyway to go.
+Well, the thing is...
+I'm gonna stop.
+Alright, who else in the game injects chocolate? Collin, what judge do you have in that bag?
+Give me your toughest stuff. Come on.
+I'm gonna slap her in the face, help. Okay, you go. You go first, I'll see how it reacts and then I'll go.
+Yeah, test it out, test it out.
+No
+Jon's sleeping.
+out back from the wind.
+Yeah, I thought I was looking at me as the first
+So what am I doing?
+I'm not the one to break first.
+What?
+This is good though, this is lower sugar
+For the whole bag it's only three cans of sugar.
+It makes you happy.
+You need harder drugs available. What else do you have?
+That's me in the entire county.
+Tanya, did you hear that?
+Can I ask me some questions?
+Is that me now?
+I need to sign some, I need to sign a new rain spoiler for you. I just wanted to make sure that you're okay with this. You want to have more than 10 minutes for me to practice a demo for you. Yes, can we, I'm just making sure that you're running.
+So what he means for shawl, she's already signed off. So that's just pretty straightforward.
+Thank you.
+Okay.
+I might be right there. Okay. Did you book this room?
+I ate a bit of flour.
+I probably wouldn't let someone this in because of his office. I was awkward.
+We can actually do it right here.
+So where I'm at, okay, is that...
+Gee, um...
+push. I was like, I want to do something different. I want to reinvent how data is delivered to clients. It shouldn't just be charts and this and that. Like clients need to ingest things in a way that they want to consume it the way they can consume it the way they can understand it. So hence was when I was there, we called it stock stories and then I think it became marketed and it definitely got a lot bigger after I left. But I love the fact that
+It started with a challenge. It was like come back with something and what they came back at the first was it was kind of like a little bit of a tweak to the right or left. I was like not even close. The team went back, a combination of our team at the firm and whatever they were.
+were called at the time, clustered on demand that they still were marketing.
+And what was born was something great. And then of course it's just the regular everything beyond that. And I'm sure we'll get into, you know, there's the maintenance, there's the upkeep, there's the uptime, there's all the things that
+need to of course unequivocally work all the time in addition to all the innovation and creativity.
+I like that. I'm just going to have my admin reach out to the next company just to make sure. Enjoy.
+No, it was.
+So how long have you been at the bank? Have you been here a long time?
+No, so Paul and I joined actually the exact same day, the exact same minute, almost three years ago.
+not work together previously. During garden leaves we had maybe three zoom calls that was kind of COVID, prime time COVID.
+And it feels like we were together for centuries. No, he asked how long I've been at the farm and I said we joined. Same day, same minute. At the front desk, are you you?
+Everybody assumed we had worked together in prior life.
+They still are like, wait, you guys didn't work together before? That's how well it worked. Yeah, that's a great sign, right? That is a good sign. And we're almost exactly three years to the day. We're like a few days away. Oh wow. I feel like I've worked with Colin 30 years. Whoops, I have. Colin says 400. Yeah, yeah.
+It's a mismatch.
+He might have to reach in. We should just continue. He's a smart guy. He'll pop in and grab him. Well, we can do another meet as well. I mean, hopefully this won't be our last meeting. It depends what I say.
+Yeah, and you know that's interesting because we're you know, you know the only thing I'm really interested
+interested in is innovation. Obviously it always has to work but I actually really like actually the projects that I like getting involved with the ones that are trying to make a difference.
+And one of the things you know, I've got so many contacts in JP Morgan is like embarrassing the term Christine who Is funny or poor parent managers in private bank in LA? I played tennis with us twice a week and so, you know I get her insight into you know How how she functions and she tends to look after like the billionaires type people and she you know And one of the things that you know, we talk about which is always fascinating is like here is a part of a market where
+you know, whether it's mass or very high net worth individuals. You don't really provide commentary. A little bit like on your story, we like the concept of what we call portfolio news, which is news that is contextualised against who you are.
+And then basically today, we've got engines that we built that can contextualize news from price feeds and your portfolio to give you short stories that are more readable. And also when you make them playable as well, which is even more interesting, you can get your playable news, hit the play button when you're brushing your teeth and now you can hear what your portfolio is up to. And the overhead cost of doing it is actually very light. Where if you actually got Christine to write a portfolio, you'd have to be, you have to be worth $6 billion before it makes sense for her to write you a report. And I'm going seriously, that much is about that.
+Okay.
+I won't be having any more
+lifetime. But with computers you can actually have deterministic type algorithms, not chats, cheap with GPTs, hallucinates, gone mad, but you can actually do similar things that can give you very precise answers in a consistent way that you can pass through any regulator. That's where we see a lot of the future. Obviously, we're a big believer in digital referrals and all the things are said at the beginning, but there are a lot of other things that are coming through. What we do do, I didn't even bring a book with me. Have you got your book? I will say the contextual news and actually news that matters is hard right now. There's a lot of news with the ticker kind of look through, but it's not the news that matters always. So I don't think the engines have
+perfected. No. And I think where people
+I always think it's where you start looking at your news. I mean, for me, when we're training our engines, we start literally from what you look like you're interested in. And the only way you can determine that is if you actually see what you look at.
+Our engines, we actually track what you look at. So when you come in, we're actually looking at what you're looking at. It makes sense. Obviously, Google and all the big boys do this on your phone.
+I don't think it's cool at all because you don't know they're doing it. But what we do is like, you know, this is a book, I'll send it, it's an internal book but I'm happy to share it with
+Um...
+you guys under NDA. But this will give you some examples on here. But what we probably best to do is come have a look at this. And if there's individual areas that you're interested in, let's set up a capabilities session and we'll take you through this.
+And it's super interesting. It's just beyond some of the things that we've recently gone through. Right, so it's going to showcase both the community side that's highlighting client portfolio data as well as our fit-centric. Yes. Very familiar with. So what page numbers do I go to? 10 is the market apps. Yeah, so if you go through here, you'll see all the market apps that you will know and love.
+Yeah, so you'll see that in one part. Vivek, my apologies. This is my brain cannot remember to...
+Dial in from literally on the other side of this wall. So my bad. So you only missed everything We did intros Did a little bit of history maybe John just a little bit of your quick synopsis for 30 seconds on The integration of both companies would be helpful for the back into that maybe do a quick intro as well if you don't mind, please Yeah, that would be great. All right, what in your first?
+Yeah, by the way, I can't, for some reason, I can't see you guys, so hopefully you can see me. Yeah, we can see you. Let me see what's going on here, but keep going. We look great. Just trust us.
+You can't see us because we can see ourselves through the screening.
+And maybe something. Why don't we both dial right back in?
+Okay.
+those guys.
+You guys in for the week? Yeah, we've been, we've been bossed.
+sacrifice the week do it all right
+Pretty much, yeah. How about now?
+Perfect, I can see everybody now.
+helps.
+I can introduce myself, basically. I'm, you know, Madhav.
+I have been with GPMC for more than two years now.
+industry for
+more than 25 years.
+a lot of experience on developed as well as institutional training site.
+Nice, and where were you before the vet?
+Oh, you're very right, more with Sunny, cool. Excellent.
+Alright, um, why don't we do it quick?
+Sure, yeah. Do you want to go back? I think we have no you matter. Yeah, nice to see you
+So I'll start. Hi, Rebecca. I'm Noelle. I am our EVP of sales at Communify. I've worked with this crew for the past
+last seven or so years and I'm super excited to be working with the Renee and the rest of the Fincentric team as well now.
+I'll pass to you Michael. Great. Michael Smith, I run business development here at Communify at Finncentric and I've been working with John for about the last and Colin for about the last
+15 years and was along with one of the founders of the former company.
+And this company. And this company, yes.
+Hi, Vivek, I'm Colin.
+president of the company, deep relationships with changing orbit, including having worked here.
+in the 90s and
+and through the Invest Cloud experience, and these days responsible for the nurturing of our client relationships, particularly the big ones.
+Yeah, that's me. Okay. And I'm John Wise of Vivek and I'm obviously one of the founders with Colin and Michael of Invest Cloud and
+obviously, community. We have a common theme in our thinking about how we see the digital communication of two clients and how do you automate clients and how do you manage clients. And typically it was always around client data, although market data was super important. We're sort of best known
+I actually didn't cover this so we're probably best known. In the early days I was a gaming programmer, that's how I started life.
+Unfortunately, I went into financing instead. One of my friends stayed in gaming and is my next door neighbor. But he has a bigger house because he wrote Grand Theft Auto. And so if anyone says there's no money in gaming, they were wrong. And I actually said there was no money in gaming.
+Anyway, but we've always looked at things of like, how do you digitally improve your life? And it's easy to say because obviously digital is a big sub-subject, but it's a little bit harder to do and we've sort of pioneered
+things like digital referrals, digital education, and investment rewards and all these things. I'm just giving you a quick thing of what we've actually done in terms of how do you deploy digital. Invest Cloud had at the end when we were there 6.4 trillion of assets on our cloud. And that was worldwide all the way from Australia, Hong Kong, Singapore, all the way across the planet. So we were live. And what Paul said, probably the most important thing is how do you run a platform at scale and keep it up every day. And that took a lot. Because we're running across all the time zones that you could think of and that's a lot of equipment. And then the team who run it, Nicole, who is an awesome human being, is now also with us when we did Fincentric. And the reason why we thought about Fincentric is because
+We always believe that if you can combine contextualized client data with market data, you could run more interested information. When FinCentric came on the market with S&P, we were super keen to do a deal with them. They have a lot of core infrastructure at scale as well.
+and most people don't realise but they actually do have a few international sites as well. Our ambition for
+the Fincentric side is to be the biggest distributor of market data globally. And the hardest market in the world, the most sophisticated market in the world is the US and direct investment is the area. And then to do that overseas as well will be a core challenge for us. We do want to keep in the domestic market. Obviously, we're all based in America. So this is always going to be our headquarters. And obviously, all of our clients this week were going around to say hello to all the clients from the Fincentric side. So I think there's something like 17 meetings. The first meeting was Monday morning, 9 o'clock.
+In Boston. We're a very large client.
+So other than that... Can I guess who that was?
+Yeah, exactly.
+exactly who that is. So, and you know, really what we were talking about was capabilities and you know, I always say seeing is believing it's people can talk about certain things but you can't see them. And what would be probably useful for you guys in educational and even if you didn't look at these other things is just to see what is capable. Obviously the fin centric stuff, all the stuff that we're doing for you, we're continually going to keep with big projects. So we will do huge custom projects with people. We're talking to a new one right now in New York.
+which is a massive project. It's called Nottingham. They have an ambition to compete with somebody else.
+and so we will keep.
+Yeah, so basically we all keep big projects, we like big projects, we're very happy with them. But also we're very happy with little projects where we basically sell apps that are contextualised and therefore you don't have to take the whole thing, you can take little bits of things. Because we know, we realise that a lot of people have a lot of capabilities internally. They might not want to do the heavy lifting of building this thing that we've already built and is mature, they do want to control the rest of the experience and how do you plug it in in a sensible way. And we've been used to doing this for years, so both things will play out for us. Both very highly productised widgets or components or apps, whatever you want to call them. And also the big projects where people say, we want to do, and it's really funny, this week it's really split down the middle between people just saying, no, we want you to do everything for us and can you take it more. And then other people say, no, we want to control it and we want to have lots of widgets. Is this more of your framed in experience versus API's effectively? Yeah, a little bit. Yes, exactly. And it is, but it also is some components that can be live in your user experience, but not in an iframe type way. So basically there's many ways that you can actually combine the assets together. Iframe is obviously the worst. You can do that. And also you can't get a lot of contextualisation as you move into those things. And the reality, what I think people should do is contextualisation is everything for a great user experience. As soon as you drop out of that, you're just doing something different. And then when you come back, it's like you logged into two systems. Okay, you didn't, but you might as well have done. I mean, the old days of I'm full-shy bank with you guys, but I was so banked with the unfortunate bit. I also banked with city. And city, when you can do it, it's brutal. It's your sort of like banking stuff.
+If you want to make a wire, you're in a totally different universe. And if you want to look at your brokerage account, it is so different. And you go, ah.
+who's doing this to me and then my banker would say, why don't you leave more of a wallet with us? I'd go, have you seen your system? We're making our case.
+Anyway, that's pretty much what I think that's where we got to wasn't it? Yeah, I think that was pretty much it and that one thing we were talking about was we talked about you know obviously at the years They work with 90% of the street when it comes to our direct, you know, self-directed space and beyond self-directed And we're talking about the balance of how much not into it too deeply But while it's great to be innovative and we want to be able to put new products out there, you know, what's table stakes is uptime runtime everything is in general that is mostly
+the case most of the time the problem is when it happens the fraction of 1% of the time that's what everybody remembers. I mean you know the crown strike thing. I'll be very honest with you in the past going back
+many generations before because I was part of all these institutions. It was virtually like clockwork. Great work on the innovation side. Then we'd have a hiccup similar to what happened recently. There'd be the kick in the ass and then things would be fine for two to three, four years. Then it would happen again. Then there would be the next kick in the ass. And then we'd work with the technology would say, we can't stand this anymore. How do we fix this? This can't happen. Let's figure out how to do it a different way. And then like that roller coaster is not good for anyone. So, and with that, I'm sorry, you were gonna say something.
+You know, I was just going to echo the same sentiment, right? It's great that you are the new owners
+and investing in innovation, but I think resiliency is key for us. This is a very key part of, and not just resiliency of, within ThinCentric, but I think you guys depend a lot.
+on vendors that provide you information and just holding them accountable because the crowd strike kind of
+I want to say it took everybody a surprise, but at the same time, specifically for us, the impact was outsized for Penncentric. And I know it was not in your control, but your vendors also
+contributed to it so that would be a big big theme of investment if you were going around and
+asking each of your clients that would be number one on our list is make it more clear.
+We do understand that. We've sort of doubled down our load.
+Our CEO who used to run that area in Invest Cloud, Nicole, we've almost like, we have good people in concentric. Nicole will bring even further discipline around that area.
+and she's not the cheapest person that we have, but we understand that running it every day is core to us. So have you had a lot of, other than Crown Strike, which obviously I'm completely aware, have you had other problems as we've been running? There have been over the last couple of, over the last three years that we've been here, it's happened several times. Okay. Yeah, there's been a blast. Yeah, I think, yeah, I would also, again,
+in moment response has been okay. I won't call it great.
+I think post-event response could improve a lot.
+Again, I'll give you an example of Crumb's right right we've been asking for RCAs for
+over a month now. And we finally, I think, received this week.
+I mean that's not the quality that I would expect out of
+I'm going to look this not gonna go and I'll from an unqualified maybe opinion or assessment from what I saw from
+crowd strike was we were and again I know this is not a crowd strike meeting but since it's one of the bigger issues of late we were very very very aware of it starting at 6 a.m. like when everyone when we woke up here yeah yeah and
+We started have here we had all the engines humming at 6 37 o'clock and we knew this was one of the issues bike Whatever was 6 45 7 o'clock was the only thing that we knew on our side was down and You know we were reaching out and it seemed like to me I know Renee you were awesome like you were great Correspondents, but it felt like to me was this like a two-hour time difference between the East Coast and Boulder were people Not at 6 a.m. Our time is I think 4 a.m. Boulder time and I don't know this may be You guys can say at 7 a.m. Eastern when this stuff was hitting the fan at 5 a.m. Boulder time Everyone was on it like every like anything. It just felt like to me The magic started happening at like 10 30 11 o'clock our time markets already open for an hour Everything was kind of fixed by 11 15 11 30 by and large and I'm like, well, that's a coincidence It's 9 o'clock there and I'm just kind of been doing this a long time and when the people are there stuff gets fixed when people are not there things don't get fixed
+Unqualified assessment, but I can just say what I saw and like the machine seemed to be like really humming at 9 o'clock 930 your time, and I know we were talking well before then but I think I'm in agreement. There's a lot of lessons learned and you know I think
+I'm you know, Vivek, I I had understood that we have delivered an RCA many weeks ago, so we will definitely
+follow up.
+But there's improvement areas here. Yeah, I mean, I was in direct touch with you, responsive. I remember at like 10 o'clock you were like, by 11, 11 30 is going to be up and running. And in my mind, I'm like,
+That's great, but like 1130 needed to be 930. Yeah, of course. Or even before 930, but at the very latest.
+Yeah, well I mean you know we always take the opinion you have to work market time whenever life
+time is in the time zone that you're in. I think that one of the things that I will say
+what we found running a global platform there is no downtime because when you build your infrastructure across the world, the truth is you always have somebody who's watching it because you're in Hong Kong, Singapore and then suddenly you're in the Middle East and then suddenly you're in Europe and suddenly you're in Europe. And we're not live with extended hours trading it. We will be in about a year or so. So then it becomes even more crucial. It becomes even more critical.
+Yeah, yeah, no, no. Well, thanks for bringing it up because we'll look at that and see what happened or see when I will be with that.
+As we say, you have to stay in business before you grow your business. The thing is, the key thing for all of us here.
+is that the businesses, you know, we didn't pay a lot of money to buy something that...
+We try and make any sense to us at all and we're very confident that we can add to this business including on things like resilience and practices and how do you fail over and all those things. You guys on the other side now are doing well.
+before that we were pretty good on that. So, sort of stuff. I mean from our vantage point, going back to Wallstern and then market on demand and centric.
+We know what it is that you guys can offer and if there are to your point bolt on things that communicate and add to that equation We'd love to as time goes on. Yeah learn more about it, right because it's been
+It's a great compliment. It's not an easy business to be in. But it has to work. We have to be creative. We have to be innovative. As Andrea and I say, our business, besides account opening and the branches, it's trade. It's monitor and discover. Trade is trade. Monitor is how people monitor, how they do account management. And discover is what we call research and content. And without that research and content, people are just flying in the wind. So they need to validate to your point. They need to discover and create new ideas. ideas and they do it in a way that it's
+Other than things like the story thing, by and large there has not really been a disruption in a long time. Maybe there does not need to be a disruption. I'd love to see some innovation in this space. I think we're one of the few firms that can embrace innovation because our business is relatively small compared to the big firms. We will be big, we will be huge. We know that because of who we are. And we need to grow traditionally, but we also need to grow in a way that's a little non-traditional too. And I think we're one of those firms that's right to do that. Well, I think for you guys,
+you know, the key thing is digital education and also investment rewards. I mean, you guys could do that easily. Investment rewards is by taking a sort of like a 30 second, one minute course. And we built, just so you know, we have a full plan that builds video stuff for investors because they're not very good at it typically. And they,
+and we now
+how to do that and we actually link it into your point system. So the more educated a person is, the more likely that your discovery thing. Discovering things through a lens of being educated is different from looking at something without any real understanding because we're, I think the financial markets do an above average job of confusing everyone with massive names that don't mean anything. Re-hypophication, how about that for a name? And that's obviously, this guy's got a lot of problems in my opinion that are very ethical in the way that they do.
+got implemented. But you can educate people and you should look at those sort of things that we can do. And again, the reason why we do all the videos, we live in LA. You know how easy it is to get people who shoot videos. It is like ridiculous. We even ended up, for some of our really large clients, doing their corporate videos. That's not what we signed up to do. And a lot of these mentions
+here. I think it's great for Andrea and I and go back to hear it. You know after we finish this meeting obviously we'll stay in touch on things that we need to stay in touch about. Like then the other 99% happens with our teams right. It's not just the day-to-day execution and the resiliency and the uptime but then it's the creativity and the innovation. And that's where whether it's the Christines or the ILLIES of the world or SIDS and their team this is like our core team that works on this stuff. That's not even the tech team. It's like how do we
+keep them not just energized but interested and educated on the things that you guys can do because we take our cue from them. I mean I've got a lot of history in doing this at many institutions but like I've purposely like
+step aside and let the team do the things that I used to do years ago. But I want them to have that same advantage that I had. And again, it's different times, but and then these are some great people that really understand it. But if they have to be inquisitive, they have to
+pull but I think you guys have to push too. Absolutely. At the end of the day, one of the things I always want to do is make sure none of our clients who we love can't turn around and say,
+You know, John why didn't you show us this? We've just seen this through a composition, we know you did it, we found out you did that. I always say, I came up and I said exactly the same thing to all of you. One firm just embraced it and you didn't. And now you're in catch up mode and I've, you know, many times in my life I've been in that situation where someone phoned me up and said, why didn't you tell us? And I go, I did.
+Since we're one of I think one of the few firms that can actually
+be a little bit irreverent in doing things a little bit different in addition to remaining traditional because you have to because the clients still want to see it in a personal way. I mean maybe there's a way when the time is right to get together with the teams and have whatever type of kind of innovative breakout session and then you know and then
+I would love to know where the idea comes from, some level of exclusivity and things like that when the idea comes from our focus. Totally. One of the things that we're really good at when we do things that are, it's actually your idea and you've asked us to implement an idea that is always your idea and then we keep it
+there were other people, you know, one of our things that we like doing is that we like dreaming off platforms and building books like this that we build for us just so we can show you what it could be. A lot of people are in trouble, sort of visualizing. My wife, well, I love building houses and stuff like that.
+ridiculous. But my wife has a massive problem with everything she looks at. She can't see it, but I already can see it. And it's only when it's built and she goes on. This is rather impressive, isn't it? All the way through she's bitching and moaning about, you know...
+What the hell is this going to look like? And it's hard to see. And I think that level of
+innovation, doing it in a different way where it makes sense can be helpful for what we do.
+The key is for us to stay focused on who we're trying to win over. They're the cheese customers. They're people who are investing. So we can get distracted. And it's hard for us to win. Again, we need to stay super focused on the product and the clients that we're
+we're after and so while I do love more of the video and rewards and other things like it could drive but
+We need to take the approach of we're certain that people will use it and embrace it because we have a limited capacity. And so we're trying to be super laser focused on core needs with innovation sprinkled into deliver on their core needs within our experience. And then out years we can definitely play with. But we're a starter business in some regard. We're six or seven years old with
+a massive opportunity, but it's for us to win. And I think our different, and we talk about this all the time, our differentiators between
+our branches, our proprietary research, and the other things that come with a combination of everything that JP Morgan
+organ chase as proprietary wise, again including the branches, the
+trust, they would love to figure out a way to take a combination of things that are differentiators and infuse it into that experience in a simplified way that they can really
+digested and then utilize it in a way to help them make validator decisions, new idea decisions in ways that you just can't get it from CNBC or Yahoo!
+We partnered really closely on Explore, right? That is, we believe kind of shelf space that's more of a carousel view that lets people group things together mentally, dive into screeners and pre-describe things if they have that intent. But we really now have a structure that we work together on.
+being able to tag things with themes. So we have a shelf space to be able to innovate on the Explore side. Awesome. One of the things that I need to jump, it was really nice meeting you and hopefully we can strengthen the relationship. Apologies for the beginning again my bad.
+One of the things just to be how we see the life is what we call horizon. So horizon one is like everything the client does today and horizon one is your number one focus. So it's the experience but these are Jeffrey Moore things. So horizon two is like
+What will happen next year on Horizon 3 is like over there and you know, I don't know if you know Jeffrey Moore, but he's the guy who consulted to Apple. So, you know, we get the latest iPhone. We think that's it. But in reality, they've got a team who's on Horizon 3, Horizon 2 and Horizon 1. And we think the same way. I mean, I don't know if you've read his books, but Jeffrey Moore crossing the chasm, escape velocity. This one will buy it. You can't take gifts, can you? Under a hundred bucks. All right. That's good. It used to be 25.
+I think it's once a decade or so. Do you have a, like in terms of the definition of success in terms of the client base, is there a
+And obviously you have a huge chase has a huge list of clients. Is there a demographic that you're really trying to
+convert? Is it new clients? Is it existing clients that don't have brokerage or that have brokerage but are... We don't discriminate, Andrea.
+Yeah, of course we have a very specific target. I would say not on demographic though. So target has multiple dimensions. I'd say the first is
+We're for all of Chase customers, but we won't build the platform specifically for certain segments, but they will find it.
+So we're after affluent, mass affluent, early professional if you want to go the like wealth spectrum.
+If you want to flip it to how they use self-directed or investing capabilities, it's more of
+this engaged a long-term investor, not active traders.
+at least for now. And then the engaged investor
+looks a little bit different with us, right? We want more hybrid or multi-channel
+So we're after our Chase wealth management customers that also have SDI away from us. So we're here to kind of win over some of their wallet.
+and begin to have more of that combination relationship. The digital properties can support both quite easily and we know they're here, right? So we want to grow our current client base.
+1.6 million clients and so we're here to deepen with those clients as well.
+And if you just think about it, sorry about that.
+I went footsie with you in that way.
+And if you think about our
+client base and the numbers that we have versus H. Schwab and some of the other firms that have
+around for years and years, the potential to Andrea's point is unlimited. Except...
+inertia and traction to move is very tough. Yeah. So that is on us to build a great experience and again I've
+spending six years at V of A Merrill, I know it's possible because we did it. Yeah, yeah. Doesn't mean you push a button and they all come, but when you ask them,
+35 times over a two-year period and you give them offers and you say that we have a great experience and we offer that we have some differentiators that you can't get at x y and z They will start to try you and then when they try you if they like you they will do more with you
+And it's rinse and repeat and rinse and repeat and then all of a sudden you go from the $50,000 average account size to $100,000 account size because the market has helped but they've delivered more assets to you. That is the recipe and that's what we do.
+we will do, but we can't do it without that three-legged stool, the trade monitor, and discover, and discover being an important and integral part of that. And an important connected journey, because our Chase customer base is 80 million digitally active customers. It used to be one in three Americans. I feel like it's ticking up more than 2 and 1.5 probably.
+So lots of people have kind of trust in the brand. And so this digital investing all in the pocket.
+is really the game that we're at, right? We're right there. I think you're well ahead of most other banks in terms of banking, credit cards, investments. Yeah, and so that's where, you know.
+We will deliver. And I think the hardest component when Andrew and I started that same minute three years ago, there was a great team of people. I'm sure you guys know a bunch of them that were here.
+really good product managers, relatively young in their careers, not a lot of
+experience. We've blended
+some of those great folks that were here then with some great talent on the outside that have done this with Andrea and myself over the last
+20, 25 years with deep experience at some of the named firms that I mentioned before that.
+They're almost like, come in, it's turkey, they know what to do. So, obviously you've worked with a bunch of them.
+Awesome. Thank you so much, Rit.
+Yeah, so yeah, so listen let's we've got we've got a lot to do Yeah, the plant has to run first and foremost and absolutely after the plant continues to run perfectly then it's about building and building innovating and
+delivering what our clients are looking for and daring to be a little different where it makes sense.
+Yeah, I mean we'll look at obviously the Brazilian thing, we'll look at it when I look into that.
+And then when you're ready to look at, maybe, we'll send you the electronic book anyway and then you can have a look at it.
+If you want to see capabilities, very happy to get a team in of experts who can talk to whoever. Your team, yeah. And show you what is possible, what we're doing. I mean, one of the things I did mention is the low code environment, how we build things, because we don't write a lot of code.
+We actually generate a lot of code and it makes us super, super fast at doing it because even the team, like the size of the team we built, you invest or if you guys went way back in the day, it was only six people. It wasn't a big team and then we built huge systems.
+with very little code. Because forever, when you look at the permutations that Invest Cloud had, we had over 10,000 different user experiences worldwide in...
+remember how many languages but a lot of languages and you sort of say how do you do that when you don't do it via coding it's too slow right so you know those sort of things and the latest generation of that is pretty cool
+if I say myself, and you should just be aware of what's possible because people always say, wow,
+That's different because traditionally the front end of a lot of stuff that Finn Centric has done that has been very coded on a core platform which is the same for everyone but that is a coded experience. In time we will do less coding even then because you can do it quicker.
+and quite frankly better because you know the way that we generate you generated code can be super more efficient than your top programmer because we actually
+It's a weird thing, you write the code by hand by the best person but when they ask for that widget it looks like it's generated, it was already there. But it's how you put them all together. It's worth seeing that stuff because it is pretty cool.
+Anyway, thanks for your time.
+Thank you.
+Thank you, same here, same here, same here.
+briefly met him sometime ago. How's he doing? He's good, yeah, honestly. He's got his new gig. Yeah, yeah, yeah. I read up on him quite some time ago. I actually seen David Laidman today. Oh, well please tell myself it's been a while. I was getting very good mention, you lucky boy.
+especially when you said George Hader too early. That was a throwback. I'm sure he has some stories of Mitch and Jared and the different stuff. Thanks again for everything.
+And thanks for a couple of weeks ago for like, I know you were pushing a lot of buttons, so thank you.

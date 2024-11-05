@@ -1,0 +1,58 @@
+YELLOW: [ N:20:39:07, C:0:00:00, I:0:00:00 ] 
+PDF Files to Process: ['/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.2 00114869.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.1 The Financial Times LTD - MA.pdf']
+
+YELLOW: [ N:20:39:07, C:0:00:00, I:0:00:00 ] 
+Image Files to Process: []
+
+YELLOW: [ N:20:39:07, C:0:00:00, I:0:00:00 ] 
+Office Document Files to Process: []
+
+CYAN: [ N:20:39:07, C:0:00:00, I:0:00:00 ] 
+Beginning processing of 2 files.
+
+NC: [ N:20:39:07, C:0:00:00, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.1 The Financial Times LTD - MA.pdf
+
+NC: [ N:20:39:07, C:0:00:00, I:0:00:00 ] 
+Begin extracting text from 'FinTimes-3.6.1.7.1 The Financial Times LTD - MA.pdf'.
+
+NC: [ N:20:39:07, C:0:00:00, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.1 The Financial Times LTD - MA.pdf'
+
+NC: [ N:20:39:11, C:0:00:03, I:0:00:03 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.1 The Financial Times LTD - MA.pdf'
+
+NC: [ N:20:39:15, C:0:00:07, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.1 The Financial Times LTD - MA.pdf'
+
+NC: [ N:20:39:16, C:0:00:08, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.2 00114869.pdf
+
+NC: [ N:20:39:16, C:0:00:08, I:0:00:00 ] 
+Begin extracting text from 'FinTimes-3.6.1.7.2 00114869.pdf'.
+
+NC: [ N:20:39:16, C:0:00:08, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.2 00114869.pdf'
+
+NC: [ N:20:39:18, C:0:00:10, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.2 00114869.pdf'
+
+NC: [ N:20:39:22, C:0:00:14, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.2 00114869.pdf'
+
+GREEN: [ N:20:39:30, C:0:00:22, I:0:00:07 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.1 The Financial Times LTD - MA.pdf'.
+
+GREEN: [ N:20:39:30, C:0:00:22, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/FinTimes-3.6.1.7.1 The Financial Times LTD - MA_clean.md'.
+
+GREEN: [ N:20:39:30, C:0:00:22, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/_attachments/FinTimes-3.6.1.7.2 00114869.pdf'.
+
+GREEN: [ N:20:39:30, C:0:00:22, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/07 The Financial Times/FinTimes-3.6.1.7.2 00114869_clean.md'.
+
+GREEN: [ N:20:39:30, C:0:00:22, I:0:00:00 ] 
+All documents processed.

@@ -1,0 +1,3082 @@
+YELLOW: [ N:19:03:55, C:0:00:00, I:0:00:00 ] 
+PDF Files to Process: ['/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.2 MSA Santander.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.1 00156062.pdf']
+
+YELLOW: [ N:19:03:55, C:0:00:00, I:0:00:00 ] 
+Image Files to Process: []
+
+YELLOW: [ N:19:03:55, C:0:00:00, I:0:00:00 ] 
+Office Document Files to Process: []
+
+CYAN: [ N:19:03:55, C:0:00:00, I:0:00:00 ] 
+Beginning processing of 2 files.
+
+NC: [ N:19:03:55, C:0:00:00, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.1 00156062.pdf
+
+NC: [ N:19:03:55, C:0:00:00, I:0:00:00 ] 
+Begin extracting text from 'Banco-Santander-3.6.1.8.1 00156062.pdf'.
+
+NC: [ N:19:03:55, C:0:00:00, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.1 00156062.pdf'
+
+NC: [ N:19:05:08, C:0:01:12, I:0:01:12 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.1 00156062.pdf'
+
+NC: [ N:19:05:38, C:0:01:43, I:0:00:30 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.1 00156062.pdf'
+
+NC: [ N:19:05:38, C:0:01:43, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.2 MSA Santander.pdf
+
+NC: [ N:19:05:38, C:0:01:43, I:0:00:00 ] 
+Begin extracting text from 'Banco-Santander-3.6.1.8.2 MSA Santander.pdf'.
+
+NC: [ N:19:05:38, C:0:01:43, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.2 MSA Santander.pdf'
+
+NC: [ N:19:06:03, C:0:02:08, I:0:00:24 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.2 MSA Santander.pdf'
+
+NC: [ N:19:06:21, C:0:02:26, I:0:00:18 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.2 MSA Santander.pdf'
+
+RED: [ N:19:06:21, C:0:02:26, I:0:00:00 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+ANEXO A AL CONTRATO DE PRESTACION DE
+SERVICIOS DE FECHA 8 DE OCTUBRE DE 2020
+(LA “FECHA EFECTIVA”) QUE CELEBRAN POR
+UNA PARTE MARKIT GROUP LIMITED A
+QUIEN EN LO SUCESIVO SE LE DENOMINARA
+COMO “MARKIT”, REPRESENTADO EN ESTE
+ACTO POR MICHELLE LOADER Y POR LA OTRA
+PARTE BANCO SANTANDER MEXICO S.A.
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+CLAUSULAS SIGUIENTES:
+
+TODOS LOS TERMINOS EN MAYUSCULA
+UTILIZADOS; PERO NO DEFINIDOS EN ESTE
+ANEXO E TENDRAN EL SIGNIFICADO DADO A
+DICHOS TERMINOS EN EL CONTRATO.
+
+DESCRIPCION DE LOS SERVICIOS:
+OPERACION Y MANTENIMIENTO
+
+ANEXO A ~- DESCRIPCION DE SERVICIOS
+ANNEX A — DESCRIPTION OF SERVICES
+
+ENGLISH
+
+ANNEX A TO THE AGREEMENT FOR THE
+PROVISION OF SERVICES WITH EFFECTIVE
+DATE OF OCTOBER 8, 2020 (“THE “EFFECTIVE
+DATE”) BY THE PARTY MARKIT GROUP
+LIMITED. WHO SHALL HEREINAFTER BE
+REFERRED TO AS THE "MARKIT",
+REPRESENTED IN THIS ACT BY MICHELLE
+LOADER AND BY THE OTHER PARTY BANCO
+SANTANDER MEXICO S.A., INSTITUCION DE
+BANCA MULTIPLE, GRUPO FINANCIERO
+SANTANDER MEXICO, WHO SHALL
+HEREINAFTER BE REFERRED TO = AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE ERNESTO
+VEGA CENDEJAS AND RICARDO ZAPIEN
+GARIBAY IN ACCORDANCE WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+ALL CAPITALIZED TERMS USED’ BUT NOT
+DEFINED IN THIS ANNEX E.SHALL HAVE THE
+MEANINGS GIVEN TO SUCH’ TERMS IN THE
+AGREEMENT.
+
+DESCRIPTION OF SERVICES: OPERATION
+AND MAINTENANCE
+
+| ee t |
+
+proceso de transformacién para mejorar sus
+capacidades digitales bancarias para clientes
+privados, lo que permitira a
+"SANTANDER" reforzar su posicién en el
+mercado. Como parte de este proceso de
+transformacién, "SANTANDER" hastomado
+la decisién de implementar una selucién de
+inversién (la "Plataforma") para Usuarios
+Finales y Asesores.
+
+LUZ "MARKIT" _ proporciona’ el
+desarrollo, operacién“y~ mantenimiento de
+una solucién de-\Nistializacién y analisis,
+multiproducto ysmulticanal que se integra
+con los -sistemas back-office de
+"SANTANDER", de acuerdo con los
+requisitos) y’ especificaciones y por encargo
+de "SANTANDER". La Plataforma esta
+compuesta principalmente por la interfaz y
+experiencia de usuario (UI/UX),
+visualizacion de “customer journeys” y
+funcionalidades de analisis. Ademas,
+"MARKIT" integra y proporciona datos de
+"SANTANDER" y de otros Terceros en la
+
+s INTRODUCCION INTRODUCTION
+
+1.1. Contexto y Objetivos Estratégicos de | “SANTANDER” Context and Strategic Objectives
+“SANTANDER”
+
+1.1.1 "SANTANDER" est4é inmersa en un| “SANTANDER” is embarked in a transformation
+
+diseilo, | “MARKIT"
+
+journey to improve its banking digital capabilities for
+private clients enabling “SANTANDER” to strengthen
+its position in the market. As part of this transformation
+journey, “SANTANDER” has taken the decision to
+implement a digital investment solution (the “Platform”)
+for End Users and Advisors.
+
+provides the design, development,
+operations, and maintenance of a multi-product, multi-
+channel research and insights solution which is
+integrated with “SANTANDER”’s back-office systems
+according to the requirements and specifications and on
+behalf of “SANTANDER”. The Platform is mainly
+comprised by the user interface and user experience
+(UI/UX), workflows visualisation and analysis |
+functionalities. In addition, “MARKIT" integrates and
+delivers data from “SANTANDER” and other Third
+Parties in the Platform.
+
+The items that are specifically out of scope of this
+Services are detailed in section 1.3. of this Annex A.
+
+
+Confidential
+
+Plataforma.
+
+Los puntos que estan especificamente fuera
+del alcance de estos Servicios se detallan en
+la seccidén 1.3, de este Anexo A.
+
+“SANTANDER” provides user, product and portfolio
+data, and the necessary back-office functionalities.
+
+Overview of Services
+
+Teli3s "SANTANDER" proporciona datos de
+usuarios, productos y carteras, asi como las
+funcionalidades de back-office necesarias.
+
+1,2. Descripcién General de los Servicios
+Los Servicios = proporcionados _ por
+“MARKIT”  incluyen la __ operacién,
+
+mantenimiento y soporte de la Plataforma,
+asi como la puesta a disposicién de la
+infraestructura (hardware) necesaria y su
+integracion con los sistemas back-office de
+“SANTANDER”. “MARKIT” _ opera,
+mantiene, hospeda la Plataforma e integra
+
+diversos datos, conforme al detalle que se
+
+describe en la seccién 4 y 5 de este Anexo
+
+A.
+
+Los Servicios de alojamiento y operacién de
+
+“MARKIT” incluyen:
+
+a) Soporte de operaciones y monitoreo 24
+horas, 7 dias a la semana, 365 dias al
+ano
+
+b) Soporte y gestion de fuentes de datos
+
+c) Soporte las aplicaciones y
+funcionalidades (software)
+
+d) Gestién continua del proyecto
+
+e) Control de calidad
+
+f) Recursos de distintos equipos
+
+g) Control de uso de la plataforma y
+reporte
+
+h) Analiticas
+
+i) _Escalabilidad de los sistemas
+
+DESCRIPCION FUNCIONAL DE LA
+PLATAFORMA
+
+MVP
+Canales
+La Plataforma estara compuesta de paginas
+web-responsive.
+
+The Services provided by “MARKIT" consist of the
+operation, maintenance and support of the Platform, as
+well as the provision of the necessary hardware
+infrastructure and integration with “SANTANDER”™’s
+legacy systems. “MARKIT" operates, maintains, and
+hosts the Platform and supplies the required data as
+specified in section 4 and section 5 of this Annex.
+
+The hosting and operation Services from-“MARKIT”
+include:
+a) 24/7/365 operations support, monitoring
+b) Data feed support and mariagement
+c) Application and functioriality support (software)
+d) Ongoing project management
+e) Quality assurance,
+f) Team resources.
+g) Usage tracking and reporting
+Analytics
+i) System-scalability
+
+FUNCTIONAL DESCRIPTION OF THE PLATFORM
+
+Channels
+The Platform will be composed of web-responsive
+pages.
+
+Capacidades de Servicio al Cliente
+
+Customer Service Capabilities
+
+i, Documentos: La Plataforma proveera a los
+Usuarios Finales de documentos relevantes
+tales como contratos,propuestas e informes
+de mercado, asi coOm6 funcionalidades de
+
+busqueda.
+ii. Soporte en las~primeras conexiones: La
+Plataformass® encargara de proveer de un
+tutorial para ‘que el Usuario Final entienda el
+funci6namiento de la misma la primera vez
+que “se conecta. Cada vez que se incluya
+cualquier funcionalidad adicional se
+procedera de la misma manera.
+Capacidades de Gestién de Cartera de
+Inversion
+
+Documents: The Platform will provide End Users with
+relevant documents such as contracts, proposals and
+market reports, including the correspondent search
+functionalities.
+
+Support on-boarding: The Platform will provide a
+tutorial for the End User to understand how it works the
+first time it engages. Each time any additional
+functionality is included, it will work the same way.
+
+Portfolio Management Capabilities
+
+Y
+
+Cd
+
+Resumen: La Plataforma proveerd a los
+
+Summary: The Platform will provide End Users with a
+
+2/37
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:06:22, C:0:02:27, I:0:00:01 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+ANEXO A AL CONTRATO DE PRESTACION DE
+SERVICIOS DE FECHA 8 DE OCTUBRE DE 2020
+(LA “FECHA EFECTIVA”) QUE CELEBRAN POR
+UNA PARTE MARKIT GROUP LIMITED A
+QUIEN EN LO SUCESIVO SE LE DENOMINARA
+COMO “MARKIT”, REPRESENTADO EN ESTE
+ACTO POR MICHELLE LOADER Y POR LA OTRA
+PARTE BANCO SANTANDER MEXICO S.A.
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+CLAUSULAS SIGUIENTES:
+
+TODOS LOS TERMINOS EN MAYUSCULA
+UTILIZADOS; PERO NO DEFINIDOS EN ESTE
+ANEXO E TENDRAN EL SIGNIFICADO DADO A
+DICHOS TERMINOS EN EL CONTRATO.
+
+DESCRIPCION DE LOS SERVICIOS:
+OPERACION Y MANTENIMIENTO
+
+ANEXO A ~- DESCRIPCION DE SERVICIOS
+ANNEX A — DESCRIPTION OF SERVICES
+
+ENGLISH
+
+ANNEX A TO THE AGREEMENT FOR THE
+PROVISION OF SERVICES WITH EFFECTIVE
+DATE OF OCTOBER 8, 2020 (“THE “EFFECTIVE
+DATE”) BY THE PARTY MARKIT GROUP
+LIMITED. WHO SHALL HEREINAFTER BE
+REFERRED TO AS THE "MARKIT",
+REPRESENTED IN THIS ACT BY MICHELLE
+LOADER AND BY THE OTHER PARTY BANCO
+SANTANDER MEXICO S.A., INSTITUCION DE
+BANCA MULTIPLE, GRUPO FINANCIERO
+SANTANDER MEXICO, WHO SHALL
+HEREINAFTER BE REFERRED TO = AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE ERNESTO
+VEGA CENDEJAS AND RICARDO ZAPIEN
+GARIBAY IN ACCORDANCE WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+ALL CAPITALIZED TERMS USED’ BUT NOT
+DEFINED IN THIS ANNEX E.SHALL HAVE THE
+MEANINGS GIVEN TO SUCH’ TERMS IN THE
+AGREEMENT.
+
+DESCRIPTION OF SERVICES: OPERATION
+AND MAINTENANCE
+
+| ee t |
+
+proceso de transformacién para mejorar sus
+capacidades digitales bancarias para clientes
+privados, lo que permitira a
+"SANTANDER" reforzar su posicién en el
+mercado. Como parte de este proceso de
+transformacién, "SANTANDER" hastomado
+la decisién de implementar una selucién de
+inversién (la "Plataforma") para Usuarios
+Finales y Asesores.
+
+LUZ "MARKIT" _ proporciona’ el
+desarrollo, operacién“y~ mantenimiento de
+una solucién de-\Nistializacién y analisis,
+multiproducto ysmulticanal que se integra
+con los -sistemas back-office de
+"SANTANDER", de acuerdo con los
+requisitos) y’ especificaciones y por encargo
+de "SANTANDER". La Plataforma esta
+compuesta principalmente por la interfaz y
+experiencia de usuario (UI/UX),
+visualizacion de “customer journeys” y
+funcionalidades de analisis. Ademas,
+"MARKIT" integra y proporciona datos de
+"SANTANDER" y de otros Terceros en la
+
+s INTRODUCCION INTRODUCTION
+
+1.1. Contexto y Objetivos Estratégicos de | “SANTANDER” Context and Strategic Objectives
+“SANTANDER”
+
+1.1.1 "SANTANDER" est4é inmersa en un| “SANTANDER” is embarked in a transformation
+
+diseilo, | “MARKIT"
+
+journey to improve its banking digital capabilities for
+private clients enabling “SANTANDER” to strengthen
+its position in the market. As part of this transformation
+journey, “SANTANDER” has taken the decision to
+implement a digital investment solution (the “Platform”)
+for End Users and Advisors.
+
+provides the design, development,
+operations, and maintenance of a multi-product, multi-
+channel research and insights solution which is
+integrated with “SANTANDER”’s back-office systems
+according to the requirements and specifications and on
+behalf of “SANTANDER”. The Platform is mainly
+comprised by the user interface and user experience
+(UI/UX), workflows visualisation and analysis |
+functionalities. In addition, “MARKIT" integrates and
+delivers data from “SANTANDER” and other Third
+Parties in the Platform.
+
+The items that are specifically out of scope of this
+Services are detailed in section 1.3. of this Annex A.
+
+
+Confidential
+
+Plataforma.
+
+Los puntos que estan especificamente fuera
+del alcance de estos Servicios se detallan en
+la seccidén 1.3, de este Anexo A.
+
+“SANTANDER” provides user, product and portfolio
+data, and the necessary back-office functionalities.
+
+Overview of Services
+
+Teli3s "SANTANDER" proporciona datos de
+usuarios, productos y carteras, asi como las
+funcionalidades de back-office necesarias.
+
+1,2. Descripcién General de los Servicios
+Los Servicios = proporcionados _ por
+“MARKIT”  incluyen la __ operacién,
+
+mantenimiento y soporte de la Plataforma,
+asi como la puesta a disposicién de la
+infraestructura (hardware) necesaria y su
+integracion con los sistemas back-office de
+“SANTANDER”. “MARKIT” _ opera,
+mantiene, hospeda la Plataforma e integra
+
+diversos datos, conforme al detalle que se
+
+describe en la seccién 4 y 5 de este Anexo
+
+A.
+
+Los Servicios de alojamiento y operacién de
+
+“MARKIT” incluyen:
+
+a) Soporte de operaciones y monitoreo 24
+horas, 7 dias a la semana, 365 dias al
+ano
+
+b) Soporte y gestion de fuentes de datos
+
+c) Soporte las aplicaciones y
+funcionalidades (software)
+
+d) Gestién continua del proyecto
+
+e) Control de calidad
+
+f) Recursos de distintos equipos
+
+g) Control de uso de la plataforma y
+reporte
+
+h) Analiticas
+
+i) _Escalabilidad de los sistemas
+
+DESCRIPCION FUNCIONAL DE LA
+PLATAFORMA
+
+MVP
+Canales
+La Plataforma estara compuesta de paginas
+web-responsive.
+
+The Services provided by “MARKIT" consist of the
+operation, maintenance and support of the Platform, as
+well as the provision of the necessary hardware
+infrastructure and integration with “SANTANDER”™’s
+legacy systems. “MARKIT" operates, maintains, and
+hosts the Platform and supplies the required data as
+specified in section 4 and section 5 of this Annex.
+
+The hosting and operation Services from-“MARKIT”
+include:
+a) 24/7/365 operations support, monitoring
+b) Data feed support and mariagement
+c) Application and functioriality support (software)
+d) Ongoing project management
+e) Quality assurance,
+f) Team resources.
+g) Usage tracking and reporting
+Analytics
+i) System-scalability
+
+FUNCTIONAL DESCRIPTION OF THE PLATFORM
+
+Channels
+The Platform will be composed of web-responsive
+pages.
+
+Capacidades de Servicio al Cliente
+
+Customer Service Capabilities
+
+i, Documentos: La Plataforma proveera a los
+Usuarios Finales de documentos relevantes
+tales como contratos,propuestas e informes
+de mercado, asi coOm6 funcionalidades de
+
+busqueda.
+ii. Soporte en las~primeras conexiones: La
+Plataformass® encargara de proveer de un
+tutorial para ‘que el Usuario Final entienda el
+funci6namiento de la misma la primera vez
+que “se conecta. Cada vez que se incluya
+cualquier funcionalidad adicional se
+procedera de la misma manera.
+Capacidades de Gestién de Cartera de
+Inversion
+
+Documents: The Platform will provide End Users with
+relevant documents such as contracts, proposals and
+market reports, including the correspondent search
+functionalities.
+
+Support on-boarding: The Platform will provide a
+tutorial for the End User to understand how it works the
+first time it engages. Each time any additional
+functionality is included, it will work the same way.
+
+Portfolio Management Capabilities
+
+Y
+
+Cd
+
+Resumen: La Plataforma proveerd a los
+
+Summary: The Platform will provide End Users with a
+
+2/37
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:06:23, C:0:02:28, I:0:00:01 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+|
+
+CONTRATO DE PRESTACION DE SERVICIOS DE
+FECHA 8 DE OCTUBRE DE 2020 (LA “FECHA
+EFECTIVA”) QUE CELEBRAN POR UNA PARTE
+MARKIT GROUP LIMITED A QUIEN EN LO
+SUCESIVO SE LE DENOMINARA COMO
+“MARKIT”, REPRESENTADO EN ESTE ACTO POR
+MICHELLE LOADER Y POR LA OTRA PARTE
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+
+ENGLISH
+
+AGREEMENT FOR THE PROVISION OF
+SERVICES WITH EFFECTIVE DATE OF OCTOBER
+8, 2020 (“THE “EFFECTIVE DATE”) BY THE
+PARTY MARKIT GROUP LIMITED. WHO SHALL
+HEREINAFTER BE REFERRED TO AS THE
+"MARKIT", REPRESENTED IN THIS ACT BY
+MICHELLE LOADER AND BY THE OTHER PARTY
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPQ
+FINANCIERO SANTANDER MEXICO, WHO
+SHALL HEREINAFTER BE REFERRED TO\AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE-ERNESTO
+VEGA CENDEJAS AND RICARD@) ZAPIEN
+GARIBAY IN ACCORDANCE\\\WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+CLAUSULAS SIGUIENTES:
+DECLARACIONES:
+L Declara y garantiza “SANTANDER” por
+
+conducto de sus apoderados legales, que:
+
+RECITALS:
+"SANTANDER" represerits.and warrants through
+its legal representatives; that:
+
+Il Es una sociedad andénima debidamente
+constituida conforme a la legislacién mexicana
+y autorizada para operar como institucién de
+banca miltiple, segin consta en la escritura
+publica ntimero 11,085 de fecha 16 de
+noviembre de 1932, otorgada ante la fe del
+licenciado Heriberto José Ponce de Leén,
+Notario Publico 15 de la Ciudad de México,
+cuyo primer testimonio quedé inscrito en el
+Registro Puiblico de Comercio de dicha ciudad,
+con el nimero ciento treinta y tres ayfojas
+cuarenta y seis vuelta, volumen ochenta ly‘tres,
+libro tercero,
+
+It is a public limited ‘company duly constituted in
+accordance with Mexican law and authorized to operate
+as a multi-banking institution, as stated in public deed
+number 11,085ydated November 16, 1932, sworn before
+Heriberto José Ponce de Leén, Notary Public 15 of
+Mexico Gity, whose first original was registered in the
+Publi, Registry of Commerce of that city with the
+number one hundred thirty-three on the reverse of page
+forty-six, volume eighty-three, third book.
+
+1.2 Desde la fecha de su constitueién, ha sido
+objeto de diversos cambios corperdtivos, entre
+los que destacan la fusién de\Banco Santander
+Mexicano, S.A., Instituci6n de Banca
+Multiple, Grupo Finaneiero Santander Serfin,
+como sociedad -filsionante, misma que
+subsistié; y Banca Serfin, S.A., Institucion de
+Banca Miltiple,Grupo Financiero Santander
+Serfin, como*sociedad fusionada y que se
+extinguid;) asi como el cambio de
+denominacién social de Banco Santander
+Meéxieano, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander Serfin, S.A.,
+Institucién de Banca Multiple, Grupo
+Financiero Santander Serfin, la cual consta
+
+Since its establishment, it has been the subject of several
+corporate changes, among which are the merger of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, as a
+merger, which continued; and Banca Serfin, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander Serfin, as a merged company and that became
+extinct; as well as the change of company name of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, by Banco
+Santander Serfin, S.A., Institucién de Banca Multiple,
+Grupo Financiero Santander Serfin, which consists by
+public deed 70,725 dated December 13, 2004, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under |the
+
+1/73
+
+
+Confidential
+
+mediante la escritura publica 70,725 de fecha
+13 de diciembre de 2004, otorgada ante la fe
+del licenciado Miguel Alessio Robles, Notario
+Puiblico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo los folios mercantiles 63,608 y 214,958.
+
+commercial folios 63,608 and 214,958.
+
+Por escritura ptiblica 75,211 de fecha 31 de
+marzo de 2006, otorgada ante la fe del
+licenciado Miguel Alessio Robles, Notario
+Publico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo el folio mercantil 63,608 se hizo constar
+el cambio de denominacién social de Banco
+Santander Serfin, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander, S.A., Institucién de
+Banca Multiple, Grupo Financiero Santander.
+
+By public deed 75,211 dated 31 March 2006, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under (the
+commercial folio 63,608, wherein was recordéd\ the
+change of company name of Banco Santander Serfin,
+S.A., Institucién de Banca Multiple, Grupo™Financiero
+Santander Serfin, to Banco Santander, S»A¢y Institucién
+de Banca Multiple, Grupo Financiero Santander.
+
+14
+
+Por escritura publica 80,610 de fecha 10 de
+abril de 2008, otorgada ante la fe del
+licenciado Alfonso Gonzalez Alonso, Notario
+Publico 31 de la Ciudad de México, actuando
+como suplente en el protocolo de la Notaria 19
+de la Ciudad de México, siendo titular el
+licenciado Miguel Alessio Robles, se hizo
+constar el cambio de denominacién de Banco
+Santander, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander, por la
+de Banco Santander (México), S.A,
+Institucién de Banca Miltiple, Grpo
+Financiero Santander.
+
+By public deed 80,610 dated April 10, 2008, sworn
+before Alfonso Gonzaléz.Alonso, Notary Public 31 of
+Mexico City, acting.as\a replacement in the notarial
+book of Notaria.19-of Mexico City, the holder of that
+office being Miguel Alessio Robles, in which was
+recorded the change of name of Banco Santander, S.A.,
+Institucién “dé Banca Multiple, Grupo Financiero
+Santander,» to Banco Santander (Mexico), S.A.,
+Institucién de Banca Multiple, Grupo Financiero
+Santander.
+
+15
+
+Por escritura publica 88,542 del 18 de dctubre
+de 2012, otorgada ante la fe del licericiado
+Miguel Alessio Robles, Notario-Publito 19 de
+la Ciudad de México, inscrita en/el Registro
+Publico de Comercio de dich’ ciudad bajo el
+folio mercantil 63,608, 8e~hizo constar la
+protocolizacién del yacta de asamblea
+extraordinaria porlaque se hizo constar el
+
+cambio de denominacién del Grupo
+Financiero dé Banco Santander, S.A,,
+Institucién® de Banca Miltiple, Grupo
+
+Financiefo)Santander, para quedar como
+actualthente se encuentra vigente Banco
+Santander (México), S.A., Institucion de
+Banca Multiple, Grupo Financiero Santander
+México.
+
+By public deed 88,542 of October 18, 2012, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, registered in the Public Register of
+Commerce of that city under the commercial folio
+63,608, in which was recorded the protocolization of the
+act of extraordinary assembly which stated the change of
+name of the Financial Group of Banco Santander, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander, to remain currently in force Banco Santander
+(Mexico), S.A., Institution of Multiple Banking, Grupo
+Financiero Santander Mexico,
+
+I6
+
+Por escritura publica namero 87,947 de fecha
+5 de septiembre de 2018 otorgada ante fe del
+
+By public deed number 87,947 dated September 5, 2018
+sworn before Marco Antonio Ruiz Aguirre, Notary
+
+2 FS
+
+ZA
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:06:24, C:0:02:29, I:0:00:01 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+|
+
+CONTRATO DE PRESTACION DE SERVICIOS DE
+FECHA 8 DE OCTUBRE DE 2020 (LA “FECHA
+EFECTIVA”) QUE CELEBRAN POR UNA PARTE
+MARKIT GROUP LIMITED A QUIEN EN LO
+SUCESIVO SE LE DENOMINARA COMO
+“MARKIT”, REPRESENTADO EN ESTE ACTO POR
+MICHELLE LOADER Y POR LA OTRA PARTE
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+
+ENGLISH
+
+AGREEMENT FOR THE PROVISION OF
+SERVICES WITH EFFECTIVE DATE OF OCTOBER
+8, 2020 (“THE “EFFECTIVE DATE”) BY THE
+PARTY MARKIT GROUP LIMITED. WHO SHALL
+HEREINAFTER BE REFERRED TO AS THE
+"MARKIT", REPRESENTED IN THIS ACT BY
+MICHELLE LOADER AND BY THE OTHER PARTY
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPQ
+FINANCIERO SANTANDER MEXICO, WHO
+SHALL HEREINAFTER BE REFERRED TO\AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE-ERNESTO
+VEGA CENDEJAS AND RICARD@) ZAPIEN
+GARIBAY IN ACCORDANCE\\\WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+CLAUSULAS SIGUIENTES:
+DECLARACIONES:
+L Declara y garantiza “SANTANDER” por
+
+conducto de sus apoderados legales, que:
+
+RECITALS:
+"SANTANDER" represerits.and warrants through
+its legal representatives; that:
+
+Il Es una sociedad andénima debidamente
+constituida conforme a la legislacién mexicana
+y autorizada para operar como institucién de
+banca miltiple, segin consta en la escritura
+publica ntimero 11,085 de fecha 16 de
+noviembre de 1932, otorgada ante la fe del
+licenciado Heriberto José Ponce de Leén,
+Notario Publico 15 de la Ciudad de México,
+cuyo primer testimonio quedé inscrito en el
+Registro Puiblico de Comercio de dicha ciudad,
+con el nimero ciento treinta y tres ayfojas
+cuarenta y seis vuelta, volumen ochenta ly‘tres,
+libro tercero,
+
+It is a public limited ‘company duly constituted in
+accordance with Mexican law and authorized to operate
+as a multi-banking institution, as stated in public deed
+number 11,085ydated November 16, 1932, sworn before
+Heriberto José Ponce de Leén, Notary Public 15 of
+Mexico Gity, whose first original was registered in the
+Publi, Registry of Commerce of that city with the
+number one hundred thirty-three on the reverse of page
+forty-six, volume eighty-three, third book.
+
+1.2 Desde la fecha de su constitueién, ha sido
+objeto de diversos cambios corperdtivos, entre
+los que destacan la fusién de\Banco Santander
+Mexicano, S.A., Instituci6n de Banca
+Multiple, Grupo Finaneiero Santander Serfin,
+como sociedad -filsionante, misma que
+subsistié; y Banca Serfin, S.A., Institucion de
+Banca Miltiple,Grupo Financiero Santander
+Serfin, como*sociedad fusionada y que se
+extinguid;) asi como el cambio de
+denominacién social de Banco Santander
+Meéxieano, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander Serfin, S.A.,
+Institucién de Banca Multiple, Grupo
+Financiero Santander Serfin, la cual consta
+
+Since its establishment, it has been the subject of several
+corporate changes, among which are the merger of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, as a
+merger, which continued; and Banca Serfin, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander Serfin, as a merged company and that became
+extinct; as well as the change of company name of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, by Banco
+Santander Serfin, S.A., Institucién de Banca Multiple,
+Grupo Financiero Santander Serfin, which consists by
+public deed 70,725 dated December 13, 2004, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under |the
+
+1/73
+
+
+Confidential
+
+mediante la escritura publica 70,725 de fecha
+13 de diciembre de 2004, otorgada ante la fe
+del licenciado Miguel Alessio Robles, Notario
+Puiblico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo los folios mercantiles 63,608 y 214,958.
+
+commercial folios 63,608 and 214,958.
+
+Por escritura ptiblica 75,211 de fecha 31 de
+marzo de 2006, otorgada ante la fe del
+licenciado Miguel Alessio Robles, Notario
+Publico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo el folio mercantil 63,608 se hizo constar
+el cambio de denominacién social de Banco
+Santander Serfin, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander, S.A., Institucién de
+Banca Multiple, Grupo Financiero Santander.
+
+By public deed 75,211 dated 31 March 2006, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under (the
+commercial folio 63,608, wherein was recordéd\ the
+change of company name of Banco Santander Serfin,
+S.A., Institucién de Banca Multiple, Grupo™Financiero
+Santander Serfin, to Banco Santander, S»A¢y Institucién
+de Banca Multiple, Grupo Financiero Santander.
+
+14
+
+Por escritura publica 80,610 de fecha 10 de
+abril de 2008, otorgada ante la fe del
+licenciado Alfonso Gonzalez Alonso, Notario
+Publico 31 de la Ciudad de México, actuando
+como suplente en el protocolo de la Notaria 19
+de la Ciudad de México, siendo titular el
+licenciado Miguel Alessio Robles, se hizo
+constar el cambio de denominacién de Banco
+Santander, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander, por la
+de Banco Santander (México), S.A,
+Institucién de Banca Miltiple, Grpo
+Financiero Santander.
+
+By public deed 80,610 dated April 10, 2008, sworn
+before Alfonso Gonzaléz.Alonso, Notary Public 31 of
+Mexico City, acting.as\a replacement in the notarial
+book of Notaria.19-of Mexico City, the holder of that
+office being Miguel Alessio Robles, in which was
+recorded the change of name of Banco Santander, S.A.,
+Institucién “dé Banca Multiple, Grupo Financiero
+Santander,» to Banco Santander (Mexico), S.A.,
+Institucién de Banca Multiple, Grupo Financiero
+Santander.
+
+15
+
+Por escritura publica 88,542 del 18 de dctubre
+de 2012, otorgada ante la fe del licericiado
+Miguel Alessio Robles, Notario-Publito 19 de
+la Ciudad de México, inscrita en/el Registro
+Publico de Comercio de dich’ ciudad bajo el
+folio mercantil 63,608, 8e~hizo constar la
+protocolizacién del yacta de asamblea
+extraordinaria porlaque se hizo constar el
+
+cambio de denominacién del Grupo
+Financiero dé Banco Santander, S.A,,
+Institucién® de Banca Miltiple, Grupo
+
+Financiefo)Santander, para quedar como
+actualthente se encuentra vigente Banco
+Santander (México), S.A., Institucion de
+Banca Multiple, Grupo Financiero Santander
+México.
+
+By public deed 88,542 of October 18, 2012, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, registered in the Public Register of
+Commerce of that city under the commercial folio
+63,608, in which was recorded the protocolization of the
+act of extraordinary assembly which stated the change of
+name of the Financial Group of Banco Santander, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander, to remain currently in force Banco Santander
+(Mexico), S.A., Institution of Multiple Banking, Grupo
+Financiero Santander Mexico,
+
+I6
+
+Por escritura publica namero 87,947 de fecha
+5 de septiembre de 2018 otorgada ante fe del
+
+By public deed number 87,947 dated September 5, 2018
+sworn before Marco Antonio Ruiz Aguirre, Notary
+
+2 FS
+
+ZA
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:06:25, C:0:02:30, I:0:00:01 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+ANEXO A AL CONTRATO DE PRESTACION DE
+SERVICIOS DE FECHA 8 DE OCTUBRE DE 2020
+(LA “FECHA EFECTIVA”) QUE CELEBRAN POR
+UNA PARTE MARKIT GROUP LIMITED A
+QUIEN EN LO SUCESIVO SE LE DENOMINARA
+COMO “MARKIT”, REPRESENTADO EN ESTE
+ACTO POR MICHELLE LOADER Y POR LA OTRA
+PARTE BANCO SANTANDER MEXICO S.A.
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+CLAUSULAS SIGUIENTES:
+
+TODOS LOS TERMINOS EN MAYUSCULA
+UTILIZADOS; PERO NO DEFINIDOS EN ESTE
+ANEXO E TENDRAN EL SIGNIFICADO DADO A
+DICHOS TERMINOS EN EL CONTRATO.
+
+DESCRIPCION DE LOS SERVICIOS:
+OPERACION Y MANTENIMIENTO
+
+ANEXO A ~- DESCRIPCION DE SERVICIOS
+ANNEX A — DESCRIPTION OF SERVICES
+
+ENGLISH
+
+ANNEX A TO THE AGREEMENT FOR THE
+PROVISION OF SERVICES WITH EFFECTIVE
+DATE OF OCTOBER 8, 2020 (“THE “EFFECTIVE
+DATE”) BY THE PARTY MARKIT GROUP
+LIMITED. WHO SHALL HEREINAFTER BE
+REFERRED TO AS THE "MARKIT",
+REPRESENTED IN THIS ACT BY MICHELLE
+LOADER AND BY THE OTHER PARTY BANCO
+SANTANDER MEXICO S.A., INSTITUCION DE
+BANCA MULTIPLE, GRUPO FINANCIERO
+SANTANDER MEXICO, WHO SHALL
+HEREINAFTER BE REFERRED TO = AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE ERNESTO
+VEGA CENDEJAS AND RICARDO ZAPIEN
+GARIBAY IN ACCORDANCE WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+ALL CAPITALIZED TERMS USED’ BUT NOT
+DEFINED IN THIS ANNEX E.SHALL HAVE THE
+MEANINGS GIVEN TO SUCH’ TERMS IN THE
+AGREEMENT.
+
+DESCRIPTION OF SERVICES: OPERATION
+AND MAINTENANCE
+
+| ee t |
+
+proceso de transformacién para mejorar sus
+capacidades digitales bancarias para clientes
+privados, lo que permitira a
+"SANTANDER" reforzar su posicién en el
+mercado. Como parte de este proceso de
+transformacién, "SANTANDER" hastomado
+la decisién de implementar una selucién de
+inversién (la "Plataforma") para Usuarios
+Finales y Asesores.
+
+LUZ "MARKIT" _ proporciona’ el
+desarrollo, operacién“y~ mantenimiento de
+una solucién de-\Nistializacién y analisis,
+multiproducto ysmulticanal que se integra
+con los -sistemas back-office de
+"SANTANDER", de acuerdo con los
+requisitos) y’ especificaciones y por encargo
+de "SANTANDER". La Plataforma esta
+compuesta principalmente por la interfaz y
+experiencia de usuario (UI/UX),
+visualizacion de “customer journeys” y
+funcionalidades de analisis. Ademas,
+"MARKIT" integra y proporciona datos de
+"SANTANDER" y de otros Terceros en la
+
+s INTRODUCCION INTRODUCTION
+
+1.1. Contexto y Objetivos Estratégicos de | “SANTANDER” Context and Strategic Objectives
+“SANTANDER”
+
+1.1.1 "SANTANDER" est4é inmersa en un| “SANTANDER” is embarked in a transformation
+
+diseilo, | “MARKIT"
+
+journey to improve its banking digital capabilities for
+private clients enabling “SANTANDER” to strengthen
+its position in the market. As part of this transformation
+journey, “SANTANDER” has taken the decision to
+implement a digital investment solution (the “Platform”)
+for End Users and Advisors.
+
+provides the design, development,
+operations, and maintenance of a multi-product, multi-
+channel research and insights solution which is
+integrated with “SANTANDER”’s back-office systems
+according to the requirements and specifications and on
+behalf of “SANTANDER”. The Platform is mainly
+comprised by the user interface and user experience
+(UI/UX), workflows visualisation and analysis |
+functionalities. In addition, “MARKIT" integrates and
+delivers data from “SANTANDER” and other Third
+Parties in the Platform.
+
+The items that are specifically out of scope of this
+Services are detailed in section 1.3. of this Annex A.
+
+
+Confidential
+
+Plataforma.
+
+Los puntos que estan especificamente fuera
+del alcance de estos Servicios se detallan en
+la seccidén 1.3, de este Anexo A.
+
+“SANTANDER” provides user, product and portfolio
+data, and the necessary back-office functionalities.
+
+Overview of Services
+
+Teli3s "SANTANDER" proporciona datos de
+usuarios, productos y carteras, asi como las
+funcionalidades de back-office necesarias.
+
+1,2. Descripcién General de los Servicios
+Los Servicios = proporcionados _ por
+“MARKIT”  incluyen la __ operacién,
+
+mantenimiento y soporte de la Plataforma,
+asi como la puesta a disposicién de la
+infraestructura (hardware) necesaria y su
+integracion con los sistemas back-office de
+“SANTANDER”. “MARKIT” _ opera,
+mantiene, hospeda la Plataforma e integra
+
+diversos datos, conforme al detalle que se
+
+describe en la seccién 4 y 5 de este Anexo
+
+A.
+
+Los Servicios de alojamiento y operacién de
+
+“MARKIT” incluyen:
+
+a) Soporte de operaciones y monitoreo 24
+horas, 7 dias a la semana, 365 dias al
+ano
+
+b) Soporte y gestion de fuentes de datos
+
+c) Soporte las aplicaciones y
+funcionalidades (software)
+
+d) Gestién continua del proyecto
+
+e) Control de calidad
+
+f) Recursos de distintos equipos
+
+g) Control de uso de la plataforma y
+reporte
+
+h) Analiticas
+
+i) _Escalabilidad de los sistemas
+
+DESCRIPCION FUNCIONAL DE LA
+PLATAFORMA
+
+MVP
+Canales
+La Plataforma estara compuesta de paginas
+web-responsive.
+
+The Services provided by “MARKIT" consist of the
+operation, maintenance and support of the Platform, as
+well as the provision of the necessary hardware
+infrastructure and integration with “SANTANDER”™’s
+legacy systems. “MARKIT" operates, maintains, and
+hosts the Platform and supplies the required data as
+specified in section 4 and section 5 of this Annex.
+
+The hosting and operation Services from-“MARKIT”
+include:
+a) 24/7/365 operations support, monitoring
+b) Data feed support and mariagement
+c) Application and functioriality support (software)
+d) Ongoing project management
+e) Quality assurance,
+f) Team resources.
+g) Usage tracking and reporting
+Analytics
+i) System-scalability
+
+FUNCTIONAL DESCRIPTION OF THE PLATFORM
+
+Channels
+The Platform will be composed of web-responsive
+pages.
+
+Capacidades de Servicio al Cliente
+
+Customer Service Capabilities
+
+i, Documentos: La Plataforma proveera a los
+Usuarios Finales de documentos relevantes
+tales como contratos,propuestas e informes
+de mercado, asi coOm6 funcionalidades de
+
+busqueda.
+ii. Soporte en las~primeras conexiones: La
+Plataformass® encargara de proveer de un
+tutorial para ‘que el Usuario Final entienda el
+funci6namiento de la misma la primera vez
+que “se conecta. Cada vez que se incluya
+cualquier funcionalidad adicional se
+procedera de la misma manera.
+Capacidades de Gestién de Cartera de
+Inversion
+
+Documents: The Platform will provide End Users with
+relevant documents such as contracts, proposals and
+market reports, including the correspondent search
+functionalities.
+
+Support on-boarding: The Platform will provide a
+tutorial for the End User to understand how it works the
+first time it engages. Each time any additional
+functionality is included, it will work the same way.
+
+Portfolio Management Capabilities
+
+Y
+
+Cd
+
+Resumen: La Plataforma proveerd a los
+
+Summary: The Platform will provide End Users with a
+
+2/37
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:06:26, C:0:02:31, I:0:00:01 ] 
+Gemini Error (Try 2): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+ANEXO A AL CONTRATO DE PRESTACION DE
+SERVICIOS DE FECHA 8 DE OCTUBRE DE 2020
+(LA “FECHA EFECTIVA”) QUE CELEBRAN POR
+UNA PARTE MARKIT GROUP LIMITED A
+QUIEN EN LO SUCESIVO SE LE DENOMINARA
+COMO “MARKIT”, REPRESENTADO EN ESTE
+ACTO POR MICHELLE LOADER Y POR LA OTRA
+PARTE BANCO SANTANDER MEXICO S.A.
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+CLAUSULAS SIGUIENTES:
+
+TODOS LOS TERMINOS EN MAYUSCULA
+UTILIZADOS; PERO NO DEFINIDOS EN ESTE
+ANEXO E TENDRAN EL SIGNIFICADO DADO A
+DICHOS TERMINOS EN EL CONTRATO.
+
+DESCRIPCION DE LOS SERVICIOS:
+OPERACION Y MANTENIMIENTO
+
+ANEXO A ~- DESCRIPCION DE SERVICIOS
+ANNEX A — DESCRIPTION OF SERVICES
+
+ENGLISH
+
+ANNEX A TO THE AGREEMENT FOR THE
+PROVISION OF SERVICES WITH EFFECTIVE
+DATE OF OCTOBER 8, 2020 (“THE “EFFECTIVE
+DATE”) BY THE PARTY MARKIT GROUP
+LIMITED. WHO SHALL HEREINAFTER BE
+REFERRED TO AS THE "MARKIT",
+REPRESENTED IN THIS ACT BY MICHELLE
+LOADER AND BY THE OTHER PARTY BANCO
+SANTANDER MEXICO S.A., INSTITUCION DE
+BANCA MULTIPLE, GRUPO FINANCIERO
+SANTANDER MEXICO, WHO SHALL
+HEREINAFTER BE REFERRED TO = AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE ERNESTO
+VEGA CENDEJAS AND RICARDO ZAPIEN
+GARIBAY IN ACCORDANCE WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+ALL CAPITALIZED TERMS USED’ BUT NOT
+DEFINED IN THIS ANNEX E.SHALL HAVE THE
+MEANINGS GIVEN TO SUCH’ TERMS IN THE
+AGREEMENT.
+
+DESCRIPTION OF SERVICES: OPERATION
+AND MAINTENANCE
+
+| ee t |
+
+proceso de transformacién para mejorar sus
+capacidades digitales bancarias para clientes
+privados, lo que permitira a
+"SANTANDER" reforzar su posicién en el
+mercado. Como parte de este proceso de
+transformacién, "SANTANDER" hastomado
+la decisién de implementar una selucién de
+inversién (la "Plataforma") para Usuarios
+Finales y Asesores.
+
+LUZ "MARKIT" _ proporciona’ el
+desarrollo, operacién“y~ mantenimiento de
+una solucién de-\Nistializacién y analisis,
+multiproducto ysmulticanal que se integra
+con los -sistemas back-office de
+"SANTANDER", de acuerdo con los
+requisitos) y’ especificaciones y por encargo
+de "SANTANDER". La Plataforma esta
+compuesta principalmente por la interfaz y
+experiencia de usuario (UI/UX),
+visualizacion de “customer journeys” y
+funcionalidades de analisis. Ademas,
+"MARKIT" integra y proporciona datos de
+"SANTANDER" y de otros Terceros en la
+
+s INTRODUCCION INTRODUCTION
+
+1.1. Contexto y Objetivos Estratégicos de | “SANTANDER” Context and Strategic Objectives
+“SANTANDER”
+
+1.1.1 "SANTANDER" est4é inmersa en un| “SANTANDER” is embarked in a transformation
+
+diseilo, | “MARKIT"
+
+journey to improve its banking digital capabilities for
+private clients enabling “SANTANDER” to strengthen
+its position in the market. As part of this transformation
+journey, “SANTANDER” has taken the decision to
+implement a digital investment solution (the “Platform”)
+for End Users and Advisors.
+
+provides the design, development,
+operations, and maintenance of a multi-product, multi-
+channel research and insights solution which is
+integrated with “SANTANDER”’s back-office systems
+according to the requirements and specifications and on
+behalf of “SANTANDER”. The Platform is mainly
+comprised by the user interface and user experience
+(UI/UX), workflows visualisation and analysis |
+functionalities. In addition, “MARKIT" integrates and
+delivers data from “SANTANDER” and other Third
+Parties in the Platform.
+
+The items that are specifically out of scope of this
+Services are detailed in section 1.3. of this Annex A.
+
+
+Confidential
+
+Plataforma.
+
+Los puntos que estan especificamente fuera
+del alcance de estos Servicios se detallan en
+la seccidén 1.3, de este Anexo A.
+
+“SANTANDER” provides user, product and portfolio
+data, and the necessary back-office functionalities.
+
+Overview of Services
+
+Teli3s "SANTANDER" proporciona datos de
+usuarios, productos y carteras, asi como las
+funcionalidades de back-office necesarias.
+
+1,2. Descripcién General de los Servicios
+Los Servicios = proporcionados _ por
+“MARKIT”  incluyen la __ operacién,
+
+mantenimiento y soporte de la Plataforma,
+asi como la puesta a disposicién de la
+infraestructura (hardware) necesaria y su
+integracion con los sistemas back-office de
+“SANTANDER”. “MARKIT” _ opera,
+mantiene, hospeda la Plataforma e integra
+
+diversos datos, conforme al detalle que se
+
+describe en la seccién 4 y 5 de este Anexo
+
+A.
+
+Los Servicios de alojamiento y operacién de
+
+“MARKIT” incluyen:
+
+a) Soporte de operaciones y monitoreo 24
+horas, 7 dias a la semana, 365 dias al
+ano
+
+b) Soporte y gestion de fuentes de datos
+
+c) Soporte las aplicaciones y
+funcionalidades (software)
+
+d) Gestién continua del proyecto
+
+e) Control de calidad
+
+f) Recursos de distintos equipos
+
+g) Control de uso de la plataforma y
+reporte
+
+h) Analiticas
+
+i) _Escalabilidad de los sistemas
+
+DESCRIPCION FUNCIONAL DE LA
+PLATAFORMA
+
+MVP
+Canales
+La Plataforma estara compuesta de paginas
+web-responsive.
+
+The Services provided by “MARKIT" consist of the
+operation, maintenance and support of the Platform, as
+well as the provision of the necessary hardware
+infrastructure and integration with “SANTANDER”™’s
+legacy systems. “MARKIT" operates, maintains, and
+hosts the Platform and supplies the required data as
+specified in section 4 and section 5 of this Annex.
+
+The hosting and operation Services from-“MARKIT”
+include:
+a) 24/7/365 operations support, monitoring
+b) Data feed support and mariagement
+c) Application and functioriality support (software)
+d) Ongoing project management
+e) Quality assurance,
+f) Team resources.
+g) Usage tracking and reporting
+Analytics
+i) System-scalability
+
+FUNCTIONAL DESCRIPTION OF THE PLATFORM
+
+Channels
+The Platform will be composed of web-responsive
+pages.
+
+Capacidades de Servicio al Cliente
+
+Customer Service Capabilities
+
+i, Documentos: La Plataforma proveera a los
+Usuarios Finales de documentos relevantes
+tales como contratos,propuestas e informes
+de mercado, asi coOm6 funcionalidades de
+
+busqueda.
+ii. Soporte en las~primeras conexiones: La
+Plataformass® encargara de proveer de un
+tutorial para ‘que el Usuario Final entienda el
+funci6namiento de la misma la primera vez
+que “se conecta. Cada vez que se incluya
+cualquier funcionalidad adicional se
+procedera de la misma manera.
+Capacidades de Gestién de Cartera de
+Inversion
+
+Documents: The Platform will provide End Users with
+relevant documents such as contracts, proposals and
+market reports, including the correspondent search
+functionalities.
+
+Support on-boarding: The Platform will provide a
+tutorial for the End User to understand how it works the
+first time it engages. Each time any additional
+functionality is included, it will work the same way.
+
+Portfolio Management Capabilities
+
+Y
+
+Cd
+
+Resumen: La Plataforma proveerd a los
+
+Summary: The Platform will provide End Users with a
+
+2/37
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:06:28, C:0:02:33, I:0:00:01 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+|
+
+CONTRATO DE PRESTACION DE SERVICIOS DE
+FECHA 8 DE OCTUBRE DE 2020 (LA “FECHA
+EFECTIVA”) QUE CELEBRAN POR UNA PARTE
+MARKIT GROUP LIMITED A QUIEN EN LO
+SUCESIVO SE LE DENOMINARA COMO
+“MARKIT”, REPRESENTADO EN ESTE ACTO POR
+MICHELLE LOADER Y POR LA OTRA PARTE
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+
+ENGLISH
+
+AGREEMENT FOR THE PROVISION OF
+SERVICES WITH EFFECTIVE DATE OF OCTOBER
+8, 2020 (“THE “EFFECTIVE DATE”) BY THE
+PARTY MARKIT GROUP LIMITED. WHO SHALL
+HEREINAFTER BE REFERRED TO AS THE
+"MARKIT", REPRESENTED IN THIS ACT BY
+MICHELLE LOADER AND BY THE OTHER PARTY
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPQ
+FINANCIERO SANTANDER MEXICO, WHO
+SHALL HEREINAFTER BE REFERRED TO\AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE-ERNESTO
+VEGA CENDEJAS AND RICARD@) ZAPIEN
+GARIBAY IN ACCORDANCE\\\WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+CLAUSULAS SIGUIENTES:
+DECLARACIONES:
+L Declara y garantiza “SANTANDER” por
+
+conducto de sus apoderados legales, que:
+
+RECITALS:
+"SANTANDER" represerits.and warrants through
+its legal representatives; that:
+
+Il Es una sociedad andénima debidamente
+constituida conforme a la legislacién mexicana
+y autorizada para operar como institucién de
+banca miltiple, segin consta en la escritura
+publica ntimero 11,085 de fecha 16 de
+noviembre de 1932, otorgada ante la fe del
+licenciado Heriberto José Ponce de Leén,
+Notario Publico 15 de la Ciudad de México,
+cuyo primer testimonio quedé inscrito en el
+Registro Puiblico de Comercio de dicha ciudad,
+con el nimero ciento treinta y tres ayfojas
+cuarenta y seis vuelta, volumen ochenta ly‘tres,
+libro tercero,
+
+It is a public limited ‘company duly constituted in
+accordance with Mexican law and authorized to operate
+as a multi-banking institution, as stated in public deed
+number 11,085ydated November 16, 1932, sworn before
+Heriberto José Ponce de Leén, Notary Public 15 of
+Mexico Gity, whose first original was registered in the
+Publi, Registry of Commerce of that city with the
+number one hundred thirty-three on the reverse of page
+forty-six, volume eighty-three, third book.
+
+1.2 Desde la fecha de su constitueién, ha sido
+objeto de diversos cambios corperdtivos, entre
+los que destacan la fusién de\Banco Santander
+Mexicano, S.A., Instituci6n de Banca
+Multiple, Grupo Finaneiero Santander Serfin,
+como sociedad -filsionante, misma que
+subsistié; y Banca Serfin, S.A., Institucion de
+Banca Miltiple,Grupo Financiero Santander
+Serfin, como*sociedad fusionada y que se
+extinguid;) asi como el cambio de
+denominacién social de Banco Santander
+Meéxieano, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander Serfin, S.A.,
+Institucién de Banca Multiple, Grupo
+Financiero Santander Serfin, la cual consta
+
+Since its establishment, it has been the subject of several
+corporate changes, among which are the merger of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, as a
+merger, which continued; and Banca Serfin, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander Serfin, as a merged company and that became
+extinct; as well as the change of company name of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, by Banco
+Santander Serfin, S.A., Institucién de Banca Multiple,
+Grupo Financiero Santander Serfin, which consists by
+public deed 70,725 dated December 13, 2004, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under |the
+
+1/73
+
+
+Confidential
+
+mediante la escritura publica 70,725 de fecha
+13 de diciembre de 2004, otorgada ante la fe
+del licenciado Miguel Alessio Robles, Notario
+Puiblico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo los folios mercantiles 63,608 y 214,958.
+
+commercial folios 63,608 and 214,958.
+
+Por escritura ptiblica 75,211 de fecha 31 de
+marzo de 2006, otorgada ante la fe del
+licenciado Miguel Alessio Robles, Notario
+Publico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo el folio mercantil 63,608 se hizo constar
+el cambio de denominacién social de Banco
+Santander Serfin, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander, S.A., Institucién de
+Banca Multiple, Grupo Financiero Santander.
+
+By public deed 75,211 dated 31 March 2006, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under (the
+commercial folio 63,608, wherein was recordéd\ the
+change of company name of Banco Santander Serfin,
+S.A., Institucién de Banca Multiple, Grupo™Financiero
+Santander Serfin, to Banco Santander, S»A¢y Institucién
+de Banca Multiple, Grupo Financiero Santander.
+
+14
+
+Por escritura publica 80,610 de fecha 10 de
+abril de 2008, otorgada ante la fe del
+licenciado Alfonso Gonzalez Alonso, Notario
+Publico 31 de la Ciudad de México, actuando
+como suplente en el protocolo de la Notaria 19
+de la Ciudad de México, siendo titular el
+licenciado Miguel Alessio Robles, se hizo
+constar el cambio de denominacién de Banco
+Santander, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander, por la
+de Banco Santander (México), S.A,
+Institucién de Banca Miltiple, Grpo
+Financiero Santander.
+
+By public deed 80,610 dated April 10, 2008, sworn
+before Alfonso Gonzaléz.Alonso, Notary Public 31 of
+Mexico City, acting.as\a replacement in the notarial
+book of Notaria.19-of Mexico City, the holder of that
+office being Miguel Alessio Robles, in which was
+recorded the change of name of Banco Santander, S.A.,
+Institucién “dé Banca Multiple, Grupo Financiero
+Santander,» to Banco Santander (Mexico), S.A.,
+Institucién de Banca Multiple, Grupo Financiero
+Santander.
+
+15
+
+Por escritura publica 88,542 del 18 de dctubre
+de 2012, otorgada ante la fe del licericiado
+Miguel Alessio Robles, Notario-Publito 19 de
+la Ciudad de México, inscrita en/el Registro
+Publico de Comercio de dich’ ciudad bajo el
+folio mercantil 63,608, 8e~hizo constar la
+protocolizacién del yacta de asamblea
+extraordinaria porlaque se hizo constar el
+
+cambio de denominacién del Grupo
+Financiero dé Banco Santander, S.A,,
+Institucién® de Banca Miltiple, Grupo
+
+Financiefo)Santander, para quedar como
+actualthente se encuentra vigente Banco
+Santander (México), S.A., Institucion de
+Banca Multiple, Grupo Financiero Santander
+México.
+
+By public deed 88,542 of October 18, 2012, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, registered in the Public Register of
+Commerce of that city under the commercial folio
+63,608, in which was recorded the protocolization of the
+act of extraordinary assembly which stated the change of
+name of the Financial Group of Banco Santander, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander, to remain currently in force Banco Santander
+(Mexico), S.A., Institution of Multiple Banking, Grupo
+Financiero Santander Mexico,
+
+I6
+
+Por escritura publica namero 87,947 de fecha
+5 de septiembre de 2018 otorgada ante fe del
+
+By public deed number 87,947 dated September 5, 2018
+sworn before Marco Antonio Ruiz Aguirre, Notary
+
+2 FS
+
+ZA
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:06:29, C:0:02:34, I:0:00:01 ] 
+Gemini Error (Try 2): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+|
+
+CONTRATO DE PRESTACION DE SERVICIOS DE
+FECHA 8 DE OCTUBRE DE 2020 (LA “FECHA
+EFECTIVA”) QUE CELEBRAN POR UNA PARTE
+MARKIT GROUP LIMITED A QUIEN EN LO
+SUCESIVO SE LE DENOMINARA COMO
+“MARKIT”, REPRESENTADO EN ESTE ACTO POR
+MICHELLE LOADER Y POR LA OTRA PARTE
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+
+ENGLISH
+
+AGREEMENT FOR THE PROVISION OF
+SERVICES WITH EFFECTIVE DATE OF OCTOBER
+8, 2020 (“THE “EFFECTIVE DATE”) BY THE
+PARTY MARKIT GROUP LIMITED. WHO SHALL
+HEREINAFTER BE REFERRED TO AS THE
+"MARKIT", REPRESENTED IN THIS ACT BY
+MICHELLE LOADER AND BY THE OTHER PARTY
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPQ
+FINANCIERO SANTANDER MEXICO, WHO
+SHALL HEREINAFTER BE REFERRED TO\AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE-ERNESTO
+VEGA CENDEJAS AND RICARD@) ZAPIEN
+GARIBAY IN ACCORDANCE\\\WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+CLAUSULAS SIGUIENTES:
+DECLARACIONES:
+L Declara y garantiza “SANTANDER” por
+
+conducto de sus apoderados legales, que:
+
+RECITALS:
+"SANTANDER" represerits.and warrants through
+its legal representatives; that:
+
+Il Es una sociedad andénima debidamente
+constituida conforme a la legislacién mexicana
+y autorizada para operar como institucién de
+banca miltiple, segin consta en la escritura
+publica ntimero 11,085 de fecha 16 de
+noviembre de 1932, otorgada ante la fe del
+licenciado Heriberto José Ponce de Leén,
+Notario Publico 15 de la Ciudad de México,
+cuyo primer testimonio quedé inscrito en el
+Registro Puiblico de Comercio de dicha ciudad,
+con el nimero ciento treinta y tres ayfojas
+cuarenta y seis vuelta, volumen ochenta ly‘tres,
+libro tercero,
+
+It is a public limited ‘company duly constituted in
+accordance with Mexican law and authorized to operate
+as a multi-banking institution, as stated in public deed
+number 11,085ydated November 16, 1932, sworn before
+Heriberto José Ponce de Leén, Notary Public 15 of
+Mexico Gity, whose first original was registered in the
+Publi, Registry of Commerce of that city with the
+number one hundred thirty-three on the reverse of page
+forty-six, volume eighty-three, third book.
+
+1.2 Desde la fecha de su constitueién, ha sido
+objeto de diversos cambios corperdtivos, entre
+los que destacan la fusién de\Banco Santander
+Mexicano, S.A., Instituci6n de Banca
+Multiple, Grupo Finaneiero Santander Serfin,
+como sociedad -filsionante, misma que
+subsistié; y Banca Serfin, S.A., Institucion de
+Banca Miltiple,Grupo Financiero Santander
+Serfin, como*sociedad fusionada y que se
+extinguid;) asi como el cambio de
+denominacién social de Banco Santander
+Meéxieano, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander Serfin, S.A.,
+Institucién de Banca Multiple, Grupo
+Financiero Santander Serfin, la cual consta
+
+Since its establishment, it has been the subject of several
+corporate changes, among which are the merger of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, as a
+merger, which continued; and Banca Serfin, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander Serfin, as a merged company and that became
+extinct; as well as the change of company name of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, by Banco
+Santander Serfin, S.A., Institucién de Banca Multiple,
+Grupo Financiero Santander Serfin, which consists by
+public deed 70,725 dated December 13, 2004, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under |the
+
+1/73
+
+
+Confidential
+
+mediante la escritura publica 70,725 de fecha
+13 de diciembre de 2004, otorgada ante la fe
+del licenciado Miguel Alessio Robles, Notario
+Puiblico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo los folios mercantiles 63,608 y 214,958.
+
+commercial folios 63,608 and 214,958.
+
+Por escritura ptiblica 75,211 de fecha 31 de
+marzo de 2006, otorgada ante la fe del
+licenciado Miguel Alessio Robles, Notario
+Publico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo el folio mercantil 63,608 se hizo constar
+el cambio de denominacién social de Banco
+Santander Serfin, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander, S.A., Institucién de
+Banca Multiple, Grupo Financiero Santander.
+
+By public deed 75,211 dated 31 March 2006, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under (the
+commercial folio 63,608, wherein was recordéd\ the
+change of company name of Banco Santander Serfin,
+S.A., Institucién de Banca Multiple, Grupo™Financiero
+Santander Serfin, to Banco Santander, S»A¢y Institucién
+de Banca Multiple, Grupo Financiero Santander.
+
+14
+
+Por escritura publica 80,610 de fecha 10 de
+abril de 2008, otorgada ante la fe del
+licenciado Alfonso Gonzalez Alonso, Notario
+Publico 31 de la Ciudad de México, actuando
+como suplente en el protocolo de la Notaria 19
+de la Ciudad de México, siendo titular el
+licenciado Miguel Alessio Robles, se hizo
+constar el cambio de denominacién de Banco
+Santander, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander, por la
+de Banco Santander (México), S.A,
+Institucién de Banca Miltiple, Grpo
+Financiero Santander.
+
+By public deed 80,610 dated April 10, 2008, sworn
+before Alfonso Gonzaléz.Alonso, Notary Public 31 of
+Mexico City, acting.as\a replacement in the notarial
+book of Notaria.19-of Mexico City, the holder of that
+office being Miguel Alessio Robles, in which was
+recorded the change of name of Banco Santander, S.A.,
+Institucién “dé Banca Multiple, Grupo Financiero
+Santander,» to Banco Santander (Mexico), S.A.,
+Institucién de Banca Multiple, Grupo Financiero
+Santander.
+
+15
+
+Por escritura publica 88,542 del 18 de dctubre
+de 2012, otorgada ante la fe del licericiado
+Miguel Alessio Robles, Notario-Publito 19 de
+la Ciudad de México, inscrita en/el Registro
+Publico de Comercio de dich’ ciudad bajo el
+folio mercantil 63,608, 8e~hizo constar la
+protocolizacién del yacta de asamblea
+extraordinaria porlaque se hizo constar el
+
+cambio de denominacién del Grupo
+Financiero dé Banco Santander, S.A,,
+Institucién® de Banca Miltiple, Grupo
+
+Financiefo)Santander, para quedar como
+actualthente se encuentra vigente Banco
+Santander (México), S.A., Institucion de
+Banca Multiple, Grupo Financiero Santander
+México.
+
+By public deed 88,542 of October 18, 2012, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, registered in the Public Register of
+Commerce of that city under the commercial folio
+63,608, in which was recorded the protocolization of the
+act of extraordinary assembly which stated the change of
+name of the Financial Group of Banco Santander, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander, to remain currently in force Banco Santander
+(Mexico), S.A., Institution of Multiple Banking, Grupo
+Financiero Santander Mexico,
+
+I6
+
+Por escritura publica namero 87,947 de fecha
+5 de septiembre de 2018 otorgada ante fe del
+
+By public deed number 87,947 dated September 5, 2018
+sworn before Marco Antonio Ruiz Aguirre, Notary
+
+2 FS
+
+ZA
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:06:30, C:0:02:35, I:0:00:01 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+ANEXO A AL CONTRATO DE PRESTACION DE
+SERVICIOS DE FECHA 8 DE OCTUBRE DE 2020
+(LA “FECHA EFECTIVA”) QUE CELEBRAN POR
+UNA PARTE MARKIT GROUP LIMITED A
+QUIEN EN LO SUCESIVO SE LE DENOMINARA
+COMO “MARKIT”, REPRESENTADO EN ESTE
+ACTO POR MICHELLE LOADER Y POR LA OTRA
+PARTE BANCO SANTANDER MEXICO S.A.
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+CLAUSULAS SIGUIENTES:
+
+TODOS LOS TERMINOS EN MAYUSCULA
+UTILIZADOS; PERO NO DEFINIDOS EN ESTE
+ANEXO E TENDRAN EL SIGNIFICADO DADO A
+DICHOS TERMINOS EN EL CONTRATO.
+
+DESCRIPCION DE LOS SERVICIOS:
+OPERACION Y MANTENIMIENTO
+
+ANEXO A ~- DESCRIPCION DE SERVICIOS
+ANNEX A — DESCRIPTION OF SERVICES
+
+ENGLISH
+
+ANNEX A TO THE AGREEMENT FOR THE
+PROVISION OF SERVICES WITH EFFECTIVE
+DATE OF OCTOBER 8, 2020 (“THE “EFFECTIVE
+DATE”) BY THE PARTY MARKIT GROUP
+LIMITED. WHO SHALL HEREINAFTER BE
+REFERRED TO AS THE "MARKIT",
+REPRESENTED IN THIS ACT BY MICHELLE
+LOADER AND BY THE OTHER PARTY BANCO
+SANTANDER MEXICO S.A., INSTITUCION DE
+BANCA MULTIPLE, GRUPO FINANCIERO
+SANTANDER MEXICO, WHO SHALL
+HEREINAFTER BE REFERRED TO = AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE ERNESTO
+VEGA CENDEJAS AND RICARDO ZAPIEN
+GARIBAY IN ACCORDANCE WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+ALL CAPITALIZED TERMS USED’ BUT NOT
+DEFINED IN THIS ANNEX E.SHALL HAVE THE
+MEANINGS GIVEN TO SUCH’ TERMS IN THE
+AGREEMENT.
+
+DESCRIPTION OF SERVICES: OPERATION
+AND MAINTENANCE
+
+| ee t |
+
+proceso de transformacién para mejorar sus
+capacidades digitales bancarias para clientes
+privados, lo que permitira a
+"SANTANDER" reforzar su posicién en el
+mercado. Como parte de este proceso de
+transformacién, "SANTANDER" hastomado
+la decisién de implementar una selucién de
+inversién (la "Plataforma") para Usuarios
+Finales y Asesores.
+
+LUZ "MARKIT" _ proporciona’ el
+desarrollo, operacién“y~ mantenimiento de
+una solucién de-\Nistializacién y analisis,
+multiproducto ysmulticanal que se integra
+con los -sistemas back-office de
+"SANTANDER", de acuerdo con los
+requisitos) y’ especificaciones y por encargo
+de "SANTANDER". La Plataforma esta
+compuesta principalmente por la interfaz y
+experiencia de usuario (UI/UX),
+visualizacion de “customer journeys” y
+funcionalidades de analisis. Ademas,
+"MARKIT" integra y proporciona datos de
+"SANTANDER" y de otros Terceros en la
+
+s INTRODUCCION INTRODUCTION
+
+1.1. Contexto y Objetivos Estratégicos de | “SANTANDER” Context and Strategic Objectives
+“SANTANDER”
+
+1.1.1 "SANTANDER" est4é inmersa en un| “SANTANDER” is embarked in a transformation
+
+diseilo, | “MARKIT"
+
+journey to improve its banking digital capabilities for
+private clients enabling “SANTANDER” to strengthen
+its position in the market. As part of this transformation
+journey, “SANTANDER” has taken the decision to
+implement a digital investment solution (the “Platform”)
+for End Users and Advisors.
+
+provides the design, development,
+operations, and maintenance of a multi-product, multi-
+channel research and insights solution which is
+integrated with “SANTANDER”’s back-office systems
+according to the requirements and specifications and on
+behalf of “SANTANDER”. The Platform is mainly
+comprised by the user interface and user experience
+(UI/UX), workflows visualisation and analysis |
+functionalities. In addition, “MARKIT" integrates and
+delivers data from “SANTANDER” and other Third
+Parties in the Platform.
+
+The items that are specifically out of scope of this
+Services are detailed in section 1.3. of this Annex A.
+
+
+Confidential
+
+Plataforma.
+
+Los puntos que estan especificamente fuera
+del alcance de estos Servicios se detallan en
+la seccidén 1.3, de este Anexo A.
+
+“SANTANDER” provides user, product and portfolio
+data, and the necessary back-office functionalities.
+
+Overview of Services
+
+Teli3s "SANTANDER" proporciona datos de
+usuarios, productos y carteras, asi como las
+funcionalidades de back-office necesarias.
+
+1,2. Descripcién General de los Servicios
+Los Servicios = proporcionados _ por
+“MARKIT”  incluyen la __ operacién,
+
+mantenimiento y soporte de la Plataforma,
+asi como la puesta a disposicién de la
+infraestructura (hardware) necesaria y su
+integracion con los sistemas back-office de
+“SANTANDER”. “MARKIT” _ opera,
+mantiene, hospeda la Plataforma e integra
+
+diversos datos, conforme al detalle que se
+
+describe en la seccién 4 y 5 de este Anexo
+
+A.
+
+Los Servicios de alojamiento y operacién de
+
+“MARKIT” incluyen:
+
+a) Soporte de operaciones y monitoreo 24
+horas, 7 dias a la semana, 365 dias al
+ano
+
+b) Soporte y gestion de fuentes de datos
+
+c) Soporte las aplicaciones y
+funcionalidades (software)
+
+d) Gestién continua del proyecto
+
+e) Control de calidad
+
+f) Recursos de distintos equipos
+
+g) Control de uso de la plataforma y
+reporte
+
+h) Analiticas
+
+i) _Escalabilidad de los sistemas
+
+DESCRIPCION FUNCIONAL DE LA
+PLATAFORMA
+
+MVP
+Canales
+La Plataforma estara compuesta de paginas
+web-responsive.
+
+The Services provided by “MARKIT" consist of the
+operation, maintenance and support of the Platform, as
+well as the provision of the necessary hardware
+infrastructure and integration with “SANTANDER”™’s
+legacy systems. “MARKIT" operates, maintains, and
+hosts the Platform and supplies the required data as
+specified in section 4 and section 5 of this Annex.
+
+The hosting and operation Services from-“MARKIT”
+include:
+a) 24/7/365 operations support, monitoring
+b) Data feed support and mariagement
+c) Application and functioriality support (software)
+d) Ongoing project management
+e) Quality assurance,
+f) Team resources.
+g) Usage tracking and reporting
+Analytics
+i) System-scalability
+
+FUNCTIONAL DESCRIPTION OF THE PLATFORM
+
+Channels
+The Platform will be composed of web-responsive
+pages.
+
+Capacidades de Servicio al Cliente
+
+Customer Service Capabilities
+
+i, Documentos: La Plataforma proveera a los
+Usuarios Finales de documentos relevantes
+tales como contratos,propuestas e informes
+de mercado, asi coOm6 funcionalidades de
+
+busqueda.
+ii. Soporte en las~primeras conexiones: La
+Plataformass® encargara de proveer de un
+tutorial para ‘que el Usuario Final entienda el
+funci6namiento de la misma la primera vez
+que “se conecta. Cada vez que se incluya
+cualquier funcionalidad adicional se
+procedera de la misma manera.
+Capacidades de Gestién de Cartera de
+Inversion
+
+Documents: The Platform will provide End Users with
+relevant documents such as contracts, proposals and
+market reports, including the correspondent search
+functionalities.
+
+Support on-boarding: The Platform will provide a
+tutorial for the End User to understand how it works the
+first time it engages. Each time any additional
+functionality is included, it will work the same way.
+
+Portfolio Management Capabilities
+
+Y
+
+Cd
+
+Resumen: La Plataforma proveerd a los
+
+Summary: The Platform will provide End Users with a
+
+2/37
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:06:31, C:0:02:36, I:0:00:01 ] 
+Giving up on this Gemini Request): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+ANEXO A AL CONTRATO DE PRESTACION DE
+SERVICIOS DE FECHA 8 DE OCTUBRE DE 2020
+(LA “FECHA EFECTIVA”) QUE CELEBRAN POR
+UNA PARTE MARKIT GROUP LIMITED A
+QUIEN EN LO SUCESIVO SE LE DENOMINARA
+COMO “MARKIT”, REPRESENTADO EN ESTE
+ACTO POR MICHELLE LOADER Y POR LA OTRA
+PARTE BANCO SANTANDER MEXICO S.A.
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+CLAUSULAS SIGUIENTES:
+
+TODOS LOS TERMINOS EN MAYUSCULA
+UTILIZADOS; PERO NO DEFINIDOS EN ESTE
+ANEXO E TENDRAN EL SIGNIFICADO DADO A
+DICHOS TERMINOS EN EL CONTRATO.
+
+DESCRIPCION DE LOS SERVICIOS:
+OPERACION Y MANTENIMIENTO
+
+ANEXO A ~- DESCRIPCION DE SERVICIOS
+ANNEX A — DESCRIPTION OF SERVICES
+
+ENGLISH
+
+ANNEX A TO THE AGREEMENT FOR THE
+PROVISION OF SERVICES WITH EFFECTIVE
+DATE OF OCTOBER 8, 2020 (“THE “EFFECTIVE
+DATE”) BY THE PARTY MARKIT GROUP
+LIMITED. WHO SHALL HEREINAFTER BE
+REFERRED TO AS THE "MARKIT",
+REPRESENTED IN THIS ACT BY MICHELLE
+LOADER AND BY THE OTHER PARTY BANCO
+SANTANDER MEXICO S.A., INSTITUCION DE
+BANCA MULTIPLE, GRUPO FINANCIERO
+SANTANDER MEXICO, WHO SHALL
+HEREINAFTER BE REFERRED TO = AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE ERNESTO
+VEGA CENDEJAS AND RICARDO ZAPIEN
+GARIBAY IN ACCORDANCE WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+ALL CAPITALIZED TERMS USED’ BUT NOT
+DEFINED IN THIS ANNEX E.SHALL HAVE THE
+MEANINGS GIVEN TO SUCH’ TERMS IN THE
+AGREEMENT.
+
+DESCRIPTION OF SERVICES: OPERATION
+AND MAINTENANCE
+
+| ee t |
+
+proceso de transformacién para mejorar sus
+capacidades digitales bancarias para clientes
+privados, lo que permitira a
+"SANTANDER" reforzar su posicién en el
+mercado. Como parte de este proceso de
+transformacién, "SANTANDER" hastomado
+la decisién de implementar una selucién de
+inversién (la "Plataforma") para Usuarios
+Finales y Asesores.
+
+LUZ "MARKIT" _ proporciona’ el
+desarrollo, operacién“y~ mantenimiento de
+una solucién de-\Nistializacién y analisis,
+multiproducto ysmulticanal que se integra
+con los -sistemas back-office de
+"SANTANDER", de acuerdo con los
+requisitos) y’ especificaciones y por encargo
+de "SANTANDER". La Plataforma esta
+compuesta principalmente por la interfaz y
+experiencia de usuario (UI/UX),
+visualizacion de “customer journeys” y
+funcionalidades de analisis. Ademas,
+"MARKIT" integra y proporciona datos de
+"SANTANDER" y de otros Terceros en la
+
+s INTRODUCCION INTRODUCTION
+
+1.1. Contexto y Objetivos Estratégicos de | “SANTANDER” Context and Strategic Objectives
+“SANTANDER”
+
+1.1.1 "SANTANDER" est4é inmersa en un| “SANTANDER” is embarked in a transformation
+
+diseilo, | “MARKIT"
+
+journey to improve its banking digital capabilities for
+private clients enabling “SANTANDER” to strengthen
+its position in the market. As part of this transformation
+journey, “SANTANDER” has taken the decision to
+implement a digital investment solution (the “Platform”)
+for End Users and Advisors.
+
+provides the design, development,
+operations, and maintenance of a multi-product, multi-
+channel research and insights solution which is
+integrated with “SANTANDER”’s back-office systems
+according to the requirements and specifications and on
+behalf of “SANTANDER”. The Platform is mainly
+comprised by the user interface and user experience
+(UI/UX), workflows visualisation and analysis |
+functionalities. In addition, “MARKIT" integrates and
+delivers data from “SANTANDER” and other Third
+Parties in the Platform.
+
+The items that are specifically out of scope of this
+Services are detailed in section 1.3. of this Annex A.
+
+
+Confidential
+
+Plataforma.
+
+Los puntos que estan especificamente fuera
+del alcance de estos Servicios se detallan en
+la seccidén 1.3, de este Anexo A.
+
+“SANTANDER” provides user, product and portfolio
+data, and the necessary back-office functionalities.
+
+Overview of Services
+
+Teli3s "SANTANDER" proporciona datos de
+usuarios, productos y carteras, asi como las
+funcionalidades de back-office necesarias.
+
+1,2. Descripcién General de los Servicios
+Los Servicios = proporcionados _ por
+“MARKIT”  incluyen la __ operacién,
+
+mantenimiento y soporte de la Plataforma,
+asi como la puesta a disposicién de la
+infraestructura (hardware) necesaria y su
+integracion con los sistemas back-office de
+“SANTANDER”. “MARKIT” _ opera,
+mantiene, hospeda la Plataforma e integra
+
+diversos datos, conforme al detalle que se
+
+describe en la seccién 4 y 5 de este Anexo
+
+A.
+
+Los Servicios de alojamiento y operacién de
+
+“MARKIT” incluyen:
+
+a) Soporte de operaciones y monitoreo 24
+horas, 7 dias a la semana, 365 dias al
+ano
+
+b) Soporte y gestion de fuentes de datos
+
+c) Soporte las aplicaciones y
+funcionalidades (software)
+
+d) Gestién continua del proyecto
+
+e) Control de calidad
+
+f) Recursos de distintos equipos
+
+g) Control de uso de la plataforma y
+reporte
+
+h) Analiticas
+
+i) _Escalabilidad de los sistemas
+
+DESCRIPCION FUNCIONAL DE LA
+PLATAFORMA
+
+MVP
+Canales
+La Plataforma estara compuesta de paginas
+web-responsive.
+
+The Services provided by “MARKIT" consist of the
+operation, maintenance and support of the Platform, as
+well as the provision of the necessary hardware
+infrastructure and integration with “SANTANDER”™’s
+legacy systems. “MARKIT" operates, maintains, and
+hosts the Platform and supplies the required data as
+specified in section 4 and section 5 of this Annex.
+
+The hosting and operation Services from-“MARKIT”
+include:
+a) 24/7/365 operations support, monitoring
+b) Data feed support and mariagement
+c) Application and functioriality support (software)
+d) Ongoing project management
+e) Quality assurance,
+f) Team resources.
+g) Usage tracking and reporting
+Analytics
+i) System-scalability
+
+FUNCTIONAL DESCRIPTION OF THE PLATFORM
+
+Channels
+The Platform will be composed of web-responsive
+pages.
+
+Capacidades de Servicio al Cliente
+
+Customer Service Capabilities
+
+i, Documentos: La Plataforma proveera a los
+Usuarios Finales de documentos relevantes
+tales como contratos,propuestas e informes
+de mercado, asi coOm6 funcionalidades de
+
+busqueda.
+ii. Soporte en las~primeras conexiones: La
+Plataformass® encargara de proveer de un
+tutorial para ‘que el Usuario Final entienda el
+funci6namiento de la misma la primera vez
+que “se conecta. Cada vez que se incluya
+cualquier funcionalidad adicional se
+procedera de la misma manera.
+Capacidades de Gestién de Cartera de
+Inversion
+
+Documents: The Platform will provide End Users with
+relevant documents such as contracts, proposals and
+market reports, including the correspondent search
+functionalities.
+
+Support on-boarding: The Platform will provide a
+tutorial for the End User to understand how it works the
+first time it engages. Each time any additional
+functionality is included, it will work the same way.
+
+Portfolio Management Capabilities
+
+Y
+
+Cd
+
+Resumen: La Plataforma proveerd a los
+
+Summary: The Platform will provide End Users with a
+
+2/37
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+ORANGE: [ N:19:06:32, C:0:02:37, I:0:00:01 ] 
+Warning: JSON format not detected. No title found
+
+GREEN: [ N:19:06:32, C:0:02:37, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.1 00156062.pdf'.
+
+GREEN: [ N:19:06:32, C:0:02:37, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.1 00156062_clean.md'.
+
+RED: [ N:19:06:32, C:0:02:37, I:0:00:00 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+|
+
+CONTRATO DE PRESTACION DE SERVICIOS DE
+FECHA 8 DE OCTUBRE DE 2020 (LA “FECHA
+EFECTIVA”) QUE CELEBRAN POR UNA PARTE
+MARKIT GROUP LIMITED A QUIEN EN LO
+SUCESIVO SE LE DENOMINARA COMO
+“MARKIT”, REPRESENTADO EN ESTE ACTO POR
+MICHELLE LOADER Y POR LA OTRA PARTE
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+
+ENGLISH
+
+AGREEMENT FOR THE PROVISION OF
+SERVICES WITH EFFECTIVE DATE OF OCTOBER
+8, 2020 (“THE “EFFECTIVE DATE”) BY THE
+PARTY MARKIT GROUP LIMITED. WHO SHALL
+HEREINAFTER BE REFERRED TO AS THE
+"MARKIT", REPRESENTED IN THIS ACT BY
+MICHELLE LOADER AND BY THE OTHER PARTY
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPQ
+FINANCIERO SANTANDER MEXICO, WHO
+SHALL HEREINAFTER BE REFERRED TO\AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE-ERNESTO
+VEGA CENDEJAS AND RICARD@) ZAPIEN
+GARIBAY IN ACCORDANCE\\\WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+CLAUSULAS SIGUIENTES:
+DECLARACIONES:
+L Declara y garantiza “SANTANDER” por
+
+conducto de sus apoderados legales, que:
+
+RECITALS:
+"SANTANDER" represerits.and warrants through
+its legal representatives; that:
+
+Il Es una sociedad andénima debidamente
+constituida conforme a la legislacién mexicana
+y autorizada para operar como institucién de
+banca miltiple, segin consta en la escritura
+publica ntimero 11,085 de fecha 16 de
+noviembre de 1932, otorgada ante la fe del
+licenciado Heriberto José Ponce de Leén,
+Notario Publico 15 de la Ciudad de México,
+cuyo primer testimonio quedé inscrito en el
+Registro Puiblico de Comercio de dicha ciudad,
+con el nimero ciento treinta y tres ayfojas
+cuarenta y seis vuelta, volumen ochenta ly‘tres,
+libro tercero,
+
+It is a public limited ‘company duly constituted in
+accordance with Mexican law and authorized to operate
+as a multi-banking institution, as stated in public deed
+number 11,085ydated November 16, 1932, sworn before
+Heriberto José Ponce de Leén, Notary Public 15 of
+Mexico Gity, whose first original was registered in the
+Publi, Registry of Commerce of that city with the
+number one hundred thirty-three on the reverse of page
+forty-six, volume eighty-three, third book.
+
+1.2 Desde la fecha de su constitueién, ha sido
+objeto de diversos cambios corperdtivos, entre
+los que destacan la fusién de\Banco Santander
+Mexicano, S.A., Instituci6n de Banca
+Multiple, Grupo Finaneiero Santander Serfin,
+como sociedad -filsionante, misma que
+subsistié; y Banca Serfin, S.A., Institucion de
+Banca Miltiple,Grupo Financiero Santander
+Serfin, como*sociedad fusionada y que se
+extinguid;) asi como el cambio de
+denominacién social de Banco Santander
+Meéxieano, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander Serfin, S.A.,
+Institucién de Banca Multiple, Grupo
+Financiero Santander Serfin, la cual consta
+
+Since its establishment, it has been the subject of several
+corporate changes, among which are the merger of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, as a
+merger, which continued; and Banca Serfin, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander Serfin, as a merged company and that became
+extinct; as well as the change of company name of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, by Banco
+Santander Serfin, S.A., Institucién de Banca Multiple,
+Grupo Financiero Santander Serfin, which consists by
+public deed 70,725 dated December 13, 2004, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under |the
+
+1/73
+
+
+Confidential
+
+mediante la escritura publica 70,725 de fecha
+13 de diciembre de 2004, otorgada ante la fe
+del licenciado Miguel Alessio Robles, Notario
+Puiblico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo los folios mercantiles 63,608 y 214,958.
+
+commercial folios 63,608 and 214,958.
+
+Por escritura ptiblica 75,211 de fecha 31 de
+marzo de 2006, otorgada ante la fe del
+licenciado Miguel Alessio Robles, Notario
+Publico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo el folio mercantil 63,608 se hizo constar
+el cambio de denominacién social de Banco
+Santander Serfin, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander, S.A., Institucién de
+Banca Multiple, Grupo Financiero Santander.
+
+By public deed 75,211 dated 31 March 2006, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under (the
+commercial folio 63,608, wherein was recordéd\ the
+change of company name of Banco Santander Serfin,
+S.A., Institucién de Banca Multiple, Grupo™Financiero
+Santander Serfin, to Banco Santander, S»A¢y Institucién
+de Banca Multiple, Grupo Financiero Santander.
+
+14
+
+Por escritura publica 80,610 de fecha 10 de
+abril de 2008, otorgada ante la fe del
+licenciado Alfonso Gonzalez Alonso, Notario
+Publico 31 de la Ciudad de México, actuando
+como suplente en el protocolo de la Notaria 19
+de la Ciudad de México, siendo titular el
+licenciado Miguel Alessio Robles, se hizo
+constar el cambio de denominacién de Banco
+Santander, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander, por la
+de Banco Santander (México), S.A,
+Institucién de Banca Miltiple, Grpo
+Financiero Santander.
+
+By public deed 80,610 dated April 10, 2008, sworn
+before Alfonso Gonzaléz.Alonso, Notary Public 31 of
+Mexico City, acting.as\a replacement in the notarial
+book of Notaria.19-of Mexico City, the holder of that
+office being Miguel Alessio Robles, in which was
+recorded the change of name of Banco Santander, S.A.,
+Institucién “dé Banca Multiple, Grupo Financiero
+Santander,» to Banco Santander (Mexico), S.A.,
+Institucién de Banca Multiple, Grupo Financiero
+Santander.
+
+15
+
+Por escritura publica 88,542 del 18 de dctubre
+de 2012, otorgada ante la fe del licericiado
+Miguel Alessio Robles, Notario-Publito 19 de
+la Ciudad de México, inscrita en/el Registro
+Publico de Comercio de dich’ ciudad bajo el
+folio mercantil 63,608, 8e~hizo constar la
+protocolizacién del yacta de asamblea
+extraordinaria porlaque se hizo constar el
+
+cambio de denominacién del Grupo
+Financiero dé Banco Santander, S.A,,
+Institucién® de Banca Miltiple, Grupo
+
+Financiefo)Santander, para quedar como
+actualthente se encuentra vigente Banco
+Santander (México), S.A., Institucion de
+Banca Multiple, Grupo Financiero Santander
+México.
+
+By public deed 88,542 of October 18, 2012, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, registered in the Public Register of
+Commerce of that city under the commercial folio
+63,608, in which was recorded the protocolization of the
+act of extraordinary assembly which stated the change of
+name of the Financial Group of Banco Santander, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander, to remain currently in force Banco Santander
+(Mexico), S.A., Institution of Multiple Banking, Grupo
+Financiero Santander Mexico,
+
+I6
+
+Por escritura publica namero 87,947 de fecha
+5 de septiembre de 2018 otorgada ante fe del
+
+By public deed number 87,947 dated September 5, 2018
+sworn before Marco Antonio Ruiz Aguirre, Notary
+
+2 FS
+
+ZA
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:06:33, C:0:02:38, I:0:00:01 ] 
+Giving up on this Gemini Request): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Confidential
+
+SPANISH
+
+|
+
+CONTRATO DE PRESTACION DE SERVICIOS DE
+FECHA 8 DE OCTUBRE DE 2020 (LA “FECHA
+EFECTIVA”) QUE CELEBRAN POR UNA PARTE
+MARKIT GROUP LIMITED A QUIEN EN LO
+SUCESIVO SE LE DENOMINARA COMO
+“MARKIT”, REPRESENTADO EN ESTE ACTO POR
+MICHELLE LOADER Y POR LA OTRA PARTE
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPO
+FINANCIERO SANTANDER MEXICO, A QUIEN
+EN LO SUCESIVO SE LE DENOMINARA COMO
+“SANTANDER”, REPRESENTADA EN ESTE ACTO
+POR SUS APODERADOS JORGE ERNESTO VEGA
+CENDEJAS Y RICARDO ZAPIEN GARIBAY DE
+CONFORMIDAD CON LAS DECLARACIONES Y
+
+ENGLISH
+
+AGREEMENT FOR THE PROVISION OF
+SERVICES WITH EFFECTIVE DATE OF OCTOBER
+8, 2020 (“THE “EFFECTIVE DATE”) BY THE
+PARTY MARKIT GROUP LIMITED. WHO SHALL
+HEREINAFTER BE REFERRED TO AS THE
+"MARKIT", REPRESENTED IN THIS ACT BY
+MICHELLE LOADER AND BY THE OTHER PARTY
+BANCO SANTANDER MEXICO S.A.,
+INSTITUCION DE BANCA MULTIPLE, GRUPQ
+FINANCIERO SANTANDER MEXICO, WHO
+SHALL HEREINAFTER BE REFERRED TO\AS
+"SANTANDER", REPRESENTED IN THIS ACT BY
+ITS LEGAL REPRESENTATIVES JORGE-ERNESTO
+VEGA CENDEJAS AND RICARD@) ZAPIEN
+GARIBAY IN ACCORDANCE\\\WITH THE
+FOLLOWING RECITALS AND CLAUSES:
+
+CLAUSULAS SIGUIENTES:
+DECLARACIONES:
+L Declara y garantiza “SANTANDER” por
+
+conducto de sus apoderados legales, que:
+
+RECITALS:
+"SANTANDER" represerits.and warrants through
+its legal representatives; that:
+
+Il Es una sociedad andénima debidamente
+constituida conforme a la legislacién mexicana
+y autorizada para operar como institucién de
+banca miltiple, segin consta en la escritura
+publica ntimero 11,085 de fecha 16 de
+noviembre de 1932, otorgada ante la fe del
+licenciado Heriberto José Ponce de Leén,
+Notario Publico 15 de la Ciudad de México,
+cuyo primer testimonio quedé inscrito en el
+Registro Puiblico de Comercio de dicha ciudad,
+con el nimero ciento treinta y tres ayfojas
+cuarenta y seis vuelta, volumen ochenta ly‘tres,
+libro tercero,
+
+It is a public limited ‘company duly constituted in
+accordance with Mexican law and authorized to operate
+as a multi-banking institution, as stated in public deed
+number 11,085ydated November 16, 1932, sworn before
+Heriberto José Ponce de Leén, Notary Public 15 of
+Mexico Gity, whose first original was registered in the
+Publi, Registry of Commerce of that city with the
+number one hundred thirty-three on the reverse of page
+forty-six, volume eighty-three, third book.
+
+1.2 Desde la fecha de su constitueién, ha sido
+objeto de diversos cambios corperdtivos, entre
+los que destacan la fusién de\Banco Santander
+Mexicano, S.A., Instituci6n de Banca
+Multiple, Grupo Finaneiero Santander Serfin,
+como sociedad -filsionante, misma que
+subsistié; y Banca Serfin, S.A., Institucion de
+Banca Miltiple,Grupo Financiero Santander
+Serfin, como*sociedad fusionada y que se
+extinguid;) asi como el cambio de
+denominacién social de Banco Santander
+Meéxieano, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander Serfin, S.A.,
+Institucién de Banca Multiple, Grupo
+Financiero Santander Serfin, la cual consta
+
+Since its establishment, it has been the subject of several
+corporate changes, among which are the merger of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, as a
+merger, which continued; and Banca Serfin, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander Serfin, as a merged company and that became
+extinct; as well as the change of company name of
+Banco Santander Mexicano, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin, by Banco
+Santander Serfin, S.A., Institucién de Banca Multiple,
+Grupo Financiero Santander Serfin, which consists by
+public deed 70,725 dated December 13, 2004, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under |the
+
+1/73
+
+
+Confidential
+
+mediante la escritura publica 70,725 de fecha
+13 de diciembre de 2004, otorgada ante la fe
+del licenciado Miguel Alessio Robles, Notario
+Puiblico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo los folios mercantiles 63,608 y 214,958.
+
+commercial folios 63,608 and 214,958.
+
+Por escritura ptiblica 75,211 de fecha 31 de
+marzo de 2006, otorgada ante la fe del
+licenciado Miguel Alessio Robles, Notario
+Publico 19 de la Ciudad de México, cuyo
+primer testimonio quedé inscrito en el
+Registro Publico de Comercio de dicha ciudad
+bajo el folio mercantil 63,608 se hizo constar
+el cambio de denominacién social de Banco
+Santander Serfin, S.A., Institucién de Banca
+Multiple, Grupo Financiero Santander Serfin,
+por la de Banco Santander, S.A., Institucién de
+Banca Multiple, Grupo Financiero Santander.
+
+By public deed 75,211 dated 31 March 2006, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, whose first original was registered in the
+Public Register of Commerce of that city under (the
+commercial folio 63,608, wherein was recordéd\ the
+change of company name of Banco Santander Serfin,
+S.A., Institucién de Banca Multiple, Grupo™Financiero
+Santander Serfin, to Banco Santander, S»A¢y Institucién
+de Banca Multiple, Grupo Financiero Santander.
+
+14
+
+Por escritura publica 80,610 de fecha 10 de
+abril de 2008, otorgada ante la fe del
+licenciado Alfonso Gonzalez Alonso, Notario
+Publico 31 de la Ciudad de México, actuando
+como suplente en el protocolo de la Notaria 19
+de la Ciudad de México, siendo titular el
+licenciado Miguel Alessio Robles, se hizo
+constar el cambio de denominacién de Banco
+Santander, S.A.,  Institucién de Banca
+Multiple, Grupo Financiero Santander, por la
+de Banco Santander (México), S.A,
+Institucién de Banca Miltiple, Grpo
+Financiero Santander.
+
+By public deed 80,610 dated April 10, 2008, sworn
+before Alfonso Gonzaléz.Alonso, Notary Public 31 of
+Mexico City, acting.as\a replacement in the notarial
+book of Notaria.19-of Mexico City, the holder of that
+office being Miguel Alessio Robles, in which was
+recorded the change of name of Banco Santander, S.A.,
+Institucién “dé Banca Multiple, Grupo Financiero
+Santander,» to Banco Santander (Mexico), S.A.,
+Institucién de Banca Multiple, Grupo Financiero
+Santander.
+
+15
+
+Por escritura publica 88,542 del 18 de dctubre
+de 2012, otorgada ante la fe del licericiado
+Miguel Alessio Robles, Notario-Publito 19 de
+la Ciudad de México, inscrita en/el Registro
+Publico de Comercio de dich’ ciudad bajo el
+folio mercantil 63,608, 8e~hizo constar la
+protocolizacién del yacta de asamblea
+extraordinaria porlaque se hizo constar el
+
+cambio de denominacién del Grupo
+Financiero dé Banco Santander, S.A,,
+Institucién® de Banca Miltiple, Grupo
+
+Financiefo)Santander, para quedar como
+actualthente se encuentra vigente Banco
+Santander (México), S.A., Institucion de
+Banca Multiple, Grupo Financiero Santander
+México.
+
+By public deed 88,542 of October 18, 2012, sworn
+before Miguel Alessio Robles, Notary Public 19 of
+Mexico City, registered in the Public Register of
+Commerce of that city under the commercial folio
+63,608, in which was recorded the protocolization of the
+act of extraordinary assembly which stated the change of
+name of the Financial Group of Banco Santander, S.A.,
+Institution of Multiple Banking, Grupo Financiero
+Santander, to remain currently in force Banco Santander
+(Mexico), S.A., Institution of Multiple Banking, Grupo
+Financiero Santander Mexico,
+
+I6
+
+Por escritura publica namero 87,947 de fecha
+5 de septiembre de 2018 otorgada ante fe del
+
+By public deed number 87,947 dated September 5, 2018
+sworn before Marco Antonio Ruiz Aguirre, Notary
+
+2 FS
+
+ZA
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+ORANGE: [ N:19:06:34, C:0:02:39, I:0:00:01 ] 
+Warning: JSON format not detected. No title found
+
+GREEN: [ N:19:06:35, C:0:02:39, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.2 MSA Santander.pdf'.
+
+GREEN: [ N:19:06:35, C:0:02:39, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/08 Banco Santander Totta, S.A/Banco-Santander-3.6.1.8.2 MSA Santander_clean.md'.
+
+GREEN: [ N:19:06:35, C:0:02:39, I:0:00:00 ] 
+All documents processed.

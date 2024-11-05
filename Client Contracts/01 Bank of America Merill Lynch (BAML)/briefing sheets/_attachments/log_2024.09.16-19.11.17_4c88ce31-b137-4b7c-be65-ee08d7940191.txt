@@ -1,0 +1,153 @@
+YELLOW: [ N:19:11:17, C:0:00:00, I:0:00:00 ] 
+PDF Files to Process: ['/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/01 Bank of America Merill Lynch (BAML)/briefing sheets/Sales Briefing - BAML 2024 09 16.pdf']
+
+YELLOW: [ N:19:11:17, C:0:00:00, I:0:00:00 ] 
+Image Files to Process: []
+
+YELLOW: [ N:19:11:17, C:0:00:00, I:0:00:00 ] 
+Office Document Files to Process: []
+
+CYAN: [ N:19:11:17, C:0:00:00, I:0:00:00 ] 
+Beginning processing of 1 files.
+
+NC: [ N:19:11:17, C:0:00:00, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/01 Bank of America Merill Lynch (BAML)/briefing sheets/Sales Briefing - BAML 2024 09 16.pdf
+
+NC: [ N:19:11:17, C:0:00:00, I:0:00:00 ] 
+Begin extracting text from 'Sales Briefing - BAML 2024 09 16.pdf'.
+
+NC: [ N:19:11:17, C:0:00:00, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/01 Bank of America Merill Lynch (BAML)/briefing sheets/Sales Briefing - BAML 2024 09 16.pdf'
+
+NC: [ N:19:11:19, C:0:00:02, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/01 Bank of America Merill Lynch (BAML)/briefing sheets/Sales Briefing - BAML 2024 09 16.pdf'
+
+NC: [ N:19:11:22, C:0:00:05, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/01 Bank of America Merill Lynch (BAML)/briefing sheets/Sales Briefing - BAML 2024 09 16.pdf'
+
+RED: [ N:19:11:23, C:0:00:05, I:0:00:00 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Community &) Fincentric
+
+Sales Briefing: Bank of America and Merrill
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:11:24, C:0:00:06, I:0:00:01 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Community &) Fincentric
+
+Sales Briefing: Bank of America and Merrill
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:11:26, C:0:00:09, I:0:00:02 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Community &) Fincentric
+
+Sales Briefing: Bank of America and Merrill
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:11:27, C:0:00:10, I:0:00:01 ] 
+Gemini Error (Try 2): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Community &) Fincentric
+
+Sales Briefing: Bank of America and Merrill
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:11:30, C:0:00:13, I:0:00:03 ] 
+Gemini Error (Try 1): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Community &) Fincentric
+
+Sales Briefing: Bank of America and Merrill
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+RED: [ N:19:11:31, C:0:00:14, I:0:00:01 ] 
+Giving up on this Gemini Request): Client error '400 Bad Request' for url 'https://generativelanguage.googleapis.com/v1/models/gemini-1.5-flash:generateContent?key=None'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400
+ Prompt Given the text below, which is the first part of a document or set of images, please attempt to obtain the formal title of the document or create one based on the content and return it in the specified JSON format.:
+        
+        ### Start of Text ###
+        Community &) Fincentric
+
+Sales Briefing: Bank of America and Merrill
+
+
+        ### End of Text ###
+        
+        Your response is being systematically integrated. Only return the title in the specified JSON format below:
+        {
+    "title": "[Formal Title of Document]"
+}
+
+
+ORANGE: [ N:19:11:32, C:0:00:15, I:0:00:01 ] 
+Warning: JSON format not detected. No title found
+
+GREEN: [ N:19:11:32, C:0:00:15, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/01 Bank of America Merill Lynch (BAML)/briefing sheets/Sales Briefing - BAML 2024 09 16.pdf'.
+
+GREEN: [ N:19:11:32, C:0:00:15, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/*Clients/01 Bank of America Merill Lynch (BAML)/briefing sheets/Sales Briefing - BAML 2024 09 16_clean.md'.
+
+GREEN: [ N:19:11:32, C:0:00:15, I:0:00:00 ] 
+All documents processed.

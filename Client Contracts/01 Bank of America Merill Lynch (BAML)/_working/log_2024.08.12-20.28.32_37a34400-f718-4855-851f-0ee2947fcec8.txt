@@ -1,0 +1,256 @@
+YELLOW: [ N:20:28:32, C:0:00:00, I:0:00:00 ] 
+PDF Files to Process: ['/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.2 00256241.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.1 00122259.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.9 00120387.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.5 00122294.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.4 00117972.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.10 00122266.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.3 00120360.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.8 00115811.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.6 20070522_Merrill Lynch Application Development and Hosting Agreement.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.11 00103863.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.7 00258056.pdf']
+
+YELLOW: [ N:20:28:32, C:0:00:00, I:0:00:00 ] 
+Image Files to Process: []
+
+YELLOW: [ N:20:28:32, C:0:00:00, I:0:00:00 ] 
+Office Document Files to Process: []
+
+CYAN: [ N:20:28:32, C:0:00:00, I:0:00:00 ] 
+Beginning processing of 11 files.
+
+NC: [ N:20:28:32, C:0:00:00, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.6 20070522_Merrill Lynch Application Development and Hosting Agreement.pdf
+
+NC: [ N:20:28:32, C:0:00:00, I:0:00:00 ] 
+Begin extracting text from 'BAML-3.6.1.1.1.6 20070522_Merrill Lynch Application Development and Hosting Agreement.pdf'.
+
+NC: [ N:20:28:32, C:0:00:00, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.6 20070522_Merrill Lynch Application Development and Hosting Agreement.pdf'
+
+NC: [ N:20:28:42, C:0:00:09, I:0:00:09 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.6 20070522_Merrill Lynch Application Development and Hosting Agreement.pdf'
+
+NC: [ N:20:28:50, C:0:00:18, I:0:00:08 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.6 20070522_Merrill Lynch Application Development and Hosting Agreement.pdf'
+
+NC: [ N:20:28:50, C:0:00:18, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.1 00122259.pdf
+
+NC: [ N:20:28:50, C:0:00:18, I:0:00:00 ] 
+Begin extracting text from 'BAML-3.6.1.1.1.1 00122259.pdf'.
+
+NC: [ N:20:28:50, C:0:00:18, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.1 00122259.pdf'
+
+NC: [ N:20:28:51, C:0:00:18, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.1 00122259.pdf'
+
+NC: [ N:20:28:54, C:0:00:21, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.1 00122259.pdf'
+
+NC: [ N:20:28:54, C:0:00:21, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.9 00120387.pdf
+
+NC: [ N:20:28:54, C:0:00:21, I:0:00:00 ] 
+Begin extracting text from 'BAML-3.6.1.1.1.9 00120387.pdf'.
+
+NC: [ N:20:28:54, C:0:00:21, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.9 00120387.pdf'
+
+NC: [ N:20:28:54, C:0:00:22, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.9 00120387.pdf'
+
+NC: [ N:20:28:57, C:0:00:24, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.9 00120387.pdf'
+
+NC: [ N:20:28:57, C:0:00:24, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.4 00117972.pdf
+
+NC: [ N:20:28:57, C:0:00:24, I:0:00:00 ] 
+Begin extracting text from 'BAML-3.6.1.1.1.4 00117972.pdf'.
+
+NC: [ N:20:28:57, C:0:00:24, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.4 00117972.pdf'
+
+NC: [ N:20:28:58, C:0:00:25, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.4 00117972.pdf'
+
+NC: [ N:20:29:00, C:0:00:28, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.4 00117972.pdf'
+
+NC: [ N:20:29:01, C:0:00:28, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.8 00115811.pdf
+
+NC: [ N:20:29:01, C:0:00:28, I:0:00:00 ] 
+Begin extracting text from 'BAML-3.6.1.1.1.8 00115811.pdf'.
+
+NC: [ N:20:29:01, C:0:00:28, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.8 00115811.pdf'
+
+NC: [ N:20:29:01, C:0:00:28, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.8 00115811.pdf'
+
+NC: [ N:20:29:04, C:0:00:32, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.8 00115811.pdf'
+
+NC: [ N:20:29:04, C:0:00:32, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.5 00122294.pdf
+
+NC: [ N:20:29:04, C:0:00:32, I:0:00:00 ] 
+Begin extracting text from 'BAML-3.6.1.1.1.5 00122294.pdf'.
+
+NC: [ N:20:29:04, C:0:00:32, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.5 00122294.pdf'
+
+NC: [ N:20:29:05, C:0:00:33, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.5 00122294.pdf'
+
+NC: [ N:20:29:08, C:0:00:36, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.5 00122294.pdf'
+
+NC: [ N:20:29:09, C:0:00:36, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.11 00103863.pdf
+
+NC: [ N:20:29:09, C:0:00:36, I:0:00:00 ] 
+Begin extracting text from 'BAML-3.6.1.1.1.11 00103863.pdf'.
+
+NC: [ N:20:29:09, C:0:00:36, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.11 00103863.pdf'
+
+NC: [ N:20:29:09, C:0:00:36, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.11 00103863.pdf'
+
+NC: [ N:20:29:12, C:0:00:40, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.11 00103863.pdf'
+
+NC: [ N:20:29:12, C:0:00:40, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.2 00256241.pdf
+
+NC: [ N:20:29:12, C:0:00:40, I:0:00:00 ] 
+Begin extracting text from 'BAML-3.6.1.1.1.2 00256241.pdf'.
+
+NC: [ N:20:29:12, C:0:00:40, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.2 00256241.pdf'
+
+NC: [ N:20:29:13, C:0:00:40, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.2 00256241.pdf'
+
+NC: [ N:20:29:16, C:0:00:44, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.2 00256241.pdf'
+
+NC: [ N:20:29:16, C:0:00:44, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.7 00258056.pdf
+
+NC: [ N:20:29:16, C:0:00:44, I:0:00:00 ] 
+Begin extracting text from 'BAML-3.6.1.1.1.7 00258056.pdf'.
+
+NC: [ N:20:29:16, C:0:00:44, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.7 00258056.pdf'
+
+NC: [ N:20:29:17, C:0:00:44, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.7 00258056.pdf'
+
+NC: [ N:20:29:19, C:0:00:46, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.7 00258056.pdf'
+
+NC: [ N:20:29:19, C:0:00:47, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.3 00120360.pdf
+
+NC: [ N:20:29:19, C:0:00:47, I:0:00:00 ] 
+Begin extracting text from 'BAML-3.6.1.1.1.3 00120360.pdf'.
+
+NC: [ N:20:29:19, C:0:00:47, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.3 00120360.pdf'
+
+NC: [ N:20:29:20, C:0:00:47, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.3 00120360.pdf'
+
+NC: [ N:20:29:22, C:0:00:50, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.3 00120360.pdf'
+
+NC: [ N:20:29:23, C:0:00:50, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.10 00122266.pdf
+
+NC: [ N:20:29:23, C:0:00:50, I:0:00:00 ] 
+Begin extracting text from 'BAML-3.6.1.1.1.10 00122266.pdf'.
+
+NC: [ N:20:29:23, C:0:00:50, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.10 00122266.pdf'
+
+NC: [ N:20:29:23, C:0:00:51, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.10 00122266.pdf'
+
+NC: [ N:20:29:27, C:0:00:54, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.10 00122266.pdf'
+
+GREEN: [ N:20:29:33, C:0:01:00, I:0:00:06 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.9 00120387.pdf'.
+
+GREEN: [ N:20:29:33, C:0:01:00, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/BAML-3.6.1.1.1.9 00120387_clean.md'.
+
+GREEN: [ N:20:29:34, C:0:01:01, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.7 00258056.pdf'.
+
+GREEN: [ N:20:29:34, C:0:01:01, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/BAML-3.6.1.1.1.7 00258056_clean.md'.
+
+GREEN: [ N:20:29:34, C:0:01:01, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.3 00120360.pdf'.
+
+GREEN: [ N:20:29:34, C:0:01:01, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/BAML-3.6.1.1.1.3 00120360_clean.md'.
+
+GREEN: [ N:20:29:35, C:0:01:02, I:0:00:01 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.4 00117972.pdf'.
+
+GREEN: [ N:20:29:35, C:0:01:02, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/BAML-3.6.1.1.1.4 00117972_clean.md'.
+
+GREEN: [ N:20:29:35, C:0:01:02, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.1 00122259.pdf'.
+
+GREEN: [ N:20:29:35, C:0:01:02, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/BAML-3.6.1.1.1.1 00122259_clean.md'.
+
+GREEN: [ N:20:29:35, C:0:01:02, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.2 00256241.pdf'.
+
+GREEN: [ N:20:29:35, C:0:01:02, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/BAML-3.6.1.1.1.2 00256241_clean.md'.
+
+GREEN: [ N:20:29:36, C:0:01:03, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.5 00122294.pdf'.
+
+GREEN: [ N:20:29:36, C:0:01:03, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/BAML-3.6.1.1.1.5 00122294_clean.md'.
+
+GREEN: [ N:20:29:36, C:0:01:03, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.8 00115811.pdf'.
+
+GREEN: [ N:20:29:36, C:0:01:03, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/BAML-3.6.1.1.1.8 00115811_clean.md'.
+
+GREEN: [ N:20:29:36, C:0:01:03, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.11 00103863.pdf'.
+
+GREEN: [ N:20:29:36, C:0:01:03, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/BAML-3.6.1.1.1.11 00103863_clean.md'.
+
+GREEN: [ N:20:29:36, C:0:01:03, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.10 00122266.pdf'.
+
+GREEN: [ N:20:29:36, C:0:01:03, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/BAML-3.6.1.1.1.10 00122266_clean.md'.
+
+GREEN: [ N:20:29:36, C:0:01:04, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/_attachments/BAML-3.6.1.1.1.6 20070522_Merrill Lynch Application Development and Hosting Agreement.pdf'.
+
+GREEN: [ N:20:29:36, C:0:01:04, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Clients/01 Bank of America Merill Lynch (BAML)/BAML-3.6.1.1.1.6 20070522_Merrill Lynch Application Development and Hosting Agreement_clean.md'.
+
+GREEN: [ N:20:29:36, C:0:01:04, I:0:00:00 ] 
+All documents processed.

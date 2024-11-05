@@ -1,0 +1,1334 @@
+YELLOW: [ N:15:50:03, C:0:00:00, I:0:00:00 ] 
+PDF Files to Process: ['/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.2 20230930 SPGMI-MoD Benzinga Order Sched 1 Logos.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.1 20230804 SPGMI-MoD Benzinga Master Logos.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.7 MSCI_MOD_IndexDistribution_Addendum_20090316.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.2 Schedule-EDVS_00298538.0_ FO_012122_Markit Digital_Revised_2-3-22 v2.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.5 MSCI_MOD_IndexDistribution_Schedule A_20200924.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.1 MSCI_MOD_IndexDistribution_US REIT_Schedule A_20090320.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.4 MSCI_MOD_IndexDistribution_ScheduleA_Amendment_20201013.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.1 Master-EDV_00298537.0_FO_012122_Markit Digital_Revised_2-3-22 v2.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.2 MSCI_MOD_IndexDistribution_Schedule A_20200319.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.3 MSCI_MoD-IndexDistribution_Agreement_20080922.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.6 MSCI_MOD_IndexDistribution_Schedule A_20080922.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.2 Morningstar_MOD_ProductLicenseAgreement_20190308.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.4 Morningstar_MGL_MasterAgreement_20120901.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.1 Morningstar_MOD_ProductLicenseAgreement_20140501.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.3 Morningstar_MOD_ProductLicenseAgreement_20120901.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.1 Briefing_MOD License Agreement Executed 20031201.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.2 Briefing_MOD Addendum 20090821.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.1 MidnightTrader_MOD_Agreement_20160801.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.2 MidnightTrader_MOD_Amendment1_20170601.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.4 ICE (BofA Indices)/_attachments/3.6.4.2.4.1 ICE_MGL_BofA Index Data Redistribution Agreement_20211102.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.2 Wall Street Horizon_WSOD_Common Client Confirmation Letter_20220404.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.1 Wall Street Horizon_WSOD_Schwab Renewal_20220503.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.3 Wall Street Horizon_WSOD_Database Content Reseller Agreement_20050111.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.1 Ford Investor Services_MOD Service Bureau Agrmt Executed 19970708.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.2 Ford Investor Services_MOD Addendum 20000417.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.12 Dow Jones Factiva/_attachments/3.6.4.1.12.1 WSOD_20091001_DowJones_Factiva License.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.9 SIX_MOD VDF Addend _3_Executed 20080901.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.2 SIX_MOD MDF Addend _1_Executed 20090812.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.7 SIX_MOD MSA_Executed 20081001.pdf', "/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.6 SIX_MOD VDF Addend _2'_Executed 20111001.pdf", '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.11 SIX_MOD MDF Addend _2_Executed 20091008.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.4 SIX_MOD VDF Amendment_Executed 20090219.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.10 SIX_MOD MDF Addend _4_Exdecuted 20100119.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.3 SIX_MOD VDF Extension Ltr_Executed 20110629.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.1 SIX_MOD VDF Addend _13_Executed 20111102.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.8 SIX_MOD VDF Addend _8_Executed 20101108.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.5 SIX_MOD VDF Addend _2_Executed 20090901.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.20 MDM/_attachments/3.6.4.1.20.1 MarketData Management Solutions Corp MSA QuoteAudit 20090201.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.15 ValueLine/_attachments/3.6.4.1.15.1 Value Line_MOD SOW _2 Factset_Executed 20121206.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.1 Cannex/_attachments/3.6.4.1.1.1 Cannex_MOD Cannex Service Agreement Executed 20070518.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.17 Factset/_attachments/3.6.4.1.17.1 FactSet_MOD MSA 20060801.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.8 Zacks/_attachments/3.6.4.1.8.1 20050908_WSOD_ZACKS Content Redistribution License Agreement_signed.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.10 Comtex/_attachments/3.6.4.1.10.1 Comtex MOD License Agreement--20130301.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.6 LSEG Refinitiv/_attachments/3.6.4.1.6.1 WSOD_Reuters_Datascope_Master Addendum and OF_20021031.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.18 Copp Clark/_attachments/3.6.4.1.18.1 20080211 - Copp Clark - WSOD - Holiday Calendar and Trading Hours - Data Agreements.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.5 Acquire Media/_attachments/3.6.4.1.5.1 Acquiremedia_MOD MLA Fully Executed 20060811.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.16 Econoday/_attachments/3.6.4.1.16.1 Econoday_MOD_Content Distribution Agrmt Executed 20070413.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.21 Morningnotes/_attachments/3.6.4.1.21.1 Morningnotes.com_WSOD Content Distribution Agreement Executed 20090314.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.2 SPDJI_MOD_MDA_20050401.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.1 SPDJI_MOD_MDA_OS7_20191201.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.2 Options Clearing Corp/_attachments/3.6.4.2.2.1 OCC_MGL Agreement Fully Executed 20120322.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.3 TheStreet/_attachments/3.6.4.1.3.1 TheStreet.com_WSOD Research Firm Agreement Executed 20110223.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.3 OPRA_WSOD_VendorAgreement_20090102.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.4 OPRA_MOD Distrib Declaration_Executed 20160112.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.1 OPRA_WSOD_PolicyDocument_Undated.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.2 OPRA_MOD Distrib Declaration 20151218.pdf']
+
+YELLOW: [ N:15:50:03, C:0:00:00, I:0:00:00 ] 
+Image Files to Process: []
+
+YELLOW: [ N:15:50:03, C:0:00:00, I:0:00:00 ] 
+Office Document Files to Process: []
+
+CYAN: [ N:15:50:03, C:0:00:00, I:0:00:00 ] 
+Beginning processing of 60 files.
+
+NC: [ N:15:50:03, C:0:00:00, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.1 MSCI_MOD_IndexDistribution_US REIT_Schedule A_20090320.pdf
+
+NC: [ N:15:50:03, C:0:00:00, I:0:00:00 ] 
+Begin extracting text from 'MSCI-Index-Data-3.6.4.1.14.2.1 MSCI_MOD_IndexDistribution_US REIT_Schedule A_20090320.pdf'.
+
+NC: [ N:15:50:03, C:0:00:00, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.1 MSCI_MOD_IndexDistribution_US REIT_Schedule A_20090320.pdf'
+
+NC: [ N:15:50:04, C:0:00:00, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.1 MSCI_MOD_IndexDistribution_US REIT_Schedule A_20090320.pdf'
+
+NC: [ N:15:50:06, C:0:00:02, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.1 MSCI_MOD_IndexDistribution_US REIT_Schedule A_20090320.pdf'
+
+NC: [ N:15:50:06, C:0:00:02, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.12 Dow Jones Factiva/_attachments/3.6.4.1.12.1 WSOD_20091001_DowJones_Factiva License.pdf
+
+NC: [ N:15:50:06, C:0:00:02, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.12.1 WSOD_20091001_DowJones_Factiva License.pdf'.
+
+NC: [ N:15:50:06, C:0:00:02, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.12 Dow Jones Factiva/_attachments/3.6.4.1.12.1 WSOD_20091001_DowJones_Factiva License.pdf'
+
+NC: [ N:15:50:07, C:0:00:03, I:0:00:01 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.12 Dow Jones Factiva/_attachments/3.6.4.1.12.1 WSOD_20091001_DowJones_Factiva License.pdf'
+
+NC: [ N:15:50:10, C:0:00:06, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.12 Dow Jones Factiva/_attachments/3.6.4.1.12.1 WSOD_20091001_DowJones_Factiva License.pdf'
+
+NC: [ N:15:50:10, C:0:00:06, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.8 SIX_MOD VDF Addend _8_Executed 20101108.pdf
+
+NC: [ N:15:50:10, C:0:00:06, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.22.8 SIX_MOD VDF Addend _8_Executed 20101108.pdf'.
+
+NC: [ N:15:50:10, C:0:00:06, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.8 SIX_MOD VDF Addend _8_Executed 20101108.pdf'
+
+NC: [ N:15:50:11, C:0:00:07, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.8 SIX_MOD VDF Addend _8_Executed 20101108.pdf'
+
+NC: [ N:15:50:13, C:0:00:09, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.8 SIX_MOD VDF Addend _8_Executed 20101108.pdf'
+
+NC: [ N:15:50:13, C:0:00:09, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf
+
+NC: [ N:15:50:13, C:0:00:09, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf'.
+
+NC: [ N:15:50:13, C:0:00:09, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf'
+
+NC: [ N:15:50:13, C:0:00:09, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf'
+
+NC: [ N:15:50:15, C:0:00:11, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf'
+
+NC: [ N:15:50:16, C:0:00:12, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.7 MSCI_MOD_IndexDistribution_Addendum_20090316.pdf
+
+NC: [ N:15:50:16, C:0:00:12, I:0:00:00 ] 
+Begin extracting text from 'MSCI-Index-Data-3.6.4.1.14.2.7 MSCI_MOD_IndexDistribution_Addendum_20090316.pdf'.
+
+NC: [ N:15:50:16, C:0:00:12, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.7 MSCI_MOD_IndexDistribution_Addendum_20090316.pdf'
+
+NC: [ N:15:50:17, C:0:00:13, I:0:00:01 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.7 MSCI_MOD_IndexDistribution_Addendum_20090316.pdf'
+
+NC: [ N:15:50:19, C:0:00:15, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.7 MSCI_MOD_IndexDistribution_Addendum_20090316.pdf'
+
+NC: [ N:15:50:20, C:0:00:16, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.4 MSCI_MOD_IndexDistribution_ScheduleA_Amendment_20201013.pdf
+
+NC: [ N:15:50:20, C:0:00:16, I:0:00:00 ] 
+Begin extracting text from 'MSCI-Index-Data-3.6.4.1.14.2.4 MSCI_MOD_IndexDistribution_ScheduleA_Amendment_20201013.pdf'.
+
+NC: [ N:15:50:20, C:0:00:16, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.4 MSCI_MOD_IndexDistribution_ScheduleA_Amendment_20201013.pdf'
+
+NC: [ N:15:50:20, C:0:00:16, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.4 MSCI_MOD_IndexDistribution_ScheduleA_Amendment_20201013.pdf'
+
+NC: [ N:15:50:22, C:0:00:18, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.4 MSCI_MOD_IndexDistribution_ScheduleA_Amendment_20201013.pdf'
+
+NC: [ N:15:50:23, C:0:00:19, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.1 20230804 SPGMI-MoD Benzinga Master Logos.pdf
+
+NC: [ N:15:50:23, C:0:00:19, I:0:00:00 ] 
+Begin extracting text from '3.6.4.2.1.1 20230804 SPGMI-MoD Benzinga Master Logos.pdf'.
+
+NC: [ N:15:50:23, C:0:00:19, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.1 20230804 SPGMI-MoD Benzinga Master Logos.pdf'
+
+NC: [ N:15:50:28, C:0:00:24, I:0:00:05 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.1 20230804 SPGMI-MoD Benzinga Master Logos.pdf'
+
+NC: [ N:15:50:34, C:0:00:30, I:0:00:05 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.1 20230804 SPGMI-MoD Benzinga Master Logos.pdf'
+
+NC: [ N:15:50:34, C:0:00:30, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.1 Wall Street Horizon_WSOD_Schwab Renewal_20220503.pdf
+
+NC: [ N:15:50:34, C:0:00:30, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.11.1 Wall Street Horizon_WSOD_Schwab Renewal_20220503.pdf'.
+
+NC: [ N:15:50:34, C:0:00:30, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.1 Wall Street Horizon_WSOD_Schwab Renewal_20220503.pdf'
+
+NC: [ N:15:50:34, C:0:00:30, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.1 Wall Street Horizon_WSOD_Schwab Renewal_20220503.pdf'
+
+NC: [ N:15:50:37, C:0:00:33, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.1 Wall Street Horizon_WSOD_Schwab Renewal_20220503.pdf'
+
+NC: [ N:15:50:37, C:0:00:33, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.2 MSCI_MOD_IndexDistribution_Schedule A_20200319.pdf
+
+NC: [ N:15:50:37, C:0:00:33, I:0:00:00 ] 
+Begin extracting text from 'MSCI-Index-Data-3.6.4.1.14.2.2 MSCI_MOD_IndexDistribution_Schedule A_20200319.pdf'.
+
+NC: [ N:15:50:37, C:0:00:33, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.2 MSCI_MOD_IndexDistribution_Schedule A_20200319.pdf'
+
+NC: [ N:15:50:38, C:0:00:34, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.2 MSCI_MOD_IndexDistribution_Schedule A_20200319.pdf'
+
+NC: [ N:15:50:40, C:0:00:36, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.2 MSCI_MOD_IndexDistribution_Schedule A_20200319.pdf'
+
+NC: [ N:15:50:40, C:0:00:36, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.17 Factset/_attachments/3.6.4.1.17.1 FactSet_MOD MSA 20060801.pdf
+
+NC: [ N:15:50:40, C:0:00:36, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.17.1 FactSet_MOD MSA 20060801.pdf'.
+
+NC: [ N:15:50:40, C:0:00:36, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.17 Factset/_attachments/3.6.4.1.17.1 FactSet_MOD MSA 20060801.pdf'
+
+NC: [ N:15:50:48, C:0:00:44, I:0:00:08 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.17 Factset/_attachments/3.6.4.1.17.1 FactSet_MOD MSA 20060801.pdf'
+
+NC: [ N:15:50:56, C:0:00:52, I:0:00:07 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.17 Factset/_attachments/3.6.4.1.17.1 FactSet_MOD MSA 20060801.pdf'
+
+NC: [ N:15:50:56, C:0:00:52, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.1 Master-EDV_00298537.0_FO_012122_Markit Digital_Revised_2-3-22 v2.pdf
+
+NC: [ N:15:50:56, C:0:00:52, I:0:00:00 ] 
+Begin extracting text from 'MSCI-ESG-Data-3.6.4.1.14.1.1 Master-EDV_00298537.0_FO_012122_Markit Digital_Revised_2-3-22 v2.pdf'.
+
+NC: [ N:15:50:56, C:0:00:52, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.1 Master-EDV_00298537.0_FO_012122_Markit Digital_Revised_2-3-22 v2.pdf'
+
+NC: [ N:15:50:58, C:0:00:54, I:0:00:01 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.1 Master-EDV_00298537.0_FO_012122_Markit Digital_Revised_2-3-22 v2.pdf'
+
+NC: [ N:15:51:04, C:0:01:00, I:0:00:05 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.1 Master-EDV_00298537.0_FO_012122_Markit Digital_Revised_2-3-22 v2.pdf'
+
+NC: [ N:15:51:04, C:0:01:00, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.5 MSCI_MOD_IndexDistribution_Schedule A_20200924.pdf
+
+NC: [ N:15:51:04, C:0:01:00, I:0:00:00 ] 
+Begin extracting text from 'MSCI-Index-Data-3.6.4.1.14.2.5 MSCI_MOD_IndexDistribution_Schedule A_20200924.pdf'.
+
+NC: [ N:15:51:04, C:0:01:00, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.5 MSCI_MOD_IndexDistribution_Schedule A_20200924.pdf'
+
+NC: [ N:15:51:05, C:0:01:01, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.5 MSCI_MOD_IndexDistribution_Schedule A_20200924.pdf'
+
+NC: [ N:15:51:07, C:0:01:03, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.5 MSCI_MOD_IndexDistribution_Schedule A_20200924.pdf'
+
+NC: [ N:15:51:07, C:0:01:03, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf
+
+NC: [ N:15:51:07, C:0:01:03, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf'.
+
+NC: [ N:15:51:07, C:0:01:03, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf'
+
+NC: [ N:15:51:10, C:0:01:06, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf'
+
+NC: [ N:15:51:13, C:0:01:09, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf'
+
+NC: [ N:15:51:13, C:0:01:09, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.2 SPDJI_MOD_MDA_20050401.pdf
+
+NC: [ N:15:51:13, C:0:01:09, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.7.2 SPDJI_MOD_MDA_20050401.pdf'.
+
+NC: [ N:15:51:13, C:0:01:09, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.2 SPDJI_MOD_MDA_20050401.pdf'
+
+NC: [ N:15:51:16, C:0:01:12, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.2 SPDJI_MOD_MDA_20050401.pdf'
+
+NC: [ N:15:51:20, C:0:01:16, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.2 SPDJI_MOD_MDA_20050401.pdf'
+
+NC: [ N:15:51:21, C:0:01:17, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.1 OPRA_WSOD_PolicyDocument_Undated.pdf
+
+NC: [ N:15:51:21, C:0:01:17, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.9.1 OPRA_WSOD_PolicyDocument_Undated.pdf'.
+
+NC: [ N:15:51:21, C:0:01:17, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.1 OPRA_WSOD_PolicyDocument_Undated.pdf'
+
+NC: [ N:15:51:21, C:0:01:17, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.1 OPRA_WSOD_PolicyDocument_Undated.pdf'
+
+NC: [ N:15:51:24, C:0:01:20, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.1 OPRA_WSOD_PolicyDocument_Undated.pdf'
+
+NC: [ N:15:51:24, C:0:01:20, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.10 Comtex/_attachments/3.6.4.1.10.1 Comtex MOD License Agreement--20130301.pdf
+
+NC: [ N:15:51:24, C:0:01:20, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.10.1 Comtex MOD License Agreement--20130301.pdf'.
+
+NC: [ N:15:51:24, C:0:01:20, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.10 Comtex/_attachments/3.6.4.1.10.1 Comtex MOD License Agreement--20130301.pdf'
+
+NC: [ N:15:51:27, C:0:01:23, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.10 Comtex/_attachments/3.6.4.1.10.1 Comtex MOD License Agreement--20130301.pdf'
+
+NC: [ N:15:51:31, C:0:01:27, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.10 Comtex/_attachments/3.6.4.1.10.1 Comtex MOD License Agreement--20130301.pdf'
+
+NC: [ N:15:51:31, C:0:01:27, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.18 Copp Clark/_attachments/3.6.4.1.18.1 20080211 - Copp Clark - WSOD - Holiday Calendar and Trading Hours - Data Agreements.pdf
+
+NC: [ N:15:51:31, C:0:01:27, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.18.1 20080211 - Copp Clark - WSOD - Holiday Calendar and Trading Hours - Data Agreements.pdf'.
+
+NC: [ N:15:51:31, C:0:01:27, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.18 Copp Clark/_attachments/3.6.4.1.18.1 20080211 - Copp Clark - WSOD - Holiday Calendar and Trading Hours - Data Agreements.pdf'
+
+NC: [ N:15:51:34, C:0:01:30, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.18 Copp Clark/_attachments/3.6.4.1.18.1 20080211 - Copp Clark - WSOD - Holiday Calendar and Trading Hours - Data Agreements.pdf'
+
+NC: [ N:15:51:36, C:0:01:32, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.18 Copp Clark/_attachments/3.6.4.1.18.1 20080211 - Copp Clark - WSOD - Holiday Calendar and Trading Hours - Data Agreements.pdf'
+
+NC: [ N:15:51:36, C:0:01:32, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.2 Options Clearing Corp/_attachments/3.6.4.2.2.1 OCC_MGL Agreement Fully Executed 20120322.pdf
+
+NC: [ N:15:51:36, C:0:01:32, I:0:00:00 ] 
+Begin extracting text from '3.6.4.2.2.1 OCC_MGL Agreement Fully Executed 20120322.pdf'.
+
+NC: [ N:15:51:36, C:0:01:32, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.2 Options Clearing Corp/_attachments/3.6.4.2.2.1 OCC_MGL Agreement Fully Executed 20120322.pdf'
+
+NC: [ N:15:51:38, C:0:01:35, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.2 Options Clearing Corp/_attachments/3.6.4.2.2.1 OCC_MGL Agreement Fully Executed 20120322.pdf'
+
+NC: [ N:15:51:42, C:0:01:38, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.2 Options Clearing Corp/_attachments/3.6.4.2.2.1 OCC_MGL Agreement Fully Executed 20120322.pdf'
+
+NC: [ N:15:51:42, C:0:01:38, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.4 SIX_MOD VDF Amendment_Executed 20090219.pdf
+
+NC: [ N:15:51:42, C:0:01:38, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.22.4 SIX_MOD VDF Amendment_Executed 20090219.pdf'.
+
+NC: [ N:15:51:42, C:0:01:38, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.4 SIX_MOD VDF Amendment_Executed 20090219.pdf'
+
+NC: [ N:15:51:42, C:0:01:38, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.4 SIX_MOD VDF Amendment_Executed 20090219.pdf'
+
+NC: [ N:15:51:43, C:0:01:39, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.4 SIX_MOD VDF Amendment_Executed 20090219.pdf'
+
+NC: [ N:15:51:44, C:0:01:40, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.1 Briefing_MOD License Agreement Executed 20031201.pdf
+
+NC: [ N:15:51:44, C:0:01:40, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.4.1 Briefing_MOD License Agreement Executed 20031201.pdf'.
+
+NC: [ N:15:51:44, C:0:01:40, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.1 Briefing_MOD License Agreement Executed 20031201.pdf'
+
+NC: [ N:15:51:47, C:0:01:43, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.1 Briefing_MOD License Agreement Executed 20031201.pdf'
+
+NC: [ N:15:51:50, C:0:01:46, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.1 Briefing_MOD License Agreement Executed 20031201.pdf'
+
+NC: [ N:15:51:51, C:0:01:47, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.5 SIX_MOD VDF Addend _2_Executed 20090901.pdf
+
+NC: [ N:15:51:51, C:0:01:47, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.22.5 SIX_MOD VDF Addend _2_Executed 20090901.pdf'.
+
+NC: [ N:15:51:51, C:0:01:47, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.5 SIX_MOD VDF Addend _2_Executed 20090901.pdf'
+
+NC: [ N:15:51:51, C:0:01:47, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.5 SIX_MOD VDF Addend _2_Executed 20090901.pdf'
+
+NC: [ N:15:51:52, C:0:01:48, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.5 SIX_MOD VDF Addend _2_Executed 20090901.pdf'
+
+NC: [ N:15:51:53, C:0:01:49, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.6 SIX_MOD VDF Addend _2'_Executed 20111001.pdf
+
+NC: [ N:15:51:53, C:0:01:49, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.22.6 SIX_MOD VDF Addend _2'_Executed 20111001.pdf'.
+
+NC: [ N:15:51:53, C:0:01:49, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.6 SIX_MOD VDF Addend _2'_Executed 20111001.pdf'
+
+NC: [ N:15:51:54, C:0:01:50, I:0:00:01 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.6 SIX_MOD VDF Addend _2'_Executed 20111001.pdf'
+
+NC: [ N:15:51:56, C:0:01:52, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.6 SIX_MOD VDF Addend _2'_Executed 20111001.pdf'
+
+NC: [ N:15:51:56, C:0:01:52, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.10 SIX_MOD MDF Addend _4_Exdecuted 20100119.pdf
+
+NC: [ N:15:51:56, C:0:01:52, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.22.10 SIX_MOD MDF Addend _4_Exdecuted 20100119.pdf'.
+
+NC: [ N:15:51:56, C:0:01:52, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.10 SIX_MOD MDF Addend _4_Exdecuted 20100119.pdf'
+
+NC: [ N:15:51:57, C:0:01:53, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.10 SIX_MOD MDF Addend _4_Exdecuted 20100119.pdf'
+
+NC: [ N:15:51:58, C:0:01:54, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.10 SIX_MOD MDF Addend _4_Exdecuted 20100119.pdf'
+
+NC: [ N:15:51:58, C:0:01:54, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.4 ICE (BofA Indices)/_attachments/3.6.4.2.4.1 ICE_MGL_BofA Index Data Redistribution Agreement_20211102.pdf
+
+NC: [ N:15:51:58, C:0:01:54, I:0:00:00 ] 
+Begin extracting text from '3.6.4.2.4.1 ICE_MGL_BofA Index Data Redistribution Agreement_20211102.pdf'.
+
+NC: [ N:15:51:58, C:0:01:54, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.4 ICE (BofA Indices)/_attachments/3.6.4.2.4.1 ICE_MGL_BofA Index Data Redistribution Agreement_20211102.pdf'
+
+NC: [ N:15:52:04, C:0:02:00, I:0:00:05 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.4 ICE (BofA Indices)/_attachments/3.6.4.2.4.1 ICE_MGL_BofA Index Data Redistribution Agreement_20211102.pdf'
+
+NC: [ N:15:52:12, C:0:02:08, I:0:00:07 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.4 ICE (BofA Indices)/_attachments/3.6.4.2.4.1 ICE_MGL_BofA Index Data Redistribution Agreement_20211102.pdf'
+
+NC: [ N:15:52:12, C:0:02:08, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.5 Acquire Media/_attachments/3.6.4.1.5.1 Acquiremedia_MOD MLA Fully Executed 20060811.pdf
+
+NC: [ N:15:52:12, C:0:02:08, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.5.1 Acquiremedia_MOD MLA Fully Executed 20060811.pdf'.
+
+NC: [ N:15:52:12, C:0:02:08, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.5 Acquire Media/_attachments/3.6.4.1.5.1 Acquiremedia_MOD MLA Fully Executed 20060811.pdf'
+
+NC: [ N:15:52:16, C:0:02:12, I:0:00:03 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.5 Acquire Media/_attachments/3.6.4.1.5.1 Acquiremedia_MOD MLA Fully Executed 20060811.pdf'
+
+NC: [ N:15:52:20, C:0:02:16, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.5 Acquire Media/_attachments/3.6.4.1.5.1 Acquiremedia_MOD MLA Fully Executed 20060811.pdf'
+
+NC: [ N:15:52:21, C:0:02:17, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.2 Ford Investor Services_MOD Addendum 20000417.pdf
+
+NC: [ N:15:52:21, C:0:02:17, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.19.2 Ford Investor Services_MOD Addendum 20000417.pdf'.
+
+NC: [ N:15:52:21, C:0:02:17, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.2 Ford Investor Services_MOD Addendum 20000417.pdf'
+
+NC: [ N:15:52:21, C:0:02:17, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.2 Ford Investor Services_MOD Addendum 20000417.pdf'
+
+NC: [ N:15:52:23, C:0:02:19, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.2 Ford Investor Services_MOD Addendum 20000417.pdf'
+
+NC: [ N:15:52:24, C:0:02:20, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.6 MSCI_MOD_IndexDistribution_Schedule A_20080922.pdf
+
+NC: [ N:15:52:24, C:0:02:20, I:0:00:00 ] 
+Begin extracting text from 'MSCI-Index-Data-3.6.4.1.14.2.6 MSCI_MOD_IndexDistribution_Schedule A_20080922.pdf'.
+
+NC: [ N:15:52:24, C:0:02:20, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.6 MSCI_MOD_IndexDistribution_Schedule A_20080922.pdf'
+
+NC: [ N:15:52:25, C:0:02:21, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.6 MSCI_MOD_IndexDistribution_Schedule A_20080922.pdf'
+
+NC: [ N:15:52:28, C:0:02:24, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.6 MSCI_MOD_IndexDistribution_Schedule A_20080922.pdf'
+
+NC: [ N:15:52:28, C:0:02:24, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.4 OPRA_MOD Distrib Declaration_Executed 20160112.pdf
+
+NC: [ N:15:52:28, C:0:02:24, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.9.4 OPRA_MOD Distrib Declaration_Executed 20160112.pdf'.
+
+NC: [ N:15:52:28, C:0:02:24, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.4 OPRA_MOD Distrib Declaration_Executed 20160112.pdf'
+
+NC: [ N:15:52:28, C:0:02:24, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.4 OPRA_MOD Distrib Declaration_Executed 20160112.pdf'
+
+NC: [ N:15:52:30, C:0:02:26, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.4 OPRA_MOD Distrib Declaration_Executed 20160112.pdf'
+
+NC: [ N:15:52:30, C:0:02:26, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.1 SIX_MOD VDF Addend _13_Executed 20111102.pdf
+
+NC: [ N:15:52:30, C:0:02:26, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.22.1 SIX_MOD VDF Addend _13_Executed 20111102.pdf'.
+
+NC: [ N:15:52:30, C:0:02:26, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.1 SIX_MOD VDF Addend _13_Executed 20111102.pdf'
+
+NC: [ N:15:52:31, C:0:02:27, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.1 SIX_MOD VDF Addend _13_Executed 20111102.pdf'
+
+NC: [ N:15:52:33, C:0:02:29, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.1 SIX_MOD VDF Addend _13_Executed 20111102.pdf'
+
+NC: [ N:15:52:33, C:0:02:29, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.15 ValueLine/_attachments/3.6.4.1.15.1 Value Line_MOD SOW _2 Factset_Executed 20121206.pdf
+
+NC: [ N:15:52:33, C:0:02:29, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.15.1 Value Line_MOD SOW _2 Factset_Executed 20121206.pdf'.
+
+NC: [ N:15:52:33, C:0:02:29, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.15 ValueLine/_attachments/3.6.4.1.15.1 Value Line_MOD SOW _2 Factset_Executed 20121206.pdf'
+
+NC: [ N:15:52:33, C:0:02:29, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.15 ValueLine/_attachments/3.6.4.1.15.1 Value Line_MOD SOW _2 Factset_Executed 20121206.pdf'
+
+NC: [ N:15:52:37, C:0:02:33, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.15 ValueLine/_attachments/3.6.4.1.15.1 Value Line_MOD SOW _2 Factset_Executed 20121206.pdf'
+
+NC: [ N:15:52:37, C:0:02:33, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.3 Morningstar_MOD_ProductLicenseAgreement_20120901.pdf
+
+NC: [ N:15:52:37, C:0:02:33, I:0:00:00 ] 
+Begin extracting text from '3.6.4.2.3.3 Morningstar_MOD_ProductLicenseAgreement_20120901.pdf'.
+
+NC: [ N:15:52:37, C:0:02:33, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.3 Morningstar_MOD_ProductLicenseAgreement_20120901.pdf'
+
+NC: [ N:15:52:41, C:0:02:37, I:0:00:04 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.3 Morningstar_MOD_ProductLicenseAgreement_20120901.pdf'
+
+NC: [ N:15:52:46, C:0:02:42, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.3 Morningstar_MOD_ProductLicenseAgreement_20120901.pdf'
+
+NC: [ N:15:52:46, C:0:02:42, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.16 Econoday/_attachments/3.6.4.1.16.1 Econoday_MOD_Content Distribution Agrmt Executed 20070413.pdf
+
+NC: [ N:15:52:46, C:0:02:42, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.16.1 Econoday_MOD_Content Distribution Agrmt Executed 20070413.pdf'.
+
+NC: [ N:15:52:46, C:0:02:42, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.16 Econoday/_attachments/3.6.4.1.16.1 Econoday_MOD_Content Distribution Agrmt Executed 20070413.pdf'
+
+NC: [ N:15:52:49, C:0:02:45, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.16 Econoday/_attachments/3.6.4.1.16.1 Econoday_MOD_Content Distribution Agrmt Executed 20070413.pdf'
+
+NC: [ N:15:52:52, C:0:02:48, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.16 Econoday/_attachments/3.6.4.1.16.1 Econoday_MOD_Content Distribution Agrmt Executed 20070413.pdf'
+
+NC: [ N:15:52:52, C:0:02:48, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.11 SIX_MOD MDF Addend _2_Executed 20091008.pdf
+
+NC: [ N:15:52:52, C:0:02:48, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.22.11 SIX_MOD MDF Addend _2_Executed 20091008.pdf'.
+
+NC: [ N:15:52:52, C:0:02:48, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.11 SIX_MOD MDF Addend _2_Executed 20091008.pdf'
+
+NC: [ N:15:52:52, C:0:02:49, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.11 SIX_MOD MDF Addend _2_Executed 20091008.pdf'
+
+NC: [ N:15:52:54, C:0:02:50, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.11 SIX_MOD MDF Addend _2_Executed 20091008.pdf'
+
+NC: [ N:15:52:54, C:0:02:50, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.7 SIX_MOD MSA_Executed 20081001.pdf
+
+NC: [ N:15:52:54, C:0:02:50, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.22.7 SIX_MOD MSA_Executed 20081001.pdf'.
+
+NC: [ N:15:52:54, C:0:02:50, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.7 SIX_MOD MSA_Executed 20081001.pdf'
+
+NC: [ N:15:52:58, C:0:02:54, I:0:00:04 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.7 SIX_MOD MSA_Executed 20081001.pdf'
+
+NC: [ N:15:53:04, C:0:03:00, I:0:00:05 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.7 SIX_MOD MSA_Executed 20081001.pdf'
+
+NC: [ N:15:53:04, C:0:03:00, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.9 SIX_MOD VDF Addend _3_Executed 20080901.pdf
+
+NC: [ N:15:53:04, C:0:03:00, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.22.9 SIX_MOD VDF Addend _3_Executed 20080901.pdf'.
+
+NC: [ N:15:53:04, C:0:03:00, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.9 SIX_MOD VDF Addend _3_Executed 20080901.pdf'
+
+NC: [ N:15:53:04, C:0:03:00, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.9 SIX_MOD VDF Addend _3_Executed 20080901.pdf'
+
+NC: [ N:15:53:06, C:0:03:02, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.9 SIX_MOD VDF Addend _3_Executed 20080901.pdf'
+
+NC: [ N:15:53:06, C:0:03:02, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf
+
+NC: [ N:15:53:06, C:0:03:02, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf'.
+
+NC: [ N:15:53:06, C:0:03:02, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf'
+
+NC: [ N:15:53:08, C:0:03:04, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf'
+
+NC: [ N:15:53:12, C:0:03:08, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf'
+
+NC: [ N:15:53:12, C:0:03:08, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.1 SPDJI_MOD_MDA_OS7_20191201.pdf
+
+NC: [ N:15:53:12, C:0:03:08, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.7.1 SPDJI_MOD_MDA_OS7_20191201.pdf'.
+
+NC: [ N:15:53:12, C:0:03:08, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.1 SPDJI_MOD_MDA_OS7_20191201.pdf'
+
+NC: [ N:15:53:15, C:0:03:11, I:0:00:03 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.1 SPDJI_MOD_MDA_OS7_20191201.pdf'
+
+NC: [ N:15:53:18, C:0:03:14, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.1 SPDJI_MOD_MDA_OS7_20191201.pdf'
+
+NC: [ N:15:53:19, C:0:03:15, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.2 Briefing_MOD Addendum 20090821.pdf
+
+NC: [ N:15:53:19, C:0:03:15, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.4.2 Briefing_MOD Addendum 20090821.pdf'.
+
+NC: [ N:15:53:19, C:0:03:15, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.2 Briefing_MOD Addendum 20090821.pdf'
+
+NC: [ N:15:53:19, C:0:03:15, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.2 Briefing_MOD Addendum 20090821.pdf'
+
+NC: [ N:15:53:21, C:0:03:17, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.2 Briefing_MOD Addendum 20090821.pdf'
+
+NC: [ N:15:53:21, C:0:03:17, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.2 SIX_MOD MDF Addend _1_Executed 20090812.pdf
+
+NC: [ N:15:53:21, C:0:03:17, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.22.2 SIX_MOD MDF Addend _1_Executed 20090812.pdf'.
+
+NC: [ N:15:53:21, C:0:03:17, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.2 SIX_MOD MDF Addend _1_Executed 20090812.pdf'
+
+NC: [ N:15:53:22, C:0:03:18, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.2 SIX_MOD MDF Addend _1_Executed 20090812.pdf'
+
+NC: [ N:15:53:23, C:0:03:19, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.2 SIX_MOD MDF Addend _1_Executed 20090812.pdf'
+
+NC: [ N:15:53:24, C:0:03:20, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.3 Wall Street Horizon_WSOD_Database Content Reseller Agreement_20050111.pdf
+
+NC: [ N:15:53:24, C:0:03:20, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.11.3 Wall Street Horizon_WSOD_Database Content Reseller Agreement_20050111.pdf'.
+
+NC: [ N:15:53:24, C:0:03:20, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.3 Wall Street Horizon_WSOD_Database Content Reseller Agreement_20050111.pdf'
+
+NC: [ N:15:53:26, C:0:03:22, I:0:00:01 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.3 Wall Street Horizon_WSOD_Database Content Reseller Agreement_20050111.pdf'
+
+NC: [ N:15:53:29, C:0:03:25, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.3 Wall Street Horizon_WSOD_Database Content Reseller Agreement_20050111.pdf'
+
+NC: [ N:15:53:29, C:0:03:25, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.2 OPRA_MOD Distrib Declaration 20151218.pdf
+
+NC: [ N:15:53:29, C:0:03:25, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.9.2 OPRA_MOD Distrib Declaration 20151218.pdf'.
+
+NC: [ N:15:53:29, C:0:03:25, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.2 OPRA_MOD Distrib Declaration 20151218.pdf'
+
+NC: [ N:15:53:29, C:0:03:25, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.2 OPRA_MOD Distrib Declaration 20151218.pdf'
+
+NC: [ N:15:53:31, C:0:03:27, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.2 OPRA_MOD Distrib Declaration 20151218.pdf'
+
+NC: [ N:15:53:31, C:0:03:27, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.1 Cannex/_attachments/3.6.4.1.1.1 Cannex_MOD Cannex Service Agreement Executed 20070518.pdf
+
+NC: [ N:15:53:31, C:0:03:27, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.1.1 Cannex_MOD Cannex Service Agreement Executed 20070518.pdf'.
+
+NC: [ N:15:53:31, C:0:03:27, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.1 Cannex/_attachments/3.6.4.1.1.1 Cannex_MOD Cannex Service Agreement Executed 20070518.pdf'
+
+NC: [ N:15:53:35, C:0:03:31, I:0:00:03 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.1 Cannex/_attachments/3.6.4.1.1.1 Cannex_MOD Cannex Service Agreement Executed 20070518.pdf'
+
+NC: [ N:15:53:39, C:0:03:35, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.1 Cannex/_attachments/3.6.4.1.1.1 Cannex_MOD Cannex Service Agreement Executed 20070518.pdf'
+
+NC: [ N:15:53:39, C:0:03:35, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.3 MSCI_MoD-IndexDistribution_Agreement_20080922.pdf
+
+NC: [ N:15:53:39, C:0:03:35, I:0:00:00 ] 
+Begin extracting text from 'MSCI-Index-Data-3.6.4.1.14.2.3 MSCI_MoD-IndexDistribution_Agreement_20080922.pdf'.
+
+NC: [ N:15:53:39, C:0:03:35, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.3 MSCI_MoD-IndexDistribution_Agreement_20080922.pdf'
+
+NC: [ N:15:53:41, C:0:03:37, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.3 MSCI_MoD-IndexDistribution_Agreement_20080922.pdf'
+
+NC: [ N:15:53:46, C:0:03:42, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.3 MSCI_MoD-IndexDistribution_Agreement_20080922.pdf'
+
+NC: [ N:15:53:46, C:0:03:42, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.4 Morningstar_MGL_MasterAgreement_20120901.pdf
+
+NC: [ N:15:53:46, C:0:03:42, I:0:00:00 ] 
+Begin extracting text from '3.6.4.2.3.4 Morningstar_MGL_MasterAgreement_20120901.pdf'.
+
+NC: [ N:15:53:46, C:0:03:42, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.4 Morningstar_MGL_MasterAgreement_20120901.pdf'
+
+NC: [ N:15:53:48, C:0:03:44, I:0:00:01 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.4 Morningstar_MGL_MasterAgreement_20120901.pdf'
+
+NC: [ N:15:53:52, C:0:03:48, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.4 Morningstar_MGL_MasterAgreement_20120901.pdf'
+
+NC: [ N:15:53:52, C:0:03:48, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.2 Wall Street Horizon_WSOD_Common Client Confirmation Letter_20220404.pdf
+
+NC: [ N:15:53:52, C:0:03:48, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.11.2 Wall Street Horizon_WSOD_Common Client Confirmation Letter_20220404.pdf'.
+
+NC: [ N:15:53:52, C:0:03:48, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.2 Wall Street Horizon_WSOD_Common Client Confirmation Letter_20220404.pdf'
+
+NC: [ N:15:53:53, C:0:03:49, I:0:00:01 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.2 Wall Street Horizon_WSOD_Common Client Confirmation Letter_20220404.pdf'
+
+NC: [ N:15:53:55, C:0:03:51, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.2 Wall Street Horizon_WSOD_Common Client Confirmation Letter_20220404.pdf'
+
+NC: [ N:15:53:55, C:0:03:51, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.2 Morningstar_MOD_ProductLicenseAgreement_20190308.pdf
+
+NC: [ N:15:53:55, C:0:03:51, I:0:00:00 ] 
+Begin extracting text from '3.6.4.2.3.2 Morningstar_MOD_ProductLicenseAgreement_20190308.pdf'.
+
+NC: [ N:15:53:55, C:0:03:51, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.2 Morningstar_MOD_ProductLicenseAgreement_20190308.pdf'
+
+NC: [ N:15:53:55, C:0:03:51, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.2 Morningstar_MOD_ProductLicenseAgreement_20190308.pdf'
+
+NC: [ N:15:53:57, C:0:03:53, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.2 Morningstar_MOD_ProductLicenseAgreement_20190308.pdf'
+
+NC: [ N:15:53:57, C:0:03:53, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.2 20230930 SPGMI-MoD Benzinga Order Sched 1 Logos.pdf
+
+NC: [ N:15:53:57, C:0:03:53, I:0:00:00 ] 
+Begin extracting text from '3.6.4.2.1.2 20230930 SPGMI-MoD Benzinga Order Sched 1 Logos.pdf'.
+
+NC: [ N:15:53:57, C:0:03:53, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.2 20230930 SPGMI-MoD Benzinga Order Sched 1 Logos.pdf'
+
+NC: [ N:15:53:59, C:0:03:55, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.2 20230930 SPGMI-MoD Benzinga Order Sched 1 Logos.pdf'
+
+NC: [ N:15:54:02, C:0:03:58, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.2 20230930 SPGMI-MoD Benzinga Order Sched 1 Logos.pdf'
+
+NC: [ N:15:54:03, C:0:03:59, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.2 Schedule-EDVS_00298538.0_ FO_012122_Markit Digital_Revised_2-3-22 v2.pdf
+
+NC: [ N:15:54:03, C:0:03:59, I:0:00:00 ] 
+Begin extracting text from 'MSCI-ESG-Data-3.6.4.1.14.1.2 Schedule-EDVS_00298538.0_ FO_012122_Markit Digital_Revised_2-3-22 v2.pdf'.
+
+NC: [ N:15:54:03, C:0:03:59, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.2 Schedule-EDVS_00298538.0_ FO_012122_Markit Digital_Revised_2-3-22 v2.pdf'
+
+NC: [ N:15:54:03, C:0:03:59, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.2 Schedule-EDVS_00298538.0_ FO_012122_Markit Digital_Revised_2-3-22 v2.pdf'
+
+NC: [ N:15:54:06, C:0:04:02, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.2 Schedule-EDVS_00298538.0_ FO_012122_Markit Digital_Revised_2-3-22 v2.pdf'
+
+NC: [ N:15:54:06, C:0:04:02, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.3 OPRA_WSOD_VendorAgreement_20090102.pdf
+
+NC: [ N:15:54:06, C:0:04:02, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.9.3 OPRA_WSOD_VendorAgreement_20090102.pdf'.
+
+NC: [ N:15:54:06, C:0:04:02, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.3 OPRA_WSOD_VendorAgreement_20090102.pdf'
+
+NC: [ N:15:54:13, C:0:04:09, I:0:00:06 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.3 OPRA_WSOD_VendorAgreement_20090102.pdf'
+
+NC: [ N:15:54:20, C:0:04:16, I:0:00:07 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.3 OPRA_WSOD_VendorAgreement_20090102.pdf'
+
+NC: [ N:15:54:20, C:0:04:16, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.20 MDM/_attachments/3.6.4.1.20.1 MarketData Management Solutions Corp MSA QuoteAudit 20090201.pdf
+
+NC: [ N:15:54:20, C:0:04:16, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.20.1 MarketData Management Solutions Corp MSA QuoteAudit 20090201.pdf'.
+
+NC: [ N:15:54:20, C:0:04:16, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.20 MDM/_attachments/3.6.4.1.20.1 MarketData Management Solutions Corp MSA QuoteAudit 20090201.pdf'
+
+NC: [ N:15:54:22, C:0:04:18, I:0:00:01 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.20 MDM/_attachments/3.6.4.1.20.1 MarketData Management Solutions Corp MSA QuoteAudit 20090201.pdf'
+
+NC: [ N:15:54:25, C:0:04:21, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.20 MDM/_attachments/3.6.4.1.20.1 MarketData Management Solutions Corp MSA QuoteAudit 20090201.pdf'
+
+NC: [ N:15:54:25, C:0:04:21, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf
+
+NC: [ N:15:54:25, C:0:04:21, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf'.
+
+NC: [ N:15:54:25, C:0:04:21, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf'
+
+NC: [ N:15:54:26, C:0:04:22, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf'
+
+NC: [ N:15:54:28, C:0:04:24, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf'
+
+NC: [ N:15:54:28, C:0:04:24, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.6 LSEG Refinitiv/_attachments/3.6.4.1.6.1 WSOD_Reuters_Datascope_Master Addendum and OF_20021031.pdf
+
+NC: [ N:15:54:28, C:0:04:24, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.6.1 WSOD_Reuters_Datascope_Master Addendum and OF_20021031.pdf'.
+
+NC: [ N:15:54:28, C:0:04:24, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.6 LSEG Refinitiv/_attachments/3.6.4.1.6.1 WSOD_Reuters_Datascope_Master Addendum and OF_20021031.pdf'
+
+NC: [ N:15:54:30, C:0:04:26, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.6 LSEG Refinitiv/_attachments/3.6.4.1.6.1 WSOD_Reuters_Datascope_Master Addendum and OF_20021031.pdf'
+
+NC: [ N:15:54:35, C:0:04:31, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.6 LSEG Refinitiv/_attachments/3.6.4.1.6.1 WSOD_Reuters_Datascope_Master Addendum and OF_20021031.pdf'
+
+NC: [ N:15:54:35, C:0:04:31, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.1 Ford Investor Services_MOD Service Bureau Agrmt Executed 19970708.pdf
+
+NC: [ N:15:54:35, C:0:04:31, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.19.1 Ford Investor Services_MOD Service Bureau Agrmt Executed 19970708.pdf'.
+
+NC: [ N:15:54:35, C:0:04:31, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.1 Ford Investor Services_MOD Service Bureau Agrmt Executed 19970708.pdf'
+
+NC: [ N:15:54:36, C:0:04:32, I:0:00:01 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.1 Ford Investor Services_MOD Service Bureau Agrmt Executed 19970708.pdf'
+
+NC: [ N:15:54:38, C:0:04:34, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.1 Ford Investor Services_MOD Service Bureau Agrmt Executed 19970708.pdf'
+
+NC: [ N:15:54:39, C:0:04:35, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.21 Morningnotes/_attachments/3.6.4.1.21.1 Morningnotes.com_WSOD Content Distribution Agreement Executed 20090314.pdf
+
+NC: [ N:15:54:39, C:0:04:35, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.21.1 Morningnotes.com_WSOD Content Distribution Agreement Executed 20090314.pdf'.
+
+NC: [ N:15:54:39, C:0:04:35, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.21 Morningnotes/_attachments/3.6.4.1.21.1 Morningnotes.com_WSOD Content Distribution Agreement Executed 20090314.pdf'
+
+NC: [ N:15:54:41, C:0:04:37, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.21 Morningnotes/_attachments/3.6.4.1.21.1 Morningnotes.com_WSOD Content Distribution Agreement Executed 20090314.pdf'
+
+NC: [ N:15:54:44, C:0:04:40, I:0:00:03 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.21 Morningnotes/_attachments/3.6.4.1.21.1 Morningnotes.com_WSOD Content Distribution Agreement Executed 20090314.pdf'
+
+NC: [ N:15:54:44, C:0:04:40, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.1 Morningstar_MOD_ProductLicenseAgreement_20140501.pdf
+
+NC: [ N:15:54:44, C:0:04:40, I:0:00:00 ] 
+Begin extracting text from '3.6.4.2.3.1 Morningstar_MOD_ProductLicenseAgreement_20140501.pdf'.
+
+NC: [ N:15:54:44, C:0:04:40, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.1 Morningstar_MOD_ProductLicenseAgreement_20140501.pdf'
+
+NC: [ N:15:54:49, C:0:04:45, I:0:00:04 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.1 Morningstar_MOD_ProductLicenseAgreement_20140501.pdf'
+
+NC: [ N:15:54:53, C:0:04:49, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.1 Morningstar_MOD_ProductLicenseAgreement_20140501.pdf'
+
+NC: [ N:15:54:53, C:0:04:49, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.2 MidnightTrader_MOD_Amendment1_20170601.pdf
+
+NC: [ N:15:54:53, C:0:04:49, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.13.2 MidnightTrader_MOD_Amendment1_20170601.pdf'.
+
+NC: [ N:15:54:53, C:0:04:49, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.2 MidnightTrader_MOD_Amendment1_20170601.pdf'
+
+NC: [ N:15:54:54, C:0:04:50, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.2 MidnightTrader_MOD_Amendment1_20170601.pdf'
+
+NC: [ N:15:54:56, C:0:04:52, I:0:00:02 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.2 MidnightTrader_MOD_Amendment1_20170601.pdf'
+
+NC: [ N:15:54:56, C:0:04:52, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.3 TheStreet/_attachments/3.6.4.1.3.1 TheStreet.com_WSOD Research Firm Agreement Executed 20110223.pdf
+
+NC: [ N:15:54:56, C:0:04:52, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.3.1 TheStreet.com_WSOD Research Firm Agreement Executed 20110223.pdf'.
+
+NC: [ N:15:54:56, C:0:04:52, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.3 TheStreet/_attachments/3.6.4.1.3.1 TheStreet.com_WSOD Research Firm Agreement Executed 20110223.pdf'
+
+NC: [ N:15:54:59, C:0:04:55, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.3 TheStreet/_attachments/3.6.4.1.3.1 TheStreet.com_WSOD Research Firm Agreement Executed 20110223.pdf'
+
+NC: [ N:15:55:04, C:0:05:00, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.3 TheStreet/_attachments/3.6.4.1.3.1 TheStreet.com_WSOD Research Firm Agreement Executed 20110223.pdf'
+
+NC: [ N:15:55:04, C:0:05:00, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.3 SIX_MOD VDF Extension Ltr_Executed 20110629.pdf
+
+NC: [ N:15:55:04, C:0:05:00, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.22.3 SIX_MOD VDF Extension Ltr_Executed 20110629.pdf'.
+
+NC: [ N:15:55:04, C:0:05:00, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.3 SIX_MOD VDF Extension Ltr_Executed 20110629.pdf'
+
+NC: [ N:15:55:05, C:0:05:01, I:0:00:00 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.3 SIX_MOD VDF Extension Ltr_Executed 20110629.pdf'
+
+NC: [ N:15:55:06, C:0:05:02, I:0:00:01 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.3 SIX_MOD VDF Extension Ltr_Executed 20110629.pdf'
+
+NC: [ N:15:55:07, C:0:05:03, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.1 MidnightTrader_MOD_Agreement_20160801.pdf
+
+NC: [ N:15:55:07, C:0:05:03, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.13.1 MidnightTrader_MOD_Agreement_20160801.pdf'.
+
+NC: [ N:15:55:07, C:0:05:03, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.1 MidnightTrader_MOD_Agreement_20160801.pdf'
+
+NC: [ N:15:55:08, C:0:05:04, I:0:00:01 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.1 MidnightTrader_MOD_Agreement_20160801.pdf'
+
+NC: [ N:15:55:12, C:0:05:08, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.1 MidnightTrader_MOD_Agreement_20160801.pdf'
+
+NC: [ N:15:55:12, C:0:05:08, I:0:00:00 ] 
+Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.8 Zacks/_attachments/3.6.4.1.8.1 20050908_WSOD_ZACKS Content Redistribution License Agreement_signed.pdf
+
+NC: [ N:15:55:12, C:0:05:08, I:0:00:00 ] 
+Begin extracting text from '3.6.4.1.8.1 20050908_WSOD_ZACKS Content Redistribution License Agreement_signed.pdf'.
+
+NC: [ N:15:55:12, C:0:05:08, I:0:00:00 ] 
+Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.8 Zacks/_attachments/3.6.4.1.8.1 20050908_WSOD_ZACKS Content Redistribution License Agreement_signed.pdf'
+
+NC: [ N:15:55:15, C:0:05:11, I:0:00:02 ] 
+ PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.8 Zacks/_attachments/3.6.4.1.8.1 20050908_WSOD_ZACKS Content Redistribution License Agreement_signed.pdf'
+
+NC: [ N:15:55:19, C:0:05:15, I:0:00:04 ] 
+Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.8 Zacks/_attachments/3.6.4.1.8.1 20050908_WSOD_ZACKS Content Redistribution License Agreement_signed.pdf'
+
+GREEN: [ N:15:55:53, C:0:05:49, I:0:00:34 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.4 SIX_MOD VDF Amendment_Executed 20090219.pdf'.
+
+GREEN: [ N:15:55:53, C:0:05:49, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/3.6.4.1.22.4 SIX_MOD VDF Amendment_Executed 20090219_clean.md'.
+
+GREEN: [ N:15:55:53, C:0:05:49, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.2 OPRA_MOD Distrib Declaration 20151218.pdf'.
+
+GREEN: [ N:15:55:53, C:0:05:49, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/3.6.4.1.9.2 OPRA_MOD Distrib Declaration 20151218_clean.md'.
+
+GREEN: [ N:15:55:53, C:0:05:49, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.9 SIX_MOD VDF Addend _3_Executed 20080901.pdf'.
+
+GREEN: [ N:15:55:53, C:0:05:49, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/3.6.4.1.22.9 SIX_MOD VDF Addend _3_Executed 20080901_clean.md'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:03 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.2 SIX_MOD MDF Addend _1_Executed 20090812.pdf'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/3.6.4.1.22.2 SIX_MOD MDF Addend _1_Executed 20090812_clean.md'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.11 SIX_MOD MDF Addend _2_Executed 20091008.pdf'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/3.6.4.1.22.11 SIX_MOD MDF Addend _2_Executed 20091008_clean.md'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.3 SIX_MOD VDF Extension Ltr_Executed 20110629.pdf'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/3.6.4.1.22.3 SIX_MOD VDF Extension Ltr_Executed 20110629_clean.md'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.1 SIX_MOD VDF Addend _13_Executed 20111102.pdf'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/3.6.4.1.22.1 SIX_MOD VDF Addend _13_Executed 20111102_clean.md'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.5 SIX_MOD VDF Addend _2_Executed 20090901.pdf'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/3.6.4.1.22.5 SIX_MOD VDF Addend _2_Executed 20090901_clean.md'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.1 Wall Street Horizon_WSOD_Schwab Renewal_20220503.pdf'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/3.6.4.1.11.1 Wall Street Horizon_WSOD_Schwab Renewal_20220503_clean.md'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.8 SIX_MOD VDF Addend _8_Executed 20101108.pdf'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/3.6.4.1.22.8 SIX_MOD VDF Addend _8_Executed 20101108_clean.md'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.10 SIX_MOD MDF Addend _4_Exdecuted 20100119.pdf'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/3.6.4.1.22.10 SIX_MOD MDF Addend _4_Exdecuted 20100119_clean.md'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.2 Ford Investor Services_MOD Addendum 20000417.pdf'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/3.6.4.1.19.2 Ford Investor Services_MOD Addendum 20000417_clean.md'.
+
+GREEN: [ N:15:55:57, C:0:05:53, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.2 Briefing_MOD Addendum 20090821.pdf'.
+
+GREEN: [ N:15:55:57, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/3.6.4.1.4.2 Briefing_MOD Addendum 20090821_clean.md'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.2 Morningstar_MOD_ProductLicenseAgreement_20190308.pdf'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/3.6.4.2.3.2 Morningstar_MOD_ProductLicenseAgreement_20190308_clean.md'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/_attachments/3.6.4.1.19.1 Ford Investor Services_MOD Service Bureau Agrmt Executed 19970708.pdf'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.19 Ford Research/3.6.4.1.19.1 Ford Investor Services_MOD Service Bureau Agrmt Executed 19970708_clean.md'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.2 20230930 SPGMI-MoD Benzinga Order Sched 1 Logos.pdf'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/3.6.4.2.1.2 20230930 SPGMI-MoD Benzinga Order Sched 1 Logos_clean.md'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1_clean.md'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.4 OPRA_MOD Distrib Declaration_Executed 20160112.pdf'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/3.6.4.1.9.4 OPRA_MOD Distrib Declaration_Executed 20160112_clean.md'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.18 Copp Clark/_attachments/3.6.4.1.18.1 20080211 - Copp Clark - WSOD - Holiday Calendar and Trading Hours - Data Agreements.pdf'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.18 Copp Clark/3.6.4.1.18.1 20080211 - Copp Clark - WSOD - Holiday Calendar and Trading Hours - Data Agreements_clean.md'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.2 MidnightTrader_MOD_Amendment1_20170601.pdf'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/3.6.4.1.13.2 MidnightTrader_MOD_Amendment1_20170601_clean.md'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.1 MSCI_MOD_IndexDistribution_US REIT_Schedule A_20090320.pdf'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/MSCI-Index-Data-3.6.4.1.14.2.1 MSCI_MOD_IndexDistribution_US REIT_Schedule A_20090320_clean.md'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.5 MSCI_MOD_IndexDistribution_Schedule A_20200924.pdf'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/MSCI-Index-Data-3.6.4.1.14.2.5 MSCI_MOD_IndexDistribution_Schedule A_20200924_clean.md'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1.pdf'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/3.6.4.1.2.1 20240115-SPGMI-Fincentric-OptionsPlay-Amendment_1_clean.md'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.3 OPRA_WSOD_VendorAgreement_20090102.pdf'.
+
+GREEN: [ N:15:55:58, C:0:05:54, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/3.6.4.1.9.3 OPRA_WSOD_VendorAgreement_20090102_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.2 MSCI_MOD_IndexDistribution_Schedule A_20200319.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/MSCI-Index-Data-3.6.4.1.14.2.2 MSCI_MOD_IndexDistribution_Schedule A_20200319_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.2 Wall Street Horizon_WSOD_Common Client Confirmation Letter_20220404.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/3.6.4.1.11.2 Wall Street Horizon_WSOD_Common Client Confirmation Letter_20220404_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.6 SIX_MOD VDF Addend _2'_Executed 20111001.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/3.6.4.1.22.6 SIX_MOD VDF Addend _2'_Executed 20111001_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.2 Schedule-EDVS_00298538.0_ FO_012122_Markit Digital_Revised_2-3-22 v2.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/MSCI-ESG-Data-3.6.4.1.14.1.2 Schedule-EDVS_00298538.0_ FO_012122_Markit Digital_Revised_2-3-22 v2_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.4 MSCI_MOD_IndexDistribution_ScheduleA_Amendment_20201013.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/MSCI-Index-Data-3.6.4.1.14.2.4 MSCI_MOD_IndexDistribution_ScheduleA_Amendment_20201013_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.4 ICE (BofA Indices)/_attachments/3.6.4.2.4.1 ICE_MGL_BofA Index Data Redistribution Agreement_20211102.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.4 ICE (BofA Indices)/3.6.4.2.4.1 ICE_MGL_BofA Index Data Redistribution Agreement_20211102_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.6 MSCI_MOD_IndexDistribution_Schedule A_20080922.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/MSCI-Index-Data-3.6.4.1.14.2.6 MSCI_MOD_IndexDistribution_Schedule A_20080922_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.12 Dow Jones Factiva/_attachments/3.6.4.1.12.1 WSOD_20091001_DowJones_Factiva License.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.12 Dow Jones Factiva/3.6.4.1.12.1 WSOD_20091001_DowJones_Factiva License_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.7 MSCI_MOD_IndexDistribution_Addendum_20090316.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/MSCI-Index-Data-3.6.4.1.14.2.7 MSCI_MOD_IndexDistribution_Addendum_20090316_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.1 SPDJI_MOD_MDA_OS7_20191201.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/3.6.4.1.7.1 SPDJI_MOD_MDA_OS7_20191201_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.6 LSEG Refinitiv/_attachments/3.6.4.1.6.1 WSOD_Reuters_Datascope_Master Addendum and OF_20021031.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.6 LSEG Refinitiv/3.6.4.1.6.1 WSOD_Reuters_Datascope_Master Addendum and OF_20021031_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.15 ValueLine/_attachments/3.6.4.1.15.1 Value Line_MOD SOW _2 Factset_Executed 20121206.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.15 ValueLine/3.6.4.1.15.1 Value Line_MOD SOW _2 Factset_Executed 20121206_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.3 Morningstar_MOD_ProductLicenseAgreement_20120901.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/3.6.4.2.3.3 Morningstar_MOD_ProductLicenseAgreement_20120901_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.2 Options Clearing Corp/_attachments/3.6.4.2.2.1 OCC_MGL Agreement Fully Executed 20120322.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.2 Options Clearing Corp/3.6.4.2.2.1 OCC_MGL Agreement Fully Executed 20120322_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.1 Cannex/_attachments/3.6.4.1.1.1 Cannex_MOD Cannex Service Agreement Executed 20070518.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.1 Cannex/3.6.4.1.1.1 Cannex_MOD Cannex Service Agreement Executed 20070518_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.1 Morningstar_MOD_ProductLicenseAgreement_20140501.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/3.6.4.2.3.1 Morningstar_MOD_ProductLicenseAgreement_20140501_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/_attachments/3.6.4.1.4.1 Briefing_MOD License Agreement Executed 20031201.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.4 Briefing/3.6.4.1.4.1 Briefing_MOD License Agreement Executed 20031201_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.17 Factset/_attachments/3.6.4.1.17.1 FactSet_MOD MSA 20060801.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.17 Factset/3.6.4.1.17.1 FactSet_MOD MSA 20060801_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.21 Morningnotes/_attachments/3.6.4.1.21.1 Morningnotes.com_WSOD Content Distribution Agreement Executed 20090314.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.21 Morningnotes/3.6.4.1.21.1 Morningnotes.com_WSOD Content Distribution Agreement Executed 20090314_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.20 MDM/_attachments/3.6.4.1.20.1 MarketData Management Solutions Corp MSA QuoteAudit 20090201.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.20 MDM/3.6.4.1.20.1 MarketData Management Solutions Corp MSA QuoteAudit 20090201_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/_attachments/3.6.4.1.9.1 OPRA_WSOD_PolicyDocument_Undated.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.9 OPRA/3.6.4.1.9.1 OPRA_WSOD_PolicyDocument_Undated_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/_attachments/3.6.4.2.1.1 20230804 SPGMI-MoD Benzinga Master Logos.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.1 Benzinga/3.6.4.2.1.1 20230804 SPGMI-MoD Benzinga Master Logos_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.5 Acquire Media/_attachments/3.6.4.1.5.1 Acquiremedia_MOD MLA Fully Executed 20060811.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.5 Acquire Media/3.6.4.1.5.1 Acquiremedia_MOD MLA Fully Executed 20060811_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/_attachments/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.2 OptionsPlay-2/3.6.4.1.2.2 20230815-SPGMI-MOD-OptionsPlay-ResellerAgreement_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.16 Econoday/_attachments/3.6.4.1.16.1 Econoday_MOD_Content Distribution Agrmt Executed 20070413.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.16 Econoday/3.6.4.1.16.1 Econoday_MOD_Content Distribution Agrmt Executed 20070413_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/_attachments/3.6.4.1.11.3 Wall Street Horizon_WSOD_Database Content Reseller Agreement_20050111.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.11 WallStreet Horizon/3.6.4.1.11.3 Wall Street Horizon_WSOD_Database Content Reseller Agreement_20050111_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.8 Zacks/_attachments/3.6.4.1.8.1 20050908_WSOD_ZACKS Content Redistribution License Agreement_signed.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.8 Zacks/3.6.4.1.8.1 20050908_WSOD_ZACKS Content Redistribution License Agreement_signed_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/_attachments/3.6.4.1.22.7 SIX_MOD MSA_Executed 20081001.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.22 SIX Financial/3.6.4.1.22.7 SIX_MOD MSA_Executed 20081001_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.3 TheStreet/_attachments/3.6.4.1.3.1 TheStreet.com_WSOD Research Firm Agreement Executed 20110223.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.3 TheStreet/3.6.4.1.3.1 TheStreet.com_WSOD Research Firm Agreement Executed 20110223_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-Index-Data-3.6.4.1.14.2.3 MSCI_MoD-IndexDistribution_Agreement_20080922.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/MSCI-Index-Data-3.6.4.1.14.2.3 MSCI_MoD-IndexDistribution_Agreement_20080922_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/_attachments/3.6.4.2.3.4 Morningstar_MGL_MasterAgreement_20120901.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-Spring-Exclusive-3.6.4.2.3 Morningstar/3.6.4.2.3.4 Morningstar_MGL_MasterAgreement_20120901_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/_attachments/3.6.4.1.13.1 MidnightTrader_MOD_Agreement_20160801.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.13 Midnight Trader/3.6.4.1.13.1 MidnightTrader_MOD_Agreement_20160801_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.10 Comtex/_attachments/3.6.4.1.10.1 Comtex MOD License Agreement--20130301.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.10 Comtex/3.6.4.1.10.1 Comtex MOD License Agreement--20130301_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/_attachments/MSCI-ESG-Data-3.6.4.1.14.1.1 Master-EDV_00298537.0_FO_012122_Markit Digital_Revised_2-3-22 v2.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.14 MSCI/MSCI-ESG-Data-3.6.4.1.14.1.1 Master-EDV_00298537.0_FO_012122_Markit Digital_Revised_2-3-22 v2_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/_attachments/3.6.4.1.7.2 SPDJI_MOD_MDA_20050401.pdf'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+PDF Successful cleaned and saved text to:
+[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Data Contracts/Data-Contract-3.6.4.1.7 S&P Dow Jones Indices/3.6.4.1.7.2 SPDJI_MOD_MDA_20050401_clean.md'.
+
+GREEN: [ N:15:55:59, C:0:05:55, I:0:00:00 ] 
+All documents processed.

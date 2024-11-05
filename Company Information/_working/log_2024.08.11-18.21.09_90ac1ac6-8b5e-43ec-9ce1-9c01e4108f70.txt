@@ -1,0 +1,380 @@
+[
+    [
+        "[ N:18:21:09, C:0:00:00, I:0:00:00 ]",
+        "PDF Files to Process: ['/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees.pdf']",
+        "YELLOW",
+        "\u001b[1;33m\n[ N:18:21:09, C:0:00:00, I:0:00:00 ] -> \n\u001b[1;31m[TRUNCATED LOG]\u001b[0m\nPDF Files to Process: ['/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf', '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/\u001b[0m -> \u001b[1;31m[truncated due to length] ...\u001b[0m"
+    ],
+    [
+        "[ N:18:21:09, C:0:00:00, I:0:00:00 ]",
+        "Image Files to Process: []",
+        "YELLOW",
+        "\u001b[1;33m\n[ N:18:21:09, C:0:00:00, I:0:00:00 ]\nImage Files to Process: []\u001b[0m"
+    ],
+    [
+        "[ N:18:21:09, C:0:00:00, I:0:00:00 ]",
+        "Office Document Files to Process: []",
+        "YELLOW",
+        "\u001b[1;33m\n[ N:18:21:09, C:0:00:00, I:0:00:00 ]\nOffice Document Files to Process: []\u001b[0m"
+    ],
+    [
+        "[ N:18:21:09, C:0:00:00, I:0:00:00 ]",
+        "Beginning processing of 6 files.",
+        "CYAN",
+        "\u001b[1;36m\n[ N:18:21:09, C:0:00:00, I:0:00:00 ]\nBeginning processing of 6 files.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:09, C:0:00:00, I:0:00:00 ]",
+        "Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf",
+        "NC",
+        "\u001b[0m\n[ N:18:21:09, C:0:00:00, I:0:00:00 ]\nBeginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf\u001b[0m"
+    ],
+    [
+        "[ N:18:21:09, C:0:00:00, I:0:00:00 ]",
+        "Begin extracting text from '2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf'.",
+        "NC",
+        "\u001b[0m\n[ N:18:21:09, C:0:00:00, I:0:00:00 ]\nBegin extracting text from '2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:09, C:0:00:00, I:0:00:00 ]",
+        "Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:09, C:0:00:00, I:0:00:00 ]\nBeginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:09, C:0:00:00, I:0:00:00 ]",
+        " PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:09, C:0:00:00, I:0:00:00 ]\n PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:10, C:0:00:01, I:0:00:01 ]",
+        "Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:10, C:0:00:01, I:0:00:01 ]\nCompleted  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:10, C:0:00:01, I:0:00:00 ]",
+        "Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees.pdf",
+        "NC",
+        "\u001b[0m\n[ N:18:21:10, C:0:00:01, I:0:00:00 ]\nBeginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees.pdf\u001b[0m"
+    ],
+    [
+        "[ N:18:21:10, C:0:00:01, I:0:00:00 ]",
+        "Begin extracting text from '2.1.5 Key Employees.pdf'.",
+        "NC",
+        "\u001b[0m\n[ N:18:21:10, C:0:00:01, I:0:00:00 ]\nBegin extracting text from '2.1.5 Key Employees.pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:10, C:0:00:01, I:0:00:00 ]",
+        "Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:10, C:0:00:01, I:0:00:00 ]\nBeginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:10, C:0:00:01, I:0:00:00 ]",
+        " PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:10, C:0:00:01, I:0:00:00 ]\n PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:11, C:0:00:02, I:0:00:01 ]",
+        "Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:11, C:0:00:02, I:0:00:01 ]\nCompleted  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:11, C:0:00:02, I:0:00:00 ]",
+        "Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf",
+        "NC",
+        "\u001b[0m\n[ N:18:21:11, C:0:00:02, I:0:00:00 ]\nBeginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf\u001b[0m"
+    ],
+    [
+        "[ N:18:21:11, C:0:00:02, I:0:00:00 ]",
+        "Begin extracting text from '2.1.4 Project Spring M&A Targets (March 2024).pdf'.",
+        "NC",
+        "\u001b[0m\n[ N:18:21:11, C:0:00:02, I:0:00:00 ]\nBegin extracting text from '2.1.4 Project Spring M&A Targets (March 2024).pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:11, C:0:00:02, I:0:00:00 ]",
+        "Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:11, C:0:00:02, I:0:00:00 ]\nBeginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:12, C:0:00:02, I:0:00:00 ]",
+        " PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:12, C:0:00:02, I:0:00:00 ]\n PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:15, C:0:00:05, I:0:00:02 ]",
+        "Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:15, C:0:00:05, I:0:00:02 ]\nCompleted  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:15, C:0:00:05, I:0:00:00 ]",
+        "Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf",
+        "NC",
+        "\u001b[0m\n[ N:18:21:15, C:0:00:05, I:0:00:00 ]\nBeginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf\u001b[0m"
+    ],
+    [
+        "[ N:18:21:15, C:0:00:05, I:0:00:00 ]",
+        "Begin extracting text from '2.1.3 Project Spring NPS Score Data.pdf'.",
+        "NC",
+        "\u001b[0m\n[ N:18:21:15, C:0:00:05, I:0:00:00 ]\nBegin extracting text from '2.1.3 Project Spring NPS Score Data.pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:15, C:0:00:05, I:0:00:00 ]",
+        "Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:15, C:0:00:05, I:0:00:00 ]\nBeginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:15, C:0:00:05, I:0:00:00 ]",
+        " PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:15, C:0:00:05, I:0:00:00 ]\n PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:16, C:0:00:07, I:0:00:01 ]",
+        "Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:16, C:0:00:07, I:0:00:01 ]\nCompleted  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:16, C:0:00:07, I:0:00:00 ]",
+        "Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf",
+        "NC",
+        "\u001b[0m\n[ N:18:21:16, C:0:00:07, I:0:00:00 ]\nBeginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf\u001b[0m"
+    ],
+    [
+        "[ N:18:21:16, C:0:00:07, I:0:00:00 ]",
+        "Begin extracting text from '2.1.6 Related Entities.pdf'.",
+        "NC",
+        "\u001b[0m\n[ N:18:21:16, C:0:00:07, I:0:00:00 ]\nBegin extracting text from '2.1.6 Related Entities.pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:16, C:0:00:07, I:0:00:00 ]",
+        "Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:16, C:0:00:07, I:0:00:00 ]\nBeginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:16, C:0:00:07, I:0:00:00 ]",
+        " PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:16, C:0:00:07, I:0:00:00 ]\n PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:17, C:0:00:08, I:0:00:01 ]",
+        "Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:17, C:0:00:08, I:0:00:01 ]\nCompleted  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:17, C:0:00:08, I:0:00:00 ]",
+        "Beginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf",
+        "NC",
+        "\u001b[0m\n[ N:18:21:17, C:0:00:08, I:0:00:00 ]\nBeginning assessment of PDF: /Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf\u001b[0m"
+    ],
+    [
+        "[ N:18:21:17, C:0:00:08, I:0:00:00 ]",
+        "Begin extracting text from '1.1.1 Project Spring - CIM vF.pdf'.",
+        "NC",
+        "\u001b[0m\n[ N:18:21:17, C:0:00:08, I:0:00:00 ]\nBegin extracting text from '1.1.1 Project Spring - CIM vF.pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:17, C:0:00:08, I:0:00:00 ]",
+        "Beginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:17, C:0:00:08, I:0:00:00 ]\nBeginning cong of PDF to images: '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:26, C:0:00:16, I:0:00:08 ]",
+        " PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:26, C:0:00:16, I:0:00:08 ]\n PDF Converted, Beginning  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:37, C:0:00:28, I:0:00:11 ]",
+        "Completed  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf'",
+        "NC",
+        "\u001b[0m\n[ N:18:21:37, C:0:00:28, I:0:00:11 ]\nCompleted  image multiprocessing for '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf'\u001b[0m"
+    ],
+    [
+        "[ N:18:21:39, C:0:00:30, I:0:00:01 ]",
+        "Split text into {len(sentences)} sentences | Beginning to clean text with Gemini...",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:39, C:0:00:30, I:0:00:01 ]\nSplit text into {len(sentences)} sentences | Beginning to clean text with Gemini...\u001b[0m"
+    ],
+    [
+        "[ N:18:21:39, C:0:00:30, I:0:00:00 ]",
+        "Split text into {len(sentences)} sentences | Beginning to clean text with Gemini...",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:39, C:0:00:30, I:0:00:00 ]\nSplit text into {len(sentences)} sentences | Beginning to clean text with Gemini...\u001b[0m"
+    ],
+    [
+        "[ N:18:21:39, C:0:00:30, I:0:00:00 ]",
+        "Split text into {len(sentences)} sentences | Beginning to clean text with Gemini...",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:39, C:0:00:30, I:0:00:00 ]\nSplit text into {len(sentences)} sentences | Beginning to clean text with Gemini...\u001b[0m"
+    ],
+    [
+        "[ N:18:21:39, C:0:00:30, I:0:00:00 ]",
+        "Split text into {len(sentences)} sentences | Beginning to clean text with Gemini...",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:39, C:0:00:30, I:0:00:00 ]\nSplit text into {len(sentences)} sentences | Beginning to clean text with Gemini...\u001b[0m"
+    ],
+    [
+        "[ N:18:21:40, C:0:00:30, I:0:00:00 ]",
+        "Split text into {len(sentences)} sentences | Beginning to clean text with Gemini...",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:40, C:0:00:30, I:0:00:00 ]\nSplit text into {len(sentences)} sentences | Beginning to clean text with Gemini...\u001b[0m"
+    ],
+    [
+        "[ N:18:21:41, C:0:00:31, I:0:00:01 ]",
+        "Split text into {len(sentences)} sentences | Beginning to clean text with Gemini...",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:41, C:0:00:31, I:0:00:01 ]\nSplit text into {len(sentences)} sentences | Beginning to clean text with Gemini...\u001b[0m"
+    ],
+    [
+        "[ N:18:21:42, C:0:00:33, I:0:00:01 ]",
+        "Time taken: 3 | 5 sentences. \n 6087 tokens used. 1217.4 average tokens per sentence. 2029.0 average tokens per second.",
+        "NC",
+        "\u001b[0m\n[ N:18:21:42, C:0:00:33, I:0:00:01 ]\nTime taken: 3 | 5 sentences. \n 6087 tokens used. 1217.4 average tokens per sentence. 2029.0 average tokens per second.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:42, C:0:00:33, I:0:00:00 ]",
+        "Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:42, C:0:00:33, I:0:00:00 ]\nSuccessfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart.pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:42, C:0:00:33, I:0:00:00 ]",
+        "PDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart_clean.md'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:42, C:0:00:33, I:0:00:00 ]\nPDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.2 Project Spring \u2013 Transaction Structure Chart_clean.md'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:47, C:0:00:37, I:0:00:04 ]",
+        "Time taken: 7 | 2 sentences. \n 11075 tokens used. 5537.5 average tokens per sentence. 1582.142857142857 average tokens per second.",
+        "NC",
+        "\u001b[0m\n[ N:18:21:47, C:0:00:37, I:0:00:04 ]\nTime taken: 7 | 2 sentences. \n 11075 tokens used. 5537.5 average tokens per sentence. 1582.142857142857 average tokens per second.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:47, C:0:00:37, I:0:00:00 ]",
+        "Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees.pdf'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:47, C:0:00:37, I:0:00:00 ]\nSuccessfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees.pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:47, C:0:00:37, I:0:00:00 ]",
+        "PDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees_clean.md'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:47, C:0:00:37, I:0:00:00 ]\nPDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.5 Key Employees_clean.md'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:49, C:0:00:39, I:0:00:02 ]",
+        "Time taken: 9 | 1 sentences. \n 14453 tokens used. 14453.0 average tokens per sentence. 1605.888888888889 average tokens per second.",
+        "NC",
+        "\u001b[0m\n[ N:18:21:49, C:0:00:39, I:0:00:02 ]\nTime taken: 9 | 1 sentences. \n 14453 tokens used. 14453.0 average tokens per sentence. 1605.888888888889 average tokens per second.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:49, C:0:00:39, I:0:00:00 ]",
+        "Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:49, C:0:00:39, I:0:00:00 ]\nSuccessfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities.pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:49, C:0:00:39, I:0:00:00 ]",
+        "PDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities_clean.md'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:49, C:0:00:39, I:0:00:00 ]\nPDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.6 Related Entities_clean.md'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:51, C:0:00:41, I:0:00:01 ]",
+        "Time taken: 11 | 1 sentences. \n 18021 tokens used. 18021.0 average tokens per sentence. 1638.2727272727273 average tokens per second.",
+        "NC",
+        "\u001b[0m\n[ N:18:21:51, C:0:00:41, I:0:00:01 ]\nTime taken: 11 | 1 sentences. \n 18021 tokens used. 18021.0 average tokens per sentence. 1638.2727272727273 average tokens per second.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:51, C:0:00:41, I:0:00:00 ]",
+        "Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:51, C:0:00:41, I:0:00:00 ]\nSuccessfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data.pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:21:51, C:0:00:41, I:0:00:00 ]",
+        "PDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data_clean.md'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:21:51, C:0:00:41, I:0:00:00 ]\nPDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.3 Project Spring NPS Score Data_clean.md'.\u001b[0m"
+    ],
+    [
+        "[ N:18:22:05, C:0:00:56, I:0:00:14 ]",
+        "Time taken: 25 | 19 sentences. \n 35534 tokens used. 1870.2105263157894 average tokens per sentence. 1421.36 average tokens per second.",
+        "NC",
+        "\u001b[0m\n[ N:18:22:05, C:0:00:56, I:0:00:14 ]\nTime taken: 25 | 19 sentences. \n 35534 tokens used. 1870.2105263157894 average tokens per sentence. 1421.36 average tokens per second.\u001b[0m"
+    ],
+    [
+        "[ N:18:22:05, C:0:00:56, I:0:00:00 ]",
+        "Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:22:05, C:0:00:56, I:0:00:00 ]\nSuccessfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024).pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:22:05, C:0:00:56, I:0:00:00 ]",
+        "PDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024)_clean.md'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:22:05, C:0:00:56, I:0:00:00 ]\nPDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/2.1.4 Project Spring M&A Targets (March 2024)_clean.md'.\u001b[0m"
+    ],
+    [
+        "[ N:18:22:38, C:0:01:29, I:0:00:33 ]",
+        "Error in get_gemini response: ",
+        "RED",
+        "\u001b[1;31m\n[ N:18:22:38, C:0:01:29, I:0:00:33 ]\nError in get_gemini response: \u001b[0m"
+    ],
+    [
+        "[ N:18:22:38, C:0:01:29, I:0:00:00 ]",
+        "Warning: Retrying request 1...",
+        "RED",
+        "\u001b[1;31m\n[ N:18:22:38, C:0:01:29, I:0:00:00 ]\nWarning: Retrying request 1...\u001b[0m"
+    ],
+    [
+        "[ N:18:24:25, C:0:03:15, I:0:01:46 ]",
+        "Error in get_gemini response: ",
+        "RED",
+        "\u001b[1;31m\n[ N:18:24:25, C:0:03:15, I:0:01:46 ]\nError in get_gemini response: \u001b[0m"
+    ],
+    [
+        "[ N:18:24:25, C:0:03:15, I:0:00:00 ]",
+        "Error: Failed to get response after 4 tries.",
+        "RED",
+        "\u001b[1;31m\n[ N:18:24:25, C:0:03:15, I:0:00:00 ]\nError: Failed to get response after 4 tries.\u001b[0m"
+    ],
+    [
+        "[ N:18:25:43, C:0:04:34, I:0:01:18 ]",
+        "Time taken: 242 | 182 sentences. \n 154158 tokens used. 847.021978021978 average tokens per sentence. 637.0165289256198 average tokens per second.",
+        "NC",
+        "\u001b[0m\n[ N:18:25:43, C:0:04:34, I:0:01:18 ]\nTime taken: 242 | 182 sentences. \n 154158 tokens used. 847.021978021978 average tokens per sentence. 637.0165289256198 average tokens per second.\u001b[0m"
+    ],
+    [
+        "[ N:18:25:43, C:0:04:34, I:0:00:00 ]",
+        "Successfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:25:43, C:0:04:34, I:0:00:00 ]\nSuccessfully extracted, standardized and cleaned text from '/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF.pdf'.\u001b[0m"
+    ],
+    [
+        "[ N:18:25:43, C:0:04:34, I:0:00:00 ]",
+        "PDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF_clean.md'.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:25:43, C:0:04:34, I:0:00:00 ]\nPDF Successful cleaned and saved text to:\n\u001b[1;36m'/Users/michasmi/Library/Mobile Documents/iCloud~md~obsidian/Documents/Notes By Michael/Communify/Company-General/1.1 Company Information/1.1.1 Project Spring - CIM vF_clean.md'.\u001b[0m"
+    ],
+    [
+        "[ N:18:25:43, C:0:04:34, I:0:00:00 ]",
+        "All documents processed.",
+        "GREEN",
+        "\u001b[1;32m\n[ N:18:25:43, C:0:04:34, I:0:00:00 ]\nAll documents processed.\u001b[0m"
+    ]
+]
