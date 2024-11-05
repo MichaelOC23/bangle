@@ -9,17 +9,15 @@ Tags:
 Title: 'Work Order No. 144: New Report API: Argus Options'
 ---
 
-##### Work Order No. 144: New Report API: Argus Options]
+##### Work Order No. 144: New Report API: Argus Options\]
 
-  
-````col
-```col-md
+```col
+
 flexGrow=.5
 ===
 > [!info] [Page 1](_attachments/images_Schwab-3.6.1.18.1300150191.pdf_211258/page_1.png)
 > ![](_attachments/images_Schwab-3.6.1.18.1300150191.pdf_211258/page_1.png)
-```  
-```col-md
+
 DocuSign Envelope ID: BC191DA4-DAG6F-4661-BDE5-78504B07D017  
 WORK ORDER NO. 144
 New Report API: Argus Options  
@@ -57,9 +55,11 @@ reports.
 Specifications, Requirements and Assumptions:  
 1  
 ```
-````
-Notes:    
-````col
+```
+
+Notes:
+
+```col
 ```col-md
 flexGrow=.5
 ===
@@ -107,9 +107,11 @@ Date”) 2022
 inputs, Contractor shall not be liable for delays caused by Schwab or its agents.  
 C. Acceptance Criteria.  
 ```
-````
-Notes:    
-````col
+```
+
+Notes:
+
+```col
 ```col-md
 flexGrow=.5
 ===
@@ -152,9 +154,11 @@ Dz. Invoices: Schwab will provide Contractor with a Purchase Order or contract
 control number (“Order Number”) for invoicing under this Work Order. Contractor agrees that it
 will provide the Order Number on each invoice and that no invoice will be considered validly  
 ```
-````
-Notes:    
-````col
+```
+
+Notes:
+
+```col
 ```col-md
 flexGrow=.5
 ===
@@ -177,8 +181,8 @@ Date: 1/4/2022 | 7:13 AM PST Date:
 ps
 | kT 12/28/2021 | 7:37 AM PST  
 ```
-````
-Notes:  
+```
 
+Notes:
 
-![[_attachments/Schwab-3.6.1.18.13 00150191.pdf]
+!\[\[\_attachments/Schwab-3.6.1.18.13 00150191.pdf\]
